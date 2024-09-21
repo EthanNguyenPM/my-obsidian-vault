@@ -11,11 +11,9 @@
             "id": "d6296dcefe5f8e3e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "test.md",
-                "mode": "source",
-                "source": false
+                "file": "03 - Resources/cute and motivative images/ACB78478-0C9B-4579-8FFA-251C3DE78F26.jpg"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test.md",
+                "file": "03 - Resources/cute and motivative images/ACB78478-0C9B-4579-8FFA-251C3DE78F26.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test.md",
+                "file": "03 - Resources/cute and motivative images/ACB78478-0C9B-4579-8FFA-251C3DE78F26.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test.md"
+                "file": "03 - Resources/cute and motivative images/ACB78478-0C9B-4579-8FFA-251C3DE78F26.jpg"
               }
             }
           },
@@ -169,13 +167,12 @@
   },
   "active": "d6296dcefe5f8e3e",
   "lastOpenFiles": [
+    "test.md",
     "03 - Resources/cute and motivative images/ACB78478-0C9B-4579-8FFA-251C3DE78F26.jpg",
     "01 - Projects/Read Digital Zettelkasten Book/David Kadavy - Digital Zettelkasten_ Principles, Methods, & Examples-Kadavy, Inc. (2021).epub",
     "01 - Projects/Read Digital Zettelkasten Book/David Kadavy - Digital Zettelkasten_ Principles, Methods, & Examples-Kadavy, Inc. (2021) 1.epub",
-    "test.md",
     "David Kadavy - Digital Zettelkasten_ Principles, Methods, & Examples-Kadavy, Inc. (2021).epub",
     "epub/test1.epub",
-    "test.md",
     "epub",
     "haha.md",
     "Epub/Tiago Forte - The PARA Method_ Simplify, Organize, and Master Your Digital Life-Simon and Schuster (2023) (1).epub",
