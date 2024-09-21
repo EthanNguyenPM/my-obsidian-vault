@@ -11,8 +11,12 @@
             "id": "d6296dcefe5f8e3e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "test.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "test.md"
+              }
             }
           },
           {
@@ -146,7 +154,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "remotely-save:Remotely Save": false,
       "daily-notes:Open today's daily note": false,
       "markdown-importer:Open format converter": false,
       "switcher:Open quick switcher": false,
@@ -162,6 +169,7 @@
   },
   "active": "dff8edb3026af615",
   "lastOpenFiles": [
+    "test.md",
     "David Kadavy - Digital Zettelkasten_ Principles, Methods, & Examples-Kadavy, Inc. (2021).epub",
     "epub/test1.epub",
     "test.md",
