@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "work skills websites.md",
+                "file": "03 - Resources/links for personal development/work skills websites.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "work skills websites.md",
+                "file": "03 - Resources/links for personal development/work skills websites.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "work skills websites.md",
+                "file": "03 - Resources/links for personal development/work skills websites.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "work skills websites.md"
+                "file": "03 - Resources/links for personal development/work skills websites.md"
               }
             }
           },
@@ -192,10 +192,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e6f6e0b700183166",
+  "active": "dff8edb3026af615",
   "lastOpenFiles": [
     "03 - Resources/address the issues/spotlight search useless for basic core apps.md",
-    "work skills websites.md",
+    "03 - Resources/links for personal development/work skills websites.md",
     "03 - Resources/links for personal development",
     "03 - Resources/address the issues/windowServer on Mac.md",
     "03 - Resources/guides and tutorials/how to summarize a youtube for free.md",
