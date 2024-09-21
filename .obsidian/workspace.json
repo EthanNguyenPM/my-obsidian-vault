@@ -11,8 +11,12 @@
             "id": "9eba50c0900a2fc2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "03 - Resources/address the issues/WindowServer on Mac.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "03 - Resources/address the issues/WindowServer on Mac.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "03 - Resources/address the issues/WindowServer on Mac.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "03 - Resources/address the issues/WindowServer on Mac.md"
+              }
             }
           },
           {
@@ -172,21 +180,27 @@
       "obsidian-kindle-plugin:Sync your Kindle highlights": false
     }
   },
-  "active": "9eba50c0900a2fc2",
+  "active": "dbe14d5657bb3253",
   "lastOpenFiles": [
-    "04 - Daily/2024/09-September/21-09-2024 - Saturday.md",
+    "03 - Resources/images in obsidian/Pasted image 20240921195155.png",
+    "03 - Resources/address the issues/WindowServer on Mac.md",
+    "03 - Resources/images in obsidian",
+    "03 - Resources/images in obsidian/Pasted image 20240921195850.png",
+    "03 - Resources/guides and tutorials/how to send to kindle.md",
+    "03 - Resources/books/Digital Zel.md",
+    "03 - Resources/address the issues",
     "03 - Resources/guides and tutorials/how to summarize a youtube for free.md",
+    "01 - Projects/Read Digital Zettelkasten Book/test.md",
+    "03 - Resources/books/books & reading.md",
+    "04 - Daily/2024/09-September/21-09-2024 - Saturday.md",
     "99 - Extras/99 - Extras.md",
     "05 - Archives/05 - Archives.md",
     "04 - Daily/04 - Daily.md",
     "03 - Resources/03 - Resources.md",
-    "03 - Resources/guides and tutorials/how to send to kindle.md",
-    "01 - Projects/Read Digital Zettelkasten Book/test.md",
     "00 - Inbox/00 - Inbox.md",
     "02 - Areas/02 - Areas.md",
     "01 - Projects/01 - Projects.md",
     "03 - Resources/cute and motivative images/ACB78478-0C9B-4579-8FFA-251C3DE78F26.jpg",
-    "03 - Resources/books & reading/books & reading.md",
     "kindle/kindle.md",
     "kindle",
     "Kindle.md",
@@ -204,13 +218,9 @@
     "epub",
     "haha.md",
     "Epub/Tiago Forte - The PARA Method_ Simplify, Organize, and Master Your Digital Life-Simon and Schuster (2023) (1).epub",
-    "Epub",
     "annotatoin.md",
-    "kinda",
     "01 - Projects/Read Build a Second Brain Book.md",
-    "03 - Resources/books & reading/book digital zettelkasten/book summaries.md",
     "ACB78478-0C9B-4579-8FFA-251C3DE78F26.jpg",
-    "01 - Projects/Send files to your Kindle library and sync them across all devices with the Kindle app..md",
     "Untitled.canvas"
   ]
 }
