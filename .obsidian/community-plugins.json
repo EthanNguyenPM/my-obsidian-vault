@@ -8,13 +8,13 @@
   "tag-wrangler",
   "settings-search",
   "obsidian-importer",
-  "obsidian-icon-folder",
-  "hk-code-block",
   "obsidian-relative-line-numbers",
   "obsidian-kanban",
   "templater-obsidian",
   "obsidian-full-calendar",
   "obsidian-annotator",
   "obsidian-epub-plugin",
-  "obsidian-git"
+  "obsidian-git",
+  "make-md",
+  "obsidian-linter"
 ]

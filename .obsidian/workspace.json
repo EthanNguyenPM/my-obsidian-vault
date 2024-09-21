@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "99c529c65143bca1",
+        "id": "ca003c28c04e8b85",
         "type": "tabs",
         "children": [
           {
-            "id": "d6296dcefe5f8e3e",
+            "id": "f6ca19ea2b44c76f",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "mk-space",
               "state": {
-                "file": "03 - Resources/cute and motivative images/ACB78478-0C9B-4579-8FFA-251C3DE78F26.jpg"
+                "path": "01 - Projects/Read Digital Zettelkasten Book"
               }
             }
           }
@@ -62,8 +62,17 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "6a523eb6bf56b102",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -83,7 +92,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Resources/cute and motivative images/ACB78478-0C9B-4579-8FFA-251C3DE78F26.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +108,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Resources/cute and motivative images/ACB78478-0C9B-4579-8FFA-251C3DE78F26.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,9 +129,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "03 - Resources/cute and motivative images/ACB78478-0C9B-4579-8FFA-251C3DE78F26.jpg"
-              }
+              "state": {}
             }
           },
           {
@@ -141,6 +146,18 @@
             "state": {
               "type": "git-view",
               "state": {}
+            }
+          },
+          {
+            "id": "19632d47d7a2d83e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
             }
           }
         ],
@@ -165,10 +182,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d6296dcefe5f8e3e",
+  "active": "6a523eb6bf56b102",
   "lastOpenFiles": [
-    "test.md",
+    "01 - Projects/01 - Projects.md",
+    "00 - Inbox/00 - Inbox.md",
+    "testsss.md",
+    "99 - Extras/99 - Extras.md",
+    "04 - Daily/04 - Daily.md",
+    "05 - Archives/05 - Archives.md",
+    "03 - Resources/03 - Resources.md",
+    "02 - Areas/02 - Areas.md",
+    "99 - Extras/Templates/Template, daily note template.md",
+    "03 - Resources/books & reading/books & reading.md",
     "03 - Resources/cute and motivative images/ACB78478-0C9B-4579-8FFA-251C3DE78F26.jpg",
+    "03 - Resources/guides and tutorials/how to send to kindle.md",
+    "Tags",
+    "test.md",
     "01 - Projects/Read Digital Zettelkasten Book/David Kadavy - Digital Zettelkasten_ Principles, Methods, & Examples-Kadavy, Inc. (2021).epub",
     "01 - Projects/Read Digital Zettelkasten Book/David Kadavy - Digital Zettelkasten_ Principles, Methods, & Examples-Kadavy, Inc. (2021) 1.epub",
     "David Kadavy - Digital Zettelkasten_ Principles, Methods, & Examples-Kadavy, Inc. (2021).epub",
@@ -179,30 +208,20 @@
     "Epub",
     "annotatoin.md",
     "kinda",
-    "03 - Resources/guides and tutorials/how to send to kindle.md",
     "01 - Projects/Read Build a Second Brain Book.md",
     "04 - Daily/2024/09-September/21-09-2024 - Saturday.md",
     "03 - Resources/guides and tutorials/how to summarize a youtube for free.md",
     "03 - Resources/books & reading/book digital zettelkasten/book summaries.md",
     "ACB78478-0C9B-4579-8FFA-251C3DE78F26.jpg",
     "03 - Resources/cute and motivative images",
-    "01 - Projects/Read Digital Zettelkasten Book",
     "01 - Projects/Send files to your Kindle library and sync them across all devices with the Kindle app..md",
     "01 - Projects/Set up workflow for more productive/Set up Obsidian.md",
-    "99 - Extras/Templates/Template, daily note template.md",
     "04 - Daily/2024/09-September/18-09-2024 - Wednesday.md",
     "My Tasks KanBan.md",
     "04 - Daily/2024/09-September/19-09-2024 - Thursday.md",
     "04 - Daily/2024/09-September/17-09-2024 - Tuesday.md",
     "04 - Daily/2024/09-September/17-09-2024-Tuesday.md",
     "04 - Daily/2024/09-September/18-09-2024-Wednesday.md",
-    "04 - Daily/2024/09-September/19-09-2024-Thursday.md",
-    "04 - Daily/2024/09-September/2024-09-18-Wednesday.md",
-    "Timestamps/2024/09-September/2024-09-19-Thursday.md",
-    "Timestamps/2024/09-September/2024-09-18-Wednesday.md",
-    "Timestamps/2024/09-September/2024-09-17-Tuesday.md",
-    "04 - Daily/2024/09-September/2024-09-17-Tuesday.md",
-    "04 - Daily/2024/09-September/2024-09-19-Thursday.md",
     "Untitled.canvas"
   ]
 }

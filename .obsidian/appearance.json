@@ -4,5 +4,6 @@
   "interfaceFontFamily": "JetBrains Mono NL",
   "enabledCssSnippets": [
     "status-bar-item"
-  ]
+  ],
+  "translucency": false
 }

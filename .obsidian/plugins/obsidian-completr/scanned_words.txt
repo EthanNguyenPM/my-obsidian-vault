@@ -100,6 +100,7 @@ cmY
 clg
 csL
 cXS
+color
 tags
 this
 the
@@ -307,6 +308,7 @@ hqd
 hlM
 hKI
 hAz
+here
 my
 moment
 modification
@@ -3220,6 +3222,7 @@ pXbW
 pHY
 pHG
 pYIs
+pink
 Notes
 Nv
 NI
@@ -4245,6 +4248,8 @@ vj
 vp
 vFC
 vaq
+visit
+var
 Build
 BASB
 BMP
