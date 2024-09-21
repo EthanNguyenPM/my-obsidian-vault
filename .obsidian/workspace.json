@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ca003c28c04e8b85",
+        "id": "d4aefe894da94ba9",
         "type": "tabs",
         "children": [
           {
-            "id": "f6ca19ea2b44c76f",
+            "id": "9eba50c0900a2fc2",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "01 - Projects/Read Digital Zettelkasten Book"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -62,17 +60,8 @@
               "type": "bookmarks",
               "state": {}
             }
-          },
-          {
-            "id": "6a523eb6bf56b102",
-            "type": "leaf",
-            "state": {
-              "type": "mk-path-view",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -179,23 +168,33 @@
       "obsidian-importer:Open Importer": false,
       "obsidian-kanban:Create new board": false,
       "obsidian-full-calendar:Open Full Calendar": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kindle-plugin:Sync your Kindle highlights": false
     }
   },
-  "active": "6a523eb6bf56b102",
+  "active": "9eba50c0900a2fc2",
   "lastOpenFiles": [
-    "01 - Projects/01 - Projects.md",
-    "00 - Inbox/00 - Inbox.md",
-    "testsss.md",
+    "04 - Daily/2024/09-September/21-09-2024 - Saturday.md",
+    "03 - Resources/guides and tutorials/how to summarize a youtube for free.md",
     "99 - Extras/99 - Extras.md",
-    "04 - Daily/04 - Daily.md",
     "05 - Archives/05 - Archives.md",
+    "04 - Daily/04 - Daily.md",
     "03 - Resources/03 - Resources.md",
-    "02 - Areas/02 - Areas.md",
-    "99 - Extras/Templates/Template, daily note template.md",
-    "03 - Resources/books & reading/books & reading.md",
-    "03 - Resources/cute and motivative images/ACB78478-0C9B-4579-8FFA-251C3DE78F26.jpg",
     "03 - Resources/guides and tutorials/how to send to kindle.md",
+    "01 - Projects/Read Digital Zettelkasten Book/test.md",
+    "00 - Inbox/00 - Inbox.md",
+    "02 - Areas/02 - Areas.md",
+    "01 - Projects/01 - Projects.md",
+    "03 - Resources/cute and motivative images/ACB78478-0C9B-4579-8FFA-251C3DE78F26.jpg",
+    "03 - Resources/books & reading/books & reading.md",
+    "kindle/kindle.md",
+    "kindle",
+    "Kindle.md",
+    "01 - Projects/Read Digital Zettelkasten Book/fdasf.md",
+    "01 - Projects/Read Digital Zettelkasten Book/Untitled.md",
+    "01 - Projects/Read Digital Zettelkasten Book/fdasfdsa.md",
+    "testsss.md",
+    "99 - Extras/Templates/Template, daily note template.md",
     "Tags",
     "test.md",
     "01 - Projects/Read Digital Zettelkasten Book/David Kadavy - Digital Zettelkasten_ Principles, Methods, & Examples-Kadavy, Inc. (2021).epub",
@@ -209,19 +208,9 @@
     "annotatoin.md",
     "kinda",
     "01 - Projects/Read Build a Second Brain Book.md",
-    "04 - Daily/2024/09-September/21-09-2024 - Saturday.md",
-    "03 - Resources/guides and tutorials/how to summarize a youtube for free.md",
     "03 - Resources/books & reading/book digital zettelkasten/book summaries.md",
     "ACB78478-0C9B-4579-8FFA-251C3DE78F26.jpg",
-    "03 - Resources/cute and motivative images",
     "01 - Projects/Send files to your Kindle library and sync them across all devices with the Kindle app..md",
-    "01 - Projects/Set up workflow for more productive/Set up Obsidian.md",
-    "04 - Daily/2024/09-September/18-09-2024 - Wednesday.md",
-    "My Tasks KanBan.md",
-    "04 - Daily/2024/09-September/19-09-2024 - Thursday.md",
-    "04 - Daily/2024/09-September/17-09-2024 - Tuesday.md",
-    "04 - Daily/2024/09-September/17-09-2024-Tuesday.md",
-    "04 - Daily/2024/09-September/18-09-2024-Wednesday.md",
     "Untitled.canvas"
   ]
 }
