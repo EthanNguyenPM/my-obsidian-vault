@@ -15,5 +15,6 @@
   "obsidian-annotator",
   "obsidian-epub-plugin",
   "obsidian-git",
-  "obsidian-linter"
+  "obsidian-linter",
+  "obsidian-pandoc"
 ]

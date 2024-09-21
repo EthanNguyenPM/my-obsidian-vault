@@ -105,6 +105,8 @@ changes
 ceU
 cGg
 cmC
+cause
+command
 tags
 this
 the
@@ -223,6 +225,7 @@ tNC
 txXc
 taking
 transparency
+terminal
 hello
 highlight
 hahahaha
@@ -324,6 +327,7 @@ hsX
 hcj
 hrf
 help
+have
 my
 moment
 modification
@@ -437,6 +441,8 @@ mTv
 mnc
 mkq
 mentioned
+macOS
+moved
 name
 night
 now
@@ -652,6 +658,9 @@ iCCPICC
 iae
 icons
 image
+issue
+index
+indexing
 Tan
 Thursday
 Tuesday
@@ -884,6 +893,7 @@ windows
 websites
 will
 works
+which
 What
 Wednesday
 Watch
@@ -994,6 +1004,7 @@ WindowServer
 Whenever
 Why
 With
+When
 become
 board
 bit
@@ -1217,6 +1228,7 @@ opfPK
 over
 open
 off
+output
 Cat
 Chrome
 Convert
@@ -1312,6 +1324,9 @@ Cue
 Craving
 CPU
 Close
+Calculator
+Calendar
+Catalina
 suck
 struggling
 ss
@@ -1445,6 +1460,11 @@ sYX
 screen
 saved
 store
+searching
+sometimes
+started
+similar
+shows
 xin
 xPhotoshop
 xk
@@ -2065,6 +2085,7 @@ application
 avoid
 apps
 above
+affects
 guess
 get
 gUp
@@ -2285,6 +2306,7 @@ development
 drawing
 desktops
 displays
+discussed
 fdsafddafdsaf
 fdsaf
 file
@@ -2405,6 +2427,10 @@ face
 folders
 focuses
 fewer
+fails
+find
+frustrating
+following
 YYYY
 You
 YouTube
@@ -2607,6 +2633,7 @@ Mge
 MNB
 MKW
 MacOs
+Monterey
 DD
 Daily
 Do
@@ -3124,6 +3151,8 @@ exj
 eXIfMM
 elements
 effects
+experience
+enabling
 right
 required
 readability
@@ -3237,6 +3266,8 @@ reJ
 responsible
 reduce
 redraw
+resolve
+running
 plan
 plugin
 pay
@@ -3355,6 +3386,8 @@ pHYs
 pZr
 pX
 process
+problem
+properly
 Notes
 Nv
 NI
@@ -3771,6 +3804,8 @@ Screenshot
 SOm
 Sn
 Spaces
+Spotlight
+Solution
 January
 JPG
 JPEG
@@ -4087,6 +4122,7 @@ Ppb
 Pjg
 Projects
 Profile
+Problem
 up
 using
 used
@@ -4192,6 +4228,8 @@ utW
 uqB
 undefined
 uI
+user
+upgrading
 Read
 RTF
 Requirements
@@ -4529,6 +4567,7 @@ BB
 Book
 BkB
 BbZ
+Built
 Kindle
 Km
 Kv
@@ -4933,6 +4972,7 @@ ErH
 ET
 EzJ
 Edc
+Enable
 Use
 Understand
 UN
