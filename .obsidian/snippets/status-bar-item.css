@@ -1,0 +1,72 @@
+div.status-bar-item.plugin-obsidian-vimrc-support {
+  /* Papercolor theme */
+  --text-color-normal: #585858;
+  --text-color-insert: #005f87;
+  --text-color-visual: white;
+  --text-color-replace: white;
+  --background-color-normal: #eeeeee;
+  --background-color-insert: #eeeeee;
+  --background-color-visual: #d75f00;
+  --background-color-replace: #d70087;
+}
+
+div.status-bar-item.plugin-obsidian-vimrc-support {
+  /*
+  Move to bottom left corner and discard top/left/bottom space
+  from container paddings.
+  */
+  order: -9999;
+  margin: -4px auto -5px -5px;
+  padding-right: 0px;
+  padding-left: 1em;
+  font-family: "MesloLGM Nerd Font Mono"; /* Use Monospace font */
+  font-weight: bold;
+  font-size: 1.2em;
+  border-top-right-radius: 0px;
+  border-bottom-right-radius: 0px;
+}
+
+div.status-bar-item.plugin-obsidian-vimrc-support:after {
+  /* Powerline separator character */
+  content: ""; /* This is a powerline glyph */
+  position: relative;
+  font-size: 1.5rem;
+  left: 0.9rem;
+  margin-top: 0.1rem;
+}
+
+/* Normal Mode */
+div.status-bar-item.vimrc-support-vim-mode[data-vim-mode="normal"]:after {
+  color: var(--background-color-normal);
+}
+div.status-bar-item.vimrc-support-vim-mode[data-vim-mode="normal"] {
+  color: var(--text-color-normal);
+  background-color: var(--background-color-normal);
+}
+
+/* Insert Mode */
+div.status-bar-item.vimrc-support-vim-mode[data-vim-mode="insert"]:after {
+  color: var(--background-color-insert);
+}
+div.status-bar-item.vimrc-support-vim-mode[data-vim-mode="insert"] {
+  color: var(--text-color-insert);
+  background-color: var(--background-color-insert);
+}
+
+/* Visual Mode */
+div.status-bar-item.vimrc-support-vim-mode[data-vim-mode="visual"]:after {
+  color: var(--background-color-visual);
+}
+div.status-bar-item.vimrc-support-vim-mode[data-vim-mode="visual"] {
+  color: var(--text-color-visual);
+  background-color: var(--background-color-visual);
+}
+
+/* Replace Mode */
+div.status-bar-item.vimrc-support-vim-mode[data-vim-mode="replace"]:after {
+  color: var(--background-color-replace);
+}
+div.status-bar-item.vimrc-support-vim-mode[data-vim-mode="replace"] {
+  color: var(--text-color-replace);
+  background-color: var(--background-color-replace);
+}

@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "ada2e72c0b606fda",
+    "type": "split",
+    "children": [
+      {
+        "id": "99c529c65143bca1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d6296dcefe5f8e3e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d63cbcaa8b70fdc4",
+    "type": "split",
+    "children": [
+      {
+        "id": "0364e7680e14743b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dff8edb3026af615",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2a147a50ff9f3521",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8fb1743a74c9ea40",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 377.5
+  },
+  "right": {
+    "id": "9d566625d0a20a94",
+    "type": "split",
+    "children": [
+      {
+        "id": "02851583070a359a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d24b00cd8ee9ba8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "696a8453d964be34",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b1a92d14d3f39f11",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "70474014a86e27dc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "0b049de8ed09e649",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "dbe14d5657bb3253",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "remotely-save:Remotely Save": false,
+      "daily-notes:Open today's daily note": false,
+      "markdown-importer:Open format converter": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "dff8edb3026af615",
+  "lastOpenFiles": [
+    "David Kadavy - Digital Zettelkasten_ Principles, Methods, & Examples-Kadavy, Inc. (2021).epub",
+    "epub/test1.epub",
+    "test.md",
+    "epub",
+    "haha.md",
+    "Epub/Tiago Forte - The PARA Method_ Simplify, Organize, and Master Your Digital Life-Simon and Schuster (2023) (1).epub",
+    "Epub",
+    "annotatoin.md",
+    "kinda",
+    "03 - Resources/guides and tutorials/how to send to kindle.md",
+    "01 - Projects/Read Build a Second Brain Book.md",
+    "04 - Daily/2024/09-September/21-09-2024 - Saturday.md",
+    "01 - Projects/Read Digital Zettelkasten Book/David Kadavy - Digital Zettelkasten_ Principles, Methods, & Examples-Kadavy, Inc. (2021) 1.epub",
+    "01 - Projects/Read Digital Zettelkasten Book/David Kadavy - Digital Zettelkasten_ Principles, Methods, & Examples-Kadavy, Inc. (2021).epub",
+    "03 - Resources/guides and tutorials/how to summarize a youtube for free.md",
+    "03 - Resources/cute and motivative images/ACB78478-0C9B-4579-8FFA-251C3DE78F26.jpg",
+    "03 - Resources/books & reading/book digital zettelkasten/book summaries.md",
+    "ACB78478-0C9B-4579-8FFA-251C3DE78F26.jpg",
+    "03 - Resources/cute and motivative images",
+    "01 - Projects/Read Digital Zettelkasten Book",
+    "01 - Projects/Send files to your Kindle library and sync them across all devices with the Kindle app..md",
+    "01 - Projects/Set up workflow for more productive/Set up Obsidian.md",
+    "99 - Extras/Templates/Template, daily note template.md",
+    "04 - Daily/2024/09-September/18-09-2024 - Wednesday.md",
+    "My Tasks KanBan.md",
+    "04 - Daily/2024/09-September/19-09-2024 - Thursday.md",
+    "04 - Daily/2024/09-September/17-09-2024 - Tuesday.md",
+    "04 - Daily/2024/09-September/17-09-2024-Tuesday.md",
+    "04 - Daily/2024/09-September/18-09-2024-Wednesday.md",
+    "04 - Daily/2024/09-September/19-09-2024-Thursday.md",
+    "04 - Daily/2024/09-September/2024-09-18-Wednesday.md",
+    "Timestamps/2024/09-September/2024-09-19-Thursday.md",
+    "Timestamps/2024/09-September/2024-09-18-Wednesday.md",
+    "Timestamps/2024/09-September/2024-09-17-Tuesday.md",
+    "04 - Daily/2024/09-September/2024-09-17-Tuesday.md",
+    "04 - Daily/2024/09-September/2024-09-19-Thursday.md",
+    "Untitled.canvas"
+  ]
+}

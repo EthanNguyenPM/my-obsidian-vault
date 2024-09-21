@@ -1,0 +1,8 @@
+{
+  "cssTheme": "Obsidian Nord",
+  "textFontFamily": "JetBrains Mono NL",
+  "interfaceFontFamily": "JetBrains Mono NL",
+  "enabledCssSnippets": [
+    "status-bar-item"
+  ]
+}
