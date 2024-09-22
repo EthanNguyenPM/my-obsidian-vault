@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Resources/macos configuration/config Wezterm for macos user.md",
+                "file": "99 - Extras/Templates/Template, daily note template.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dc4c71f5a41a9fbd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Areas/Personal Development/Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Resources/macos configuration/config Wezterm for macos user.md",
+                "file": "02 - Areas/Personal Development/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Resources/macos configuration/config Wezterm for macos user.md",
+                "file": "02 - Areas/Personal Development/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Resources/macos configuration/config Wezterm for macos user.md"
+                "file": "02 - Areas/Personal Development/Untitled.md"
               }
             }
           },
@@ -179,12 +192,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3374461ad54829de",
+  "active": "dc4c71f5a41a9fbd",
   "lastOpenFiles": [
+    "99 - Extras/Templates/Template, daily note template.md",
+    "02 - Areas/Personal Development/Untitled.md",
+    "03 - Resources/macos configuration/config Wezterm for macos user.md",
+    "01 - Projects/WezTerm Configuration",
     "03 - Resources/tips and tricks/download subfolder, subfile from Github.md",
     "03 - Resources/address the issues/windowServer on Mac.md",
     "03 - Resources/address the issues/spotlight search useless for basic core apps.md",
-    "03 - Resources/macos configuration/config Wezterm for macos user.md",
     "03 - Resources/books/Digital Zel.md",
     "03 - Resources/macos configuration",
     "03 - Resources/wallpapers macos/wallpaperflare.com_wallpaper.jpg",
@@ -205,7 +221,6 @@
     "03 - Resources/tips and tricks",
     "03 - Resources/links for personal development",
     "03 - Resources/guides and tutorials/how to summarize a youtube for free.md",
-    "99 - Extras/Templates/Template, daily note template.md",
     "03 - Resources/guides and tutorials/how to send to kindle.md",
     "03 - Resources/images in obsidian",
     "03 - Resources/address the issues",
@@ -220,13 +235,11 @@
     "02 - Areas/02 - Areas.md",
     "01 - Projects/01 - Projects.md",
     "kindle/kindle.md",
-    "kindle",
     "Kindle.md",
     "01 - Projects/Read Digital Zettelkasten Book/fdasf.md",
     "01 - Projects/Read Digital Zettelkasten Book/Untitled.md",
     "01 - Projects/Read Digital Zettelkasten Book/fdasfdsa.md",
     "testsss.md",
-    "test.md",
     "Untitled.canvas"
   ]
 }
