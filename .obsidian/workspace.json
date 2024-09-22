@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "f0017e0cc1f62a99",
+        "id": "f7682fc657056944",
         "type": "tabs",
         "children": [
           {
-            "id": "fbda06c95b46af5d",
+            "id": "3374461ad54829de",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Resources/address the issues/spotlight search useless for basic core apps.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "e6f6e0b700183166",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 - Resources/links for personal development/work skills websites.md",
+                "file": "03 - Resources/macos configuration/config Wezterm for macos user.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Resources/links for personal development/work skills websites.md",
+                "file": "03 - Resources/macos configuration/config Wezterm for macos user.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Resources/links for personal development/work skills websites.md",
+                "file": "03 - Resources/macos configuration/config Wezterm for macos user.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Resources/links for personal development/work skills websites.md"
+                "file": "03 - Resources/macos configuration/config Wezterm for macos user.md"
               }
             }
           },
@@ -192,20 +179,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dff8edb3026af615",
+  "active": "3374461ad54829de",
   "lastOpenFiles": [
-    "03 - Resources/address the issues/spotlight search useless for basic core apps.md",
-    "03 - Resources/links for personal development/work skills websites.md",
-    "03 - Resources/links for personal development",
+    "03 - Resources/tips and tricks/download subfolder, subfile from Github.md",
     "03 - Resources/address the issues/windowServer on Mac.md",
+    "03 - Resources/address the issues/spotlight search useless for basic core apps.md",
+    "03 - Resources/macos configuration/config Wezterm for macos user.md",
+    "03 - Resources/books/Digital Zel.md",
+    "03 - Resources/macos configuration",
+    "03 - Resources/wallpapers macos/wallpaperflare.com_wallpaper.jpg",
+    "03 - Resources/wallpapers macos/naruto.jpg",
+    "03 - Resources/wallpapers macos/wallpaperflare.com_wallpaper (2).jpg",
+    "03 - Resources/wallpapers macos/wallpaperflare.com_wallpaper (1).jpg",
+    "03 - Resources/wallpapers macos/wallpaperflare.com_wallpaper (3).jpg",
+    "03 - Resources/wallpapers macos/wallpaperflare.com_wallpaper (5).jpg",
+    "03 - Resources/wallpapers macos/wallpaperflare.com_wallpaper (6).jpg",
+    "03 - Resources/wallpapers macos/wallpaperflare.com_wallpaper (4).jpg",
+    "03 - Resources/images in obsidian/Pasted image 20240921195850.png",
+    "03 - Resources/images in obsidian/Pasted image 20240921195155.png",
+    "03 - Resources/wallpapers macos/Minimal Forest [FIXED].heic",
+    "03 - Resources/wallpapers macos/_Desert Sands_ by Louis Coyle.heic",
+    "03 - Resources/wallpapers macos",
+    "03 - Resources/untitled folder",
+    "03 - Resources/links for personal development/work skills websites.md",
+    "03 - Resources/tips and tricks",
+    "03 - Resources/links for personal development",
     "03 - Resources/guides and tutorials/how to summarize a youtube for free.md",
     "99 - Extras/Templates/Template, daily note template.md",
     "03 - Resources/guides and tutorials/how to send to kindle.md",
-    "03 - Resources/books/Digital Zel.md",
-    "03 - Resources/cute and motivative images/ACB78478-0C9B-4579-8FFA-251C3DE78F26.jpg",
-    "03 - Resources/images in obsidian/Pasted image 20240921195155.png",
     "03 - Resources/images in obsidian",
-    "03 - Resources/images in obsidian/Pasted image 20240921195850.png",
     "03 - Resources/address the issues",
     "01 - Projects/Read Digital Zettelkasten Book/test.md",
     "03 - Resources/books/books & reading.md",
@@ -224,16 +226,7 @@
     "01 - Projects/Read Digital Zettelkasten Book/Untitled.md",
     "01 - Projects/Read Digital Zettelkasten Book/fdasfdsa.md",
     "testsss.md",
-    "Tags",
     "test.md",
-    "01 - Projects/Read Digital Zettelkasten Book/David Kadavy - Digital Zettelkasten_ Principles, Methods, & Examples-Kadavy, Inc. (2021).epub",
-    "01 - Projects/Read Digital Zettelkasten Book/David Kadavy - Digital Zettelkasten_ Principles, Methods, & Examples-Kadavy, Inc. (2021) 1.epub",
-    "David Kadavy - Digital Zettelkasten_ Principles, Methods, & Examples-Kadavy, Inc. (2021).epub",
-    "epub/test1.epub",
-    "epub",
-    "haha.md",
-    "annotatoin.md",
-    "ACB78478-0C9B-4579-8FFA-251C3DE78F26.jpg",
     "Untitled.canvas"
   ]
 }
