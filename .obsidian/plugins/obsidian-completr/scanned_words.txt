@@ -509,6 +509,7 @@ changed
 columns
 concludes
 customization
+code
 tags
 this
 the
@@ -995,6 +996,7 @@ typically
 takes
 three
 then
+tables
 hello
 highlight
 hahahaha
@@ -1445,6 +1447,7 @@ handling
 htp
 heheH
 home
+heading
 my
 moment
 modification
@@ -1924,6 +1927,9 @@ modules
 mode
 minimal
 maximized
+markdown
+mark
+make
 name
 night
 now
@@ -2359,6 +2365,8 @@ nwP
 note
 nord
 notably
+numbers
+notes
 is
 im
 inside
@@ -2874,6 +2882,7 @@ implement
 individuals
 initializes
 include
+inline
 Tan
 Thursday
 Tuesday
@@ -3373,6 +3382,8 @@ Typescript
 Technologies
 There
 Tab
+Tables
+Task
 where
 what
 wait
@@ -3780,6 +3791,7 @@ workspace
 writing
 window
 when
+world
 What
 Wednesday
 Watch
@@ -4701,6 +4713,9 @@ backgrounds
 block
 bar
 behavior
+before
+backticks
+brackets
 of
 one
 on
@@ -5170,6 +5185,7 @@ opacity
 out
 option
 overview
+ordered
 Cat
 Chrome
 Convert
@@ -5673,6 +5689,7 @@ ChakraUi
 CommitMono
 Color
 Columns
+Code
 suck
 struggling
 ss
@@ -6191,6 +6208,14 @@ scheme
 sides
 starts
 setup
+section
+syntax
+symbol
+symbols
+starting
+same
+surround
+square
 xin
 xPhotoshop
 xk
@@ -7550,6 +7575,7 @@ Human
 Hybrid
 HTTP
 HRRb
+Headings
 you
 youtube
 your
@@ -8915,6 +8941,10 @@ appearance
 applied
 appears
 according
+add
+added
+apply
+advanced
 guess
 get
 gUp
@@ -9794,6 +9824,10 @@ dark
 defined
 decorations
 disabled
+detail
+determines
+dashes
+documentation
 fdsafddafdsaf
 fdsaf
 file
@@ -10288,6 +10322,8 @@ functions
 font
 fallback
 follows
+formatting
+fly
 YYYY
 You
 YouTube
@@ -11226,6 +11262,7 @@ Major
 Mono
 Maximizing
 Miscellaneous
+Markdown
 DD
 Daily
 Do
@@ -12620,6 +12657,7 @@ Location
 Linux
 Light
 Lua
+Lists
 One
 Obsidian
 Overview
@@ -13103,6 +13141,7 @@ Others
 Opacity
 Other
 Options
+Ordered
 excited
 easily
 email
@@ -13587,6 +13626,10 @@ example
 external
 environment
 emphasizes
+emphasis
+embed
+exclamation
+effectively
 right
 required
 readability
@@ -14486,6 +14529,7 @@ placeholder
 prompt
 prevent
 preferences
+pipes
 Notes
 Nv
 NI
@@ -15396,6 +15440,7 @@ libraries
 located
 light
 locale
+lists
 quote
 quite
 qp
@@ -17229,6 +17274,9 @@ Integrate
 Introduction
 INFORMATION
 Initial
+Images
+Inline
+Internal
 Planning
 Progress
 Plugins
@@ -17653,6 +17701,7 @@ Programming
 Python
 PLTE
 Padding
+Practice
 up
 using
 used
@@ -18104,6 +18153,7 @@ updates
 uses
 utility
 unavailable
+unordered
 Read
 RTF
 Requirements
@@ -19461,6 +19511,8 @@ BBB
 Background
 Behavior
 Bar
+Blockquotes
+Blocks
 Kindle
 Km
 Kv
@@ -20272,6 +20324,8 @@ Functionality
 Ffmpeg
 Functions
 Font
+For
+Footnotes
 GIF
 GE
 GZ
@@ -20703,6 +20757,7 @@ Grade
 Good
 Git
 GUI
+Goal
 EPUB
 Email
 Extension
@@ -21232,6 +21287,10 @@ EDUCATION
 Engineers
 English
 Environment
+Emphasis
+Example
+Explore
+External
 Use
 Understand
 UN
@@ -21899,6 +21958,7 @@ UNITED
 UNIVERSITY
 Uuh
 Utility
+Unordered
 just
 jf
 jW
