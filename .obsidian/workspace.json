@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stack allocation and deallocation.md",
+                "file": "03 - Resources/troubleshooting/windowServer on Mac.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stack allocation and deallocation.md",
+                "file": "03 - Resources/troubleshooting/windowServer on Mac.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stack allocation and deallocation.md",
+                "file": "03 - Resources/troubleshooting/windowServer on Mac.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stack allocation and deallocation.md"
+                "file": "03 - Resources/troubleshooting/windowServer on Mac.md"
               }
             }
           },
@@ -206,6 +206,8 @@
   },
   "active": "8e3c9e0f5525cd1c",
   "lastOpenFiles": [
+    "03 - Resources/troubleshooting/spotlight useless for core apps.md",
+    "Stack allocation and deallocation.md",
     "my files structure based on PARA method.md",
     "03 - Resources/wallpapers macos/wallpaperflare.com_wallpaper.jpg",
     "03 - Resources/wallpapers macos/wallpaperflare.com_wallpaper (1).jpg",
@@ -216,10 +218,8 @@
     "03 - Resources/images/general images/Pasted image 20240921195850.png",
     "02 - Areas/Career/Resume/TanThanhNguyenCV.docx",
     "02 - Areas/Personal Development/Skills/Useful websites for programing skills.md",
-    "Stack allocation and deallocation.md",
     "03 - Resources/tech tips/summarize a youtube for free.md",
     "03 - Resources/troubleshooting/windowServer on Mac.md",
-    "03 - Resources/troubleshooting/spotlight useless for core apps.md",
     "01 - Projects/WezTerm Configuration/WezTerm Configuration Notes.md",
     "01 - Projects/Read Digital Zettelkasten Book/notes.md",
     "03 - Resources/configuration/config Wezterm for macos user.md",
