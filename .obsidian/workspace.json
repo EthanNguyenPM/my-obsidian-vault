@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "my files structure based on PARA method.md",
+                "file": "Stack allocation and deallocation.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "my files structure based on PARA method.md",
+                "file": "Stack allocation and deallocation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "my files structure based on PARA method.md",
+                "file": "Stack allocation and deallocation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "my files structure based on PARA method.md"
+                "file": "Stack allocation and deallocation.md"
               }
             }
           },
@@ -194,6 +194,7 @@
   },
   "active": "42e066afe7d7d2e9",
   "lastOpenFiles": [
+    "my files structure based on PARA method.md",
     "Stack allocation and deallocation.md",
     "01 - Projects/WezTerm Configuration/WezTerm Configuration Notes.md",
     "01 - Projects/Read Digital Zettelkasten Book/notes.md",
@@ -206,7 +207,6 @@
     "03 - Resources/images/general images/Pasted image 20240921195155.png",
     "03 - Resources/troubleshooting/windowServer on Mac.md",
     "03 - Resources/troubleshooting/spotlight useless for core apps.md",
-    "my files structure based on PARA method.md",
     "03 - Resources/wallpapers macos/wallpaperflare.com_wallpaper.jpg",
     "03 - Resources/wallpapers macos/wallpaperflare.com_wallpaper (1).jpg",
     "03 - Resources/wallpapers macos/wallpaperflare.com_wallpaper (5).jpg",
