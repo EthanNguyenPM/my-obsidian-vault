@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Projects/Read the \"Digital Zettelkasten\" Book.md",
+                "file": "03 - Resources/cheatsheets/Markdown Syntax.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - Projects/Read the \"Digital Zettelkasten\" Book.md",
+                "file": "03 - Resources/cheatsheets/Markdown Syntax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - Projects/Read the \"Digital Zettelkasten\" Book.md",
+                "file": "03 - Resources/cheatsheets/Markdown Syntax.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - Projects/Read the \"Digital Zettelkasten\" Book.md"
+                "file": "03 - Resources/cheatsheets/Markdown Syntax.md"
               }
             }
           },
@@ -194,8 +194,8 @@
   },
   "active": "6e79d46fe1c77b2e",
   "lastOpenFiles": [
-    "02 - Areas/Entertainment/Movies to Watch.md",
     "01 - Projects/Read the \"Digital Zettelkasten\" Book.md",
+    "02 - Areas/Entertainment/Movies to Watch.md",
     "03 - Resources/templates/template, daily note template.md",
     "02 - Areas/Entertainment",
     "03 - Resources/troubleshooting/windowServer on Mac.md",

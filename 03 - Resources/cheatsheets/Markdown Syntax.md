@@ -93,9 +93,14 @@ For code blocks, use triple backticks (` ``` `).
 
 This is a code block.
 
-```javascript
-console.log("hello world")
-```
+````
+```json
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+````
 
 ### 8. **Tables**
 
@@ -126,3 +131,53 @@ This is a sentence with a footnote[^1].
 
 [^1]: This is the footnote text.
 ```
+
+### 11. **Horizontal Rule**
+
+You can create horizontal rules by using three or more dashes (`---`).
+
+```markdown
+---
+```
+
+---
+### 12. **Strikethrough**
+
+You can strike through text by wrapping it in double tildes (`~~`).
+
+```markdown
+~~This text is struck through~~
+```
+
+The rendered output looks like this:
+
+~~The world is flat~~. We now know that the world is round.
+
+### 13. **Highlight**
+
+This isn’t common, but some Markdown processors allow you to highlight text. The result looks ==like this==. To highlight words, use two equal signs (\==) before and after the words.
+
+```markdown
+I need to highlight these ==very important words==.
+```
+
+Alternatively, you can use the mark HTML tag.
+
+```
+I need to highlight these <mark>very important words</mark>.
+````
+
+I need to highlight these <mark>very important words</mark>.
+
+### 14. **Subscript and Superscript**
+
+You can create subscript using `~` and superscript using `^`.
+
+```markdown
+H<sub>2</sub>O  // Subscript
+X<sup>2</sup>   // Superscript
+```
+
+The result will be like below:
+- H<sub>2</sub>O
+- X<sup>2</sup>
