@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Resources/cheatsheets/Markdown Syntax.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6136bfe11072fc38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 - Resources/firefox tips/Speed up Firefox.md",
+                "file": "03 - Resources/tech tips/summarize a youtube video for free.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Resources/firefox tips/Speed up Firefox.md",
+                "file": "03 - Resources/tech tips/summarize a youtube video for free.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Resources/firefox tips/Speed up Firefox.md",
+                "file": "03 - Resources/tech tips/summarize a youtube video for free.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Resources/firefox tips/Speed up Firefox.md"
+                "file": "03 - Resources/tech tips/summarize a youtube video for free.md"
               }
             }
           },
@@ -192,26 +179,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6136bfe11072fc38",
+  "active": "9b4645355d2c636d",
   "lastOpenFiles": [
-    "Stack allocation and deallocation.md",
-    "03 - Resources/firefox tips/Speed up Firefox.md",
-    "my files structure based on PARA method.md",
-    "03 - Resources/cheatsheets/Markdown Syntax.md",
-    "03 - Resources/cheatsheets",
-    "03 - Resources/images/general images/Pasted image 20240924152154.png",
-    "03 - Resources/firefox tips",
-    "03 - Resources/templates/template, daily note template.md",
-    "01 - Projects/Mastering Markdown.md",
-    "01 - Projects/WezTerm Configuration/WezTerm Configuration Notes.md",
-    "01 - Projects/Read Digital Zettelkasten Book/notes.md",
     "03 - Resources/tech tips/send file to kindle.md",
-    "03 - Resources/tech tips/summarize a youtube for free.md",
     "03 - Resources/tech tips/download subfolder from Github.md",
     "03 - Resources/images/motivational images/ACB78478-0C9B-4579-8FFA-251C3DE78F26.jpg",
-    "03 - Resources/configuration/config Wezterm for macos user.md",
-    "02 - Areas/Personal Development/Skills/Useful websites for programing skills.md",
+    "03 - Resources/images/general images/Pasted image 20240924152154.png",
+    "03 - Resources/images/general images/Pasted image 20240921195850.png",
     "03 - Resources/images/general images/Pasted image 20240921195155.png",
+    "03 - Resources/configuration/WezTerm Configuration Notes.md",
+    "03 - Resources/configuration/config Wezterm for macos user.md",
+    "05 - Archives/Mastering Markdown.md",
+    "03 - Resources/cheatsheets/Markdown Syntax.md",
+    "04 - Daily/2024/09-September/18-09-2024 - Wednesday.md",
+    "03 - Resources/firefox tips/Speed up Firefox.md",
+    "Stack allocation and deallocation.md",
+    "my files structure based on PARA method.md",
+    "03 - Resources/cheatsheets",
+    "03 - Resources/firefox tips",
+    "03 - Resources/templates/template, daily note template.md",
+    "01 - Projects/Read Digital Zettelkasten Book/notes.md",
+    "03 - Resources/tech tips/summarize a youtube video for free.md",
+    "02 - Areas/Personal Development/Skills/Useful websites for programing skills.md",
     "03 - Resources/troubleshooting/windowServer on Mac.md",
     "03 - Resources/troubleshooting/spotlight useless for core apps.md",
     "03 - Resources/wallpapers macos/wallpaperflare.com_wallpaper.jpg",
@@ -219,7 +208,6 @@
     "03 - Resources/wallpapers macos/wallpaperflare.com_wallpaper (5).jpg",
     "03 - Resources/wallpapers macos/wallpaperflare.com_wallpaper (2).jpg",
     "03 - Resources/wallpapers macos/wallpaperflare.com_wallpaper (3).jpg",
-    "03 - Resources/images/general images/Pasted image 20240921195850.png",
     "02 - Areas/Career/Resume/TanThanhNguyenCV.docx",
     "04 - Daily/2024/09-September/22-09-2024 - Sunday.md",
     "03 - Resources/images",
@@ -238,7 +226,6 @@
     "03 - Resources/books/books & reading.md",
     "04 - Daily/2024/09-September/21-09-2024 - Saturday.md",
     "99 - Extras/99 - Extras.md",
-    "05 - Archives/05 - Archives.md",
     "Untitled.canvas"
   ]
 }
