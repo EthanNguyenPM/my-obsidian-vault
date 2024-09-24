@@ -4,25 +4,24 @@ This section will detail the key Markdown syntax you need to know.
 
 Table of Contents
 
-    Headings
-    Emphasis
-    Lists
-        Unordered Lists
-        Ordered Lists
-    Links
-        External Links
-        Internal Links
-    Images
-    Blockquotes
-    Code Blocks and Inline Code
-    Tables
-    Task Lists
-    Footnotes
-    Horizontal Rule
-    Strikethrough
-    Highlight
-    Subscript and Superscript
-
+1. [[#1. **Headings**|Headings]]
+2. [[#2. **Emphasis**|Emphasis]]
+3. [[#3. **Lists**|Lists]]
+	* [[#Unordered Lists|Unordered Lists]]
+	* [[#Ordered Lists]]
+4. [[#4. **Links**|Links]]
+	- [[#External links|External links]]
+	- [[#Internal links]]
+5. [[#5. **Images**|Images]]
+6. [[#6. **Blockquotes**|Blockquotes]]
+7. [[#7. **Code Blocks and Inline Code**|Code Blocks and Inline Code]]
+8. [[#8. **Tables**|Tables]]
+9. [[#9. **Task Lists**|Task Lists]]
+10. [[#10. **Footnotes**|Footnotes]]
+11. [[#11. **Horizontal Rule**|Horizontal Rule]]
+12. [[#12. **Strikethrough**|Strikethrough]]
+13. [[#13. **Highlight**|Highlight]]
+14. [[#14. **Subscript and Superscript**|Subscript and Superscript]]
 ---
 
 ### 1. **Headings**

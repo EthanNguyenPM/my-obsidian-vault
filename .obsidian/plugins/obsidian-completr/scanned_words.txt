@@ -1964,6 +1964,7 @@ mMkK
 mmA
 mcb
 mMA
+movies
 name
 night
 now
@@ -3435,6 +3436,7 @@ Type
 Tabs
 Tweaks
 TGZG
+Table
 where
 what
 wait
@@ -3848,6 +3850,7 @@ wYM
 wü
 wij
 words
+watch
 What
 Wednesday
 Watch
@@ -5769,6 +5772,7 @@ CPWj
 CwU
 Cad
 CGX
+Contents
 suck
 struggling
 ss
@@ -7694,6 +7698,8 @@ Hpt
 HGE
 Hmk
 Header
+Horizontal
+Highlight
 you
 youtube
 your
@@ -10480,6 +10486,7 @@ fly
 fiG
 firstName
 footnote
+future
 YYYY
 You
 YouTube
@@ -11428,6 +11435,8 @@ MEc
 MMRK
 MAo
 MvK
+Movies
+Meet
 DD
 Daily
 Do
@@ -11876,6 +11885,7 @@ DXR
 DdN
 DHZ
 Data
+Dave
 Questions
 Qa
 Qt
@@ -15647,6 +15657,7 @@ longer
 lSdP
 ldp
 lastName
+list
 quote
 quite
 qp
@@ -16573,6 +16584,8 @@ Srk
 Smith
 Subscript
 Superscript
+Strikethrough
+Sci
 January
 JPG
 JPEG
@@ -18882,6 +18895,9 @@ RvP
 RgV
 RqR
 Row
+Rule
+Recommendations
+Rewatch
 videos
 via
 video
@@ -20603,6 +20619,7 @@ Footnotes
 Free
 False
 FJg
+Friends
 GIF
 GE
 GZ
