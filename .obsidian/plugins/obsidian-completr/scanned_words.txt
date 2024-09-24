@@ -494,6 +494,21 @@ coding
 configuration
 customize
 calls
+components
+combination
+custom
+configurable
+chosen
+currently
+commented
+configurations
+close
+confirmation
+closing
+changed
+columns
+concludes
+customization
 tags
 this
 the
@@ -1429,6 +1444,7 @@ hiring
 handling
 htp
 heheH
+home
 my
 moment
 modification
@@ -1904,6 +1920,10 @@ member
 members
 makes
 motivating
+modules
+mode
+minimal
+maximized
 name
 night
 now
@@ -2336,6 +2356,9 @@ nXhy
 nor
 native
 nwP
+note
+nord
+notably
 is
 im
 inside
@@ -2850,6 +2873,7 @@ implemented
 implement
 individuals
 initializes
+include
 Tan
 Thursday
 Tuesday
@@ -3347,6 +3371,8 @@ Technology
 Trello
 Typescript
 Technologies
+There
+Tab
 where
 what
 wait
@@ -3752,6 +3778,8 @@ website
 watermarking
 workspace
 writing
+window
+when
 What
 Wednesday
 Watch
@@ -4205,6 +4233,9 @@ Wreflect
 WReflect
 WNu
 Websites
+Wallpaper
+Wallpapers
+Window
 become
 board
 bit
@@ -4665,6 +4696,11 @@ both
 bottleneck
 blogs
 bindings
+background
+backgrounds
+block
+bar
+behavior
 of
 one
 on
@@ -5130,6 +5166,10 @@ other
 oriented
 oYZ
 obsidian
+opacity
+out
+option
+overview
 Cat
 Chrome
 Convert
@@ -5630,6 +5670,9 @@ Computer
 CSS
 Component
 ChakraUi
+CommitMono
+Color
+Columns
 suck
 struggling
 ss
@@ -6141,6 +6184,13 @@ solved
 server
 sophisticated
 successfully
+sets
+specified
+size
+scheme
+sides
+starts
+setup
 xin
 xPhotoshop
 xk
@@ -7015,6 +7065,8 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ
 AkFL
 AXo
 Ahl
+Appearance
+Adjust
 Hi
 HH
 HTM
@@ -8860,6 +8912,9 @@ analytic
 addition
 also
 appearance
+applied
+appears
+according
 guess
 get
 gUp
@@ -9733,6 +9788,12 @@ days
 design
 displayed
 declares
+dynamically
+directory
+dark
+defined
+decorations
+disabled
 fdsafddafdsaf
 fdsaf
 file
@@ -10222,6 +10283,11 @@ familiar
 first
 facilitates
 function
+fetched
+functions
+font
+fallback
+follows
 YYYY
 You
 YouTube
@@ -11157,6 +11223,9 @@ Manipulation
 May
 MINH
 Major
+Mono
+Maximizing
+Miscellaneous
 DD
 Daily
 Do
@@ -11587,6 +11656,10 @@ DJango
 Docker
 DJQ
 DTi
+Directory
+Dark
+Decoration
+Disabling
 Questions
 Qa
 Qt
@@ -12545,6 +12618,8 @@ Libraries
 Languages
 Location
 Linux
+Light
+Lua
 One
 Obsidian
 Overview
@@ -13025,6 +13100,9 @@ Oup
 Oct
 Object
 Others
+Opacity
+Other
+Options
 excited
 easily
 email
@@ -13506,6 +13584,9 @@ enhanced
 ensures
 each
 example
+external
+environment
+emphasizes
 right
 required
 readability
@@ -13981,6 +14062,11 @@ real
 related
 reference
 respectively
+reviews
+retrieve
+resizeable
+resizing
+rows
 plan
 plugin
 pay
@@ -14392,6 +14478,14 @@ parameters
 passed
 pointer
 passing
+provided
+points
+path
+padding
+placeholder
+prompt
+prevent
+preferences
 Notes
 Nv
 NI
@@ -15300,6 +15394,8 @@ latest
 languages
 libraries
 located
+light
+locale
 quote
 quite
 qp
@@ -16205,6 +16301,8 @@ Scalability
 Skillset
 Science
 Styling
+Settings
+Scheme
 January
 JPG
 JPEG
@@ -16644,6 +16742,7 @@ Junior
 Jun
 Jul
 Javascript
+JetBrains
 Invalid
 In
 Install
@@ -17129,6 +17228,7 @@ Intern
 Integrate
 Introduction
 INFORMATION
+Initial
 Planning
 Progress
 Plugins
@@ -17552,6 +17652,7 @@ Practicing
 Programming
 Python
 PLTE
+Padding
 up
 using
 used
@@ -18000,6 +18101,9 @@ ukF
 upH
 utilizing
 updates
+uses
+utility
+unavailable
 Read
 RTF
 Requirements
@@ -18469,6 +18573,8 @@ Relative
 ReactJs
 RabbitMq
 Rxm
+Rows
+References
 videos
 via
 video
@@ -18900,6 +19006,8 @@ vPj
 vqKOO
 view
 value
+variable
+variables
 Build
 BASB
 BMP
@@ -19350,6 +19458,9 @@ Binh
 Bachelor
 Bootstrap
 BBB
+Background
+Behavior
+Bar
 Kindle
 Km
 Kv
@@ -20159,6 +20270,8 @@ FJBTG
 FhO
 Functionality
 Ffmpeg
+Functions
+Font
 GIF
 GE
 GZ
@@ -20589,6 +20702,7 @@ GraphQL
 Grade
 Good
 Git
+GUI
 EPUB
 Email
 Extension
@@ -21117,6 +21231,7 @@ Engineering
 EDUCATION
 Engineers
 English
+Environment
 Use
 Understand
 UN
@@ -21783,6 +21898,7 @@ UYQ
 UNITED
 UNIVERSITY
 Uuh
+Utility
 just
 jf
 jW
@@ -23501,6 +23617,7 @@ Video
 VIET
 VAN
 Vietnamese
+Variables
 XG
 XaF
 XZMX
