@@ -510,6 +510,9 @@ columns
 concludes
 customization
 code
+check
+click
+checked
 tags
 this
 the
@@ -997,6 +1000,9 @@ takes
 three
 then
 tables
+too
+tabs
+telemetry
 hello
 highlight
 hahahaha
@@ -1448,6 +1454,10 @@ htp
 heheH
 home
 heading
+hamburger
+history
+hardware
+hibernate
 my
 moment
 modification
@@ -1930,6 +1940,10 @@ maximized
 markdown
 mark
 make
+methods
+menu
+memory
+manually
 name
 night
 now
@@ -2367,6 +2381,7 @@ nord
 notably
 numbers
 notes
+needed
 is
 im
 inside
@@ -2883,6 +2898,11 @@ individuals
 initializes
 include
 inline
+improvements
+improve
+inactive
+identify
+improves
 Tan
 Thursday
 Tuesday
@@ -3384,6 +3404,9 @@ There
 Tab
 Tables
 Task
+Type
+Tabs
+Tweaks
 where
 what
 wait
@@ -4716,6 +4739,8 @@ behavior
 before
 backticks
 brackets
+boost
+browsing
 of
 one
 on
@@ -5186,6 +5211,7 @@ out
 option
 overview
 ordered
+outdated
 Cat
 Chrome
 Convert
@@ -5690,6 +5716,8 @@ CommitMono
 Color
 Columns
 Code
+Clearing
+Clear
 suck
 struggling
 ss
@@ -6216,6 +6244,13 @@ starting
 same
 surround
 square
+speed
+select
+space
+slow
+save
+software
+slowing
 xin
 xPhotoshop
 xk
@@ -7092,6 +7127,14 @@ AXo
 Ahl
 Appearance
 Adjust
+Always
+About
+Acceleration
+AMD
+Alternatively
+Auto
+Add
+Accessibility
 Hi
 HH
 HTM
@@ -7576,6 +7619,10 @@ Hybrid
 HTTP
 HRRb
 Headings
+Here
+Help
+History
+Hardware
 you
 youtube
 your
@@ -8945,6 +8992,11 @@ add
 added
 apply
 advanced
+acceleration
+automatically
+accessibility
+assistive
+accessing
 guess
 get
 gUp
@@ -9381,6 +9433,7 @@ gan
 gRPC
 great
 guy
+graphics
 don
 dffdsafa
 date
@@ -9828,6 +9881,10 @@ detail
 determines
 dashes
 documentation
+down
+driver
+drivers
+default
 fdsafddafdsaf
 fdsaf
 file
@@ -11263,6 +11320,10 @@ Mono
 Maximizing
 Miscellaneous
 Markdown
+Mozilla
+Memory
+Minimize
+Mode
 DD
 Daily
 Do
@@ -11697,6 +11758,10 @@ Directory
 Dark
 Decoration
 Disabling
+Driver
+Discard
+Disabled
+Disable
 Questions
 Qa
 Qt
@@ -13630,6 +13695,7 @@ emphasis
 embed
 exclamation
 effectively
+ensure
 right
 required
 readability
@@ -14110,6 +14176,12 @@ retrieve
 resizeable
 resizing
 rows
+remember
+release
+recommended
+remove
+refreshing
+restore
 plan
 plugin
 pay
@@ -14964,6 +15036,8 @@ NodeJs
 NextJs
 Nodejs
 Next
+Never
+NVIDIA
 last
 little
 leveraging
@@ -15441,6 +15515,7 @@ located
 light
 locale
 lists
+longer
 quote
 quite
 qp
@@ -16348,6 +16423,12 @@ Science
 Styling
 Settings
 Scheme
+Source
+Scroll
+Services
+Security
+Safe
+Set
 January
 JPG
 JPEG
@@ -17702,6 +17783,11 @@ Python
 PLTE
 Padding
 Practice
+Private
+Performance
+Prevent
+Privacy
+Permissions
 up
 using
 used
@@ -18154,6 +18240,9 @@ uses
 utility
 unavailable
 unordered
+updated
+update
+unnecessary
 Read
 RTF
 Requirements
@@ -18625,6 +18714,8 @@ RabbitMq
 Rxm
 Rows
 References
+Running
+Refresh
 videos
 via
 video
@@ -19058,6 +19149,7 @@ view
 value
 variable
 variables
+version
 Build
 BASB
 BMP
@@ -19513,6 +19605,7 @@ Behavior
 Bar
 Blockquotes
 Blocks
+Browsing
 Kindle
 Km
 Kv
@@ -20326,6 +20419,8 @@ Functions
 Font
 For
 Footnotes
+Free
+False
 GIF
 GE
 GZ
@@ -20758,6 +20853,8 @@ Good
 Git
 GUI
 Goal
+GPU
+Graphics
 EPUB
 Email
 Extension
@@ -21291,6 +21388,8 @@ Emphasis
 Example
 Explore
 External
+Ensure
+Extensions
 Use
 Understand
 UN
@@ -21959,6 +22058,8 @@ UNIVERSITY
 Uuh
 Utility
 Unordered
+Under
+Uncheck
 just
 jf
 jW

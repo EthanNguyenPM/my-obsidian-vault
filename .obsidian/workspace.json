@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Markdown Syntax.md",
+                "file": "03 - Resources/cheatsheets/Markdown Syntax.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6136bfe11072fc38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - Resources/firefox tips/Speed up Firefox.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Markdown Syntax.md",
+                "file": "03 - Resources/firefox tips/Speed up Firefox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Markdown Syntax.md",
+                "file": "03 - Resources/firefox tips/Speed up Firefox.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Markdown Syntax.md"
+                "file": "03 - Resources/firefox tips/Speed up Firefox.md"
               }
             }
           },
@@ -179,12 +192,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9b4645355d2c636d",
+  "active": "6136bfe11072fc38",
   "lastOpenFiles": [
-    "03 - Resources/templates/template, daily note template.md",
     "Stack allocation and deallocation.md",
-    "Markdown Syntax.md",
+    "03 - Resources/firefox tips/Speed up Firefox.md",
     "my files structure based on PARA method.md",
+    "03 - Resources/cheatsheets/Markdown Syntax.md",
+    "03 - Resources/cheatsheets",
+    "03 - Resources/images/general images/Pasted image 20240924152154.png",
+    "03 - Resources/firefox tips",
+    "03 - Resources/templates/template, daily note template.md",
     "01 - Projects/Mastering Markdown.md",
     "01 - Projects/WezTerm Configuration/WezTerm Configuration Notes.md",
     "01 - Projects/Read Digital Zettelkasten Book/notes.md",
@@ -211,22 +228,17 @@
     "02 - Areas/Personal Development/Skills",
     "02 - Areas/Personal Development/Skills.md",
     "02 - Areas/Career/Resume/Attachments/Attachment 1.png",
-    "02 - Areas/Career/Resume/Attachments/Attachment.png",
     "02 - Areas/Career/Resume/TanThanhNguyenCV.md",
     "02 - Areas/Career/Resume/Attachments",
     "02 - Areas/Career/Resume/TanThanhNguyenCV (1).docx",
     "02 - Areas/Career/Resume",
     "03 - Resources/code snippets",
     "03 - Resources/books",
-    "02 - Areas/Relationships",
-    "02 - Areas/Career",
     "03 - Resources/books/Digital Zel.md",
     "03 - Resources/books/books & reading.md",
     "04 - Daily/2024/09-September/21-09-2024 - Saturday.md",
     "99 - Extras/99 - Extras.md",
     "05 - Archives/05 - Archives.md",
-    "04 - Daily/04 - Daily.md",
-    "03 - Resources/03 - Resources.md",
     "Untitled.canvas"
   ]
 }
