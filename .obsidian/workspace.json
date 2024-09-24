@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6e79d46fe1c77b2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Projects/Read the \"Digital Zettelkasten\" Book.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.5
+    "width": 387.5
   },
   "right": {
     "id": "9d566625d0a20a94",
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Areas/Entertainment/Movies to Watch.md",
+                "file": "01 - Projects/Read the \"Digital Zettelkasten\" Book.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Areas/Entertainment/Movies to Watch.md",
+                "file": "01 - Projects/Read the \"Digital Zettelkasten\" Book.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Areas/Entertainment/Movies to Watch.md"
+                "file": "01 - Projects/Read the \"Digital Zettelkasten\" Book.md"
               }
             }
           },
@@ -179,10 +192,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9b4645355d2c636d",
+  "active": "6e79d46fe1c77b2e",
   "lastOpenFiles": [
-    "03 - Resources/templates/template, daily note template.md",
     "02 - Areas/Entertainment/Movies to Watch.md",
+    "01 - Projects/Read the \"Digital Zettelkasten\" Book.md",
+    "03 - Resources/templates/template, daily note template.md",
     "02 - Areas/Entertainment",
     "03 - Resources/troubleshooting/windowServer on Mac.md",
     "03 - Resources/troubleshooting/spotlight useless for core apps.md",
@@ -226,7 +240,6 @@
     "03 - Resources/books/Digital Zel.md",
     "03 - Resources/books/books & reading.md",
     "04 - Daily/2024/09-September/21-09-2024 - Saturday.md",
-    "99 - Extras/99 - Extras.md",
     "Untitled.canvas"
   ]
 }
