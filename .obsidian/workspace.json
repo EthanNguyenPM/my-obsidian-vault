@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Resources/tech tips/summarize a youtube video for free.md",
+                "file": "02 - Areas/Entertainment/Movies to Watch.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Resources/tech tips/summarize a youtube video for free.md",
+                "file": "02 - Areas/Entertainment/Movies to Watch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Resources/tech tips/summarize a youtube video for free.md",
+                "file": "02 - Areas/Entertainment/Movies to Watch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Resources/tech tips/summarize a youtube video for free.md"
+                "file": "02 - Areas/Entertainment/Movies to Watch.md"
               }
             }
           },
@@ -181,6 +181,12 @@
   },
   "active": "9b4645355d2c636d",
   "lastOpenFiles": [
+    "03 - Resources/templates/template, daily note template.md",
+    "02 - Areas/Entertainment/Movies to Watch.md",
+    "02 - Areas/Entertainment",
+    "03 - Resources/troubleshooting/windowServer on Mac.md",
+    "03 - Resources/troubleshooting/spotlight useless for core apps.md",
+    "03 - Resources/tech tips/summarize a youtube video for free.md",
     "03 - Resources/tech tips/send file to kindle.md",
     "03 - Resources/tech tips/download subfolder from Github.md",
     "03 - Resources/images/motivational images/ACB78478-0C9B-4579-8FFA-251C3DE78F26.jpg",
@@ -197,12 +203,8 @@
     "my files structure based on PARA method.md",
     "03 - Resources/cheatsheets",
     "03 - Resources/firefox tips",
-    "03 - Resources/templates/template, daily note template.md",
     "01 - Projects/Read Digital Zettelkasten Book/notes.md",
-    "03 - Resources/tech tips/summarize a youtube video for free.md",
     "02 - Areas/Personal Development/Skills/Useful websites for programing skills.md",
-    "03 - Resources/troubleshooting/windowServer on Mac.md",
-    "03 - Resources/troubleshooting/spotlight useless for core apps.md",
     "03 - Resources/wallpapers macos/wallpaperflare.com_wallpaper.jpg",
     "03 - Resources/wallpapers macos/wallpaperflare.com_wallpaper (1).jpg",
     "03 - Resources/wallpapers macos/wallpaperflare.com_wallpaper (5).jpg",
@@ -221,7 +223,6 @@
     "02 - Areas/Career/Resume/TanThanhNguyenCV (1).docx",
     "02 - Areas/Career/Resume",
     "03 - Resources/code snippets",
-    "03 - Resources/books",
     "03 - Resources/books/Digital Zel.md",
     "03 - Resources/books/books & reading.md",
     "04 - Daily/2024/09-September/21-09-2024 - Saturday.md",
