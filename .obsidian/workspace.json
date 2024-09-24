@@ -47,9 +47,11 @@
             "id": "60b6c50b58c66389",
             "type": "leaf",
             "state": {
-              "type": "docx-view",
+              "type": "markdown",
               "state": {
-                "file": "02 - Areas/Career/Resume/TanThanhNguyenCV.docx"
+                "file": "Stack allocation and deallocation.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -120,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Areas/Career/Resume/TanThanhNguyenCV.docx",
+                "file": "Stack allocation and deallocation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Areas/Career/Resume/TanThanhNguyenCV.docx",
+                "file": "Stack allocation and deallocation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Areas/Career/Resume/TanThanhNguyenCV.docx"
+                "file": "Stack allocation and deallocation.md"
               }
             }
           },
@@ -216,6 +218,7 @@
   },
   "active": "60b6c50b58c66389",
   "lastOpenFiles": [
+    "02 - Areas/Career/Resume/TanThanhNguyenCV.docx",
     "Stack allocation and deallocation.md",
     "03 - Resources/tech tips/summarize a youtube for free.md",
     "01 - Projects/WezTerm Configuration/WezTerm Configuration Notes.md",
@@ -242,7 +245,6 @@
     "02 - Areas/Personal Development/Courses.md",
     "02 - Areas/Personal Development/Skills",
     "02 - Areas/Personal Development/Skills.md",
-    "02 - Areas/Career/Resume/TanThanhNguyenCV.docx",
     "02 - Areas/Career/Resume/Attachments/Attachment 1.png",
     "02 - Areas/Career/Resume/Attachments/Attachment.png",
     "02 - Areas/Career/Resume/TanThanhNguyenCV.md",
@@ -261,7 +263,6 @@
     "04 - Daily/04 - Daily.md",
     "03 - Resources/03 - Resources.md",
     "00 - Inbox/00 - Inbox.md",
-    "02 - Areas/02 - Areas.md",
     "Untitled.canvas"
   ]
 }
