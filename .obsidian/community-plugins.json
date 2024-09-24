@@ -16,5 +16,6 @@
   "obsidian-epub-plugin",
   "obsidian-git",
   "obsidian-linter",
-  "obsidian-pandoc"
+  "obsidian-pandoc",
+  "docxer"
 ]

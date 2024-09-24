@@ -35,7 +35,6 @@ This should help Spotlight find your core apps by enabling indexing on `/System`
 ## Commands Explanation
 
 - **`sudo mdutil -sa`**
-	
     - `sudo`: Runs the command with administrative privileges.
     - `mdutil`: A command-line tool for managing Spotlight indexing.
     - `-s`: Displays the indexing status of volumes.
