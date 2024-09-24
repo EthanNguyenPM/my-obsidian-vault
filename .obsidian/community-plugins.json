@@ -18,5 +18,6 @@
   "obsidian-linter",
   "obsidian-pandoc",
   "docxer",
-  "obsidian-icon-folder"
+  "obsidian-icon-folder",
+  "obsidian-plugin-toc"
 ]

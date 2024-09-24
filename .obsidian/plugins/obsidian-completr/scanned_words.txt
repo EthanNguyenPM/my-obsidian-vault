@@ -518,6 +518,8 @@ cLM
 ciz
 cUo
 completed
+caret
+cheat
 tags
 this
 the
@@ -1013,6 +1015,8 @@ tmx
 tqA
 tuu
 tiC
+tildes
+triple
 hello
 highlight
 hahahaha
@@ -1472,6 +1476,8 @@ hYx
 hmmu
 hVy
 hae
+headings
+horizontal
 my
 moment
 modification
@@ -2931,6 +2937,8 @@ iTNIM
 iBtt
 iVY
 iMI
+internal
+ids
 Tan
 Thursday
 Tuesday
@@ -4785,6 +4793,8 @@ bvQ
 bci
 bKa
 bHUU
+blockquotes
+blocks
 of
 one
 on
@@ -5773,6 +5783,7 @@ CwU
 Cad
 CGX
 Contents
+Create
 suck
 struggling
 ss
@@ -6311,6 +6322,12 @@ sentence
 struck
 sub
 sup
+strikethrough
+signs
+subscript
+superscript
+shortcodes
+sheet
 xin
 xPhotoshop
 xk
@@ -9987,6 +10004,8 @@ dKQ
 drG
 dOU
 dSD
+double
+downloads
 fdsafddafdsaf
 fdsaf
 file
@@ -10487,6 +10506,8 @@ fiG
 firstName
 footnote
 future
+fenced
+footnotes
 YYYY
 You
 YouTube
@@ -11437,6 +11458,7 @@ MAo
 MvK
 Movies
 Meet
+MOC
 DD
 Daily
 Do
@@ -13827,6 +13849,9 @@ exclamation
 effectively
 ensure
 eNK
+equal
+emojis
+emoji
 right
 required
 readability
@@ -14315,6 +14340,7 @@ refreshing
 restore
 rVb
 result
+rules
 plan
 plugin
 pay
@@ -16586,6 +16612,8 @@ Subscript
 Superscript
 Strikethrough
 Sci
+Syntax
+Strike
 January
 JPG
 JPEG
@@ -17523,6 +17551,7 @@ Inline
 Internal
 IXM
 IDi
+Include
 Planning
 Progress
 Plugins
@@ -20620,6 +20649,7 @@ Free
 False
 FJg
 Friends
+Fenced
 GIF
 GE
 GZ
@@ -21055,6 +21085,7 @@ Goal
 GPU
 Graphics
 GmI
+Guide
 EPUB
 Email
 Extension
@@ -21590,6 +21621,8 @@ Explore
 External
 Ensure
 Extensions
+Embed
+Emoji
 Use
 Understand
 UN

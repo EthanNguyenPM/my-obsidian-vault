@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Resources/cheatsheets/Markdown Syntax.md",
-                "mode": "source",
+                "file": "Untitled.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Resources/cheatsheets/Markdown Syntax.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Resources/cheatsheets/Markdown Syntax.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Resources/cheatsheets/Markdown Syntax.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -181,11 +181,11 @@
   },
   "active": "9b4645355d2c636d",
   "lastOpenFiles": [
-    "02 - Areas/Entertainment/Movies to Watch.md",
-    "Headings.md",
     "03 - Resources/cheatsheets/Markdown Syntax.md",
     "Untitled.md",
     "01 - Projects/Read the \"Digital Zettelkasten\" Book.md",
+    "02 - Areas/Entertainment/Movies to Watch.md",
+    "Headings.md",
     "03 - Resources/templates/template, daily note template.md",
     "02 - Areas/Entertainment",
     "03 - Resources/troubleshooting/windowServer on Mac.md",
