@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Resources/tech tips/summarize a youtube for free.md",
+                "file": "Stack allocation and deallocation.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Resources/tech tips/summarize a youtube for free.md",
+                "file": "Stack allocation and deallocation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Resources/tech tips/summarize a youtube for free.md",
+                "file": "Stack allocation and deallocation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Resources/tech tips/summarize a youtube for free.md"
+                "file": "Stack allocation and deallocation.md"
               }
             }
           },
@@ -204,30 +204,30 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dbe14d5657bb3253",
+  "active": "8e3c9e0f5525cd1c",
   "lastOpenFiles": [
-    "Stack allocation and deallocation.md",
-    "02 - Areas/Personal Development/Skills/Useful websites for programing skills.md",
+    "my files structure based on PARA method.md",
+    "03 - Resources/wallpapers macos/wallpaperflare.com_wallpaper.jpg",
+    "03 - Resources/wallpapers macos/wallpaperflare.com_wallpaper (1).jpg",
+    "03 - Resources/wallpapers macos/wallpaperflare.com_wallpaper (5).jpg",
+    "03 - Resources/wallpapers macos/wallpaperflare.com_wallpaper (2).jpg",
+    "03 - Resources/wallpapers macos/wallpaperflare.com_wallpaper (3).jpg",
+    "03 - Resources/images/motivational images/ACB78478-0C9B-4579-8FFA-251C3DE78F26.jpg",
+    "03 - Resources/images/general images/Pasted image 20240921195850.png",
     "02 - Areas/Career/Resume/TanThanhNguyenCV.docx",
+    "02 - Areas/Personal Development/Skills/Useful websites for programing skills.md",
+    "Stack allocation and deallocation.md",
+    "03 - Resources/tech tips/summarize a youtube for free.md",
     "03 - Resources/troubleshooting/windowServer on Mac.md",
     "03 - Resources/troubleshooting/spotlight useless for core apps.md",
-    "03 - Resources/tech tips/summarize a youtube for free.md",
     "01 - Projects/WezTerm Configuration/WezTerm Configuration Notes.md",
     "01 - Projects/Read Digital Zettelkasten Book/notes.md",
     "03 - Resources/configuration/config Wezterm for macos user.md",
     "03 - Resources/tech tips/send file to kindle.md",
     "03 - Resources/tech tips/download subfolder from Github.md",
-    "my files structure based on PARA method.md",
     "04 - Daily/2024/09-September/22-09-2024 - Sunday.md",
     "03 - Resources/templates/template, daily note template.md",
-    "03 - Resources/wallpapers macos/wallpaperflare.com_wallpaper (5).jpg",
-    "03 - Resources/wallpapers macos/wallpaperflare.com_wallpaper (3).jpg",
-    "03 - Resources/wallpapers macos/wallpaperflare.com_wallpaper (2).jpg",
-    "03 - Resources/wallpapers macos/wallpaperflare.com_wallpaper (1).jpg",
-    "03 - Resources/wallpapers macos/wallpaperflare.com_wallpaper.jpg",
-    "03 - Resources/images/general images/Pasted image 20240921195850.png",
     "03 - Resources/images/general images/Pasted image 20240921195155.png",
-    "03 - Resources/images/motivational images/ACB78478-0C9B-4579-8FFA-251C3DE78F26.jpg",
     "03 - Resources/images",
     "01 - Projects/Read Digital Zettelkasten Book/test.md",
     "02 - Areas/Personal Development/Courses.md",
