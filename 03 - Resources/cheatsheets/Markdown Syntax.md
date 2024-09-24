@@ -1,5 +1,32 @@
 This section will detail the key Markdown syntax you need to know.
+
+---
+
+Table of Contents
+
+    Headings
+    Emphasis
+    Lists
+        Unordered Lists
+        Ordered Lists
+    Links
+        External Links
+        Internal Links
+    Images
+    Blockquotes
+    Code Blocks and Inline Code
+    Tables
+    Task Lists
+    Footnotes
+    Horizontal Rule
+    Strikethrough
+    Highlight
+    Subscript and Superscript
+
+---
+
 ### 1. **Headings**
+
 
 Headings in Markdown are created using the `#` symbol. The number of `#` symbols determines the heading level.
 

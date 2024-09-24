@@ -517,6 +517,7 @@ cqN
 cLM
 ciz
 cUo
+completed
 tags
 this
 the
@@ -3846,6 +3847,7 @@ wHr
 wYM
 wü
 wij
+words
 What
 Wednesday
 Watch
@@ -6301,6 +6303,10 @@ save
 software
 slowing
 slj
+sentence
+struck
+sub
+sup
 xin
 xPhotoshop
 xk
@@ -7687,6 +7693,7 @@ Hyc
 Hpt
 HGE
 Hmk
+Header
 you
 youtube
 your
@@ -9076,6 +9083,7 @@ aHP
 aZZa
 acgl
 aTu
+age
 guess
 get
 gUp
@@ -10470,6 +10478,8 @@ follows
 formatting
 fly
 fiG
+firstName
+footnote
 YYYY
 You
 YouTube
@@ -11865,6 +11875,7 @@ Dwg
 DXR
 DdN
 DHZ
+Data
 Questions
 Qa
 Qt
@@ -14293,6 +14304,7 @@ remove
 refreshing
 restore
 rVb
+result
 plan
 plugin
 pay
@@ -15634,6 +15646,7 @@ lists
 longer
 lSdP
 ldp
+lastName
 quote
 quite
 qp
@@ -16557,6 +16570,9 @@ Security
 Safe
 Set
 Srk
+Smith
+Subscript
+Superscript
 January
 JPG
 JPEG
@@ -17002,6 +17018,7 @@ Jsnc
 JxE
 JdX
 JvG
+John
 Invalid
 In
 Install
@@ -18864,6 +18881,7 @@ RqlF
 RvP
 RgV
 RqR
+Row
 videos
 via
 video
@@ -19303,6 +19321,7 @@ vMa
 vuw
 vez
 vCyE
+very
 Build
 BASB
 BMP
@@ -22642,6 +22661,7 @@ jDA
 javascript
 jFLS
 jhpKw
+json
 zg
 zI
 zr

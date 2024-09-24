@@ -30,9 +30,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3d69eb81d86829b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - Resources/cheatsheets/Markdown Syntax.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -192,8 +205,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6e79d46fe1c77b2e",
+  "active": "3d69eb81d86829b6",
   "lastOpenFiles": [
+    "Untitled.md",
+    "03 - Resources/cheatsheets/Markdown Syntax.md",
     "01 - Projects/Read the \"Digital Zettelkasten\" Book.md",
     "02 - Areas/Entertainment/Movies to Watch.md",
     "03 - Resources/templates/template, daily note template.md",
@@ -210,7 +225,6 @@
     "03 - Resources/configuration/WezTerm Configuration Notes.md",
     "03 - Resources/configuration/config Wezterm for macos user.md",
     "05 - Archives/Mastering Markdown.md",
-    "03 - Resources/cheatsheets/Markdown Syntax.md",
     "04 - Daily/2024/09-September/18-09-2024 - Wednesday.md",
     "03 - Resources/firefox tips/Speed up Firefox.md",
     "Stack allocation and deallocation.md",
@@ -239,7 +253,6 @@
     "03 - Resources/code snippets",
     "03 - Resources/books/Digital Zel.md",
     "03 - Resources/books/books & reading.md",
-    "04 - Daily/2024/09-September/21-09-2024 - Saturday.md",
     "Untitled.canvas"
   ]
 }
