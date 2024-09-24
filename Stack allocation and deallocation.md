@@ -11,5 +11,4 @@ This declares a function `void f(int& x, int*y, int z)` that takes three paramet
 - `y` is a pointer (using \*)
 - `z` is passed by value
 
-
 and `main()`, which initializes `i` to `4`, then calls function f, passing: (i by reference, address of i as a pointer, value of i) respectively.
