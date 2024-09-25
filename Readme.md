@@ -1,23 +1,29 @@
 This section will detail the key Markdown syntax you need to know.
 
-- [[#1. **Headings**|1. **Headings**]]
-- [[#2. **Emphasis**|2. **Emphasis**]]
-- [[#3. **Lists**|3. **Lists**]]
-	- [[#3. **Lists**#Unordered Lists|Unordered Lists]]
-	- [[#3. **Lists**#Ordered Lists|Ordered Lists]]
-- [[#4. **Links**|4. **Links**]]
-	- [[#4. **Links**#External links|External links]]
-	- [[#4. **Links**#Internal links|Internal links]]
-- [[#5. **Images**|5. **Images**]]
-- [[#6. **Blockquotes**|6. **Blockquotes**]]
-- [[#7. **Code Blocks and Inline Code**|7. **Code Blocks and Inline Code**]]
-- [[#8. **Tables**|8. **Tables**]]
-- [[#9. **Task Lists**|9. **Task Lists**]]
-- [[#10. **Footnotes**|10. **Footnotes**]]
-- [[#11. **Horizontal Rule**|11. **Horizontal Rule**]]
-- [[#12. **Strikethrough**|12. **Strikethrough**]]
-- [[#13. **Highlight**|13. **Highlight**]]
-- [[#14. **Subscript and Superscript**|14. **Subscript and Superscript**]]
+---
+
+Table of Contents
+
+1. [[#1. **Headings**|Headings]]
+2. [[#2. **Emphasis**|Emphasis]]
+3. [[#3. **Lists**|Lists]]
+	* [[#Unordered Lists|Unordered Lists]]
+	* [[#Ordered Lists]]
+4. [[#4. **Links**|Links]]
+	- [[#External links|External links]]
+	- [[#Internal links]]
+5. [[#5. **Images**|Images]]
+6. [[#6. **Blockquotes**|Blockquotes]]
+7. [[#7. **Code Blocks and Inline Code**|Code Blocks and Inline Code]]
+8. [[#8. **Tables**|Tables]]
+9. [[#9. **Task Lists**|Task Lists]]
+10. [[#10. **Footnotes**|Footnotes]]
+11. [[#11. **Horizontal Rule**|Horizontal Rule]]
+12. [[#12. **Strikethrough**|Strikethrough]]
+13. [[#13. **Highlight**|Highlight]]
+14. [[#14. **Subscript and Superscript**|Subscript and Superscript]]
+
+---
 
 ### 1. **Headings**
 

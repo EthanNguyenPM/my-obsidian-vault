@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
-                "mode": "preview",
+                "file": "Readme.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Readme.md"
               }
             }
           },
@@ -182,7 +182,7 @@
   "active": "9b4645355d2c636d",
   "lastOpenFiles": [
     "03 - Resources/cheatsheets/Markdown Syntax.md",
-    "Untitled.md",
+    "Readme.md",
     "01 - Projects/Read the \"Digital Zettelkasten\" Book.md",
     "02 - Areas/Entertainment/Movies to Watch.md",
     "Headings.md",
