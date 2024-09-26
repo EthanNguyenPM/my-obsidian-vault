@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "readme.md.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "readme.md.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "readme.md.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "readme.md.md"
+                "file": "README.md"
               }
             }
           },
@@ -220,7 +220,7 @@
   "active": "0ff62b2f45b0af68",
   "lastOpenFiles": [
     "03 - Resources/cheatsheets/Database Normalization.md",
-    "readme.md.md",
+    "README.md",
     "00 - Inbox/English vocab 25-9-2024.md",
     "Pasted Image 20240926095542_331.png",
     "Excalidraw/Drawing 2024-09-26 09.55.03.excalidraw.md",
