@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Resources/cheatsheets/Relational Database Normalization.md",
+                "file": "03 - Resources/cheatsheets/Database Normalization.md",
                 "mode": "source",
                 "source": false
               }
@@ -26,6 +26,18 @@
               "type": "markdown",
               "state": {
                 "file": "00 - Inbox/English vocab 25-9-2024.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0f7df991a4915b50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - Resources/cheatsheets/Markdown Syntax.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Resources/cheatsheets/Relational Database Normalization.md",
+                "file": "03 - Resources/cheatsheets/Database Normalization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Resources/cheatsheets/Relational Database Normalization.md",
+                "file": "03 - Resources/cheatsheets/Database Normalization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Resources/cheatsheets/Relational Database Normalization.md"
+                "file": "03 - Resources/cheatsheets/Database Normalization.md"
               }
             }
           },
@@ -188,19 +200,24 @@
       "obsidian-importer:Open Importer": false,
       "obsidian-kanban:Create new board": false,
       "obsidian-full-calendar:Open Full Calendar": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dbe14d5657bb3253",
+  "active": "ed0da9361ca10379",
   "lastOpenFiles": [
-    "03 - Resources/tech tips/summarize a youtube video for free.md",
+    "Excalidraw/Drawing 2024-09-26 09.55.03.excalidraw.md",
+    "Pasted Image 20240926095542_331.png",
+    "00 - Inbox/English vocab 25-9-2024.md",
+    "03 - Resources/cheatsheets/Database Normalization.md",
+    "Excalidraw",
     "03 - Resources/cheatsheets/Relational Database Normalization.md",
+    "03 - Resources/cheatsheets/Markdown Syntax.md",
+    "03 - Resources/tech tips/summarize a youtube video for free.md",
     "03 - Resources/Untitled",
     "01 - Projects/Read the \"Digital Zettelkasten\" Book.md",
-    "00 - Inbox/English vocab 25-9-2024.md",
     "01 - Projects/Wedding tables.md",
     "04 - Daily/2024/09-September/25-09-2024 - Wednesday.md",
-    "03 - Resources/cheatsheets/Markdown Syntax.md",
     "Headings.md",
     "Readme.md",
     "02 - Areas/Entertainment/Movies to Watch.md",
@@ -210,10 +227,10 @@
     "03 - Resources/troubleshooting/spotlight useless for core apps.md",
     "03 - Resources/tech tips/send file to kindle.md",
     "03 - Resources/tech tips/download subfolder from Github.md",
-    "03 - Resources/images/motivational images/ACB78478-0C9B-4579-8FFA-251C3DE78F26.jpg",
-    "03 - Resources/images/general images/Pasted image 20240924152154.png",
-    "03 - Resources/images/general images/Pasted image 20240921195850.png",
-    "03 - Resources/images/general images/Pasted image 20240921195155.png",
+    "03 - Resources/images bank/motivational images/ACB78478-0C9B-4579-8FFA-251C3DE78F26.jpg",
+    "03 - Resources/images bank/general images/Pasted image 20240924152154.png",
+    "03 - Resources/images bank/general images/Pasted image 20240921195850.png",
+    "03 - Resources/images bank/general images/Pasted image 20240921195155.png",
     "03 - Resources/configuration/WezTerm Configuration Notes.md",
     "03 - Resources/configuration/config Wezterm for macos user.md",
     "05 - Archives/Mastering Markdown.md",
@@ -224,21 +241,16 @@
     "03 - Resources/cheatsheets",
     "03 - Resources/firefox tips",
     "01 - Projects/Read Digital Zettelkasten Book/notes.md",
-    "02 - Areas/Personal Development/Skills/Useful websites for programing skills.md",
     "03 - Resources/wallpapers macos/wallpaperflare.com_wallpaper.jpg",
     "03 - Resources/wallpapers macos/wallpaperflare.com_wallpaper (1).jpg",
     "03 - Resources/wallpapers macos/wallpaperflare.com_wallpaper (5).jpg",
     "03 - Resources/wallpapers macos/wallpaperflare.com_wallpaper (2).jpg",
     "03 - Resources/wallpapers macos/wallpaperflare.com_wallpaper (3).jpg",
     "02 - Areas/Career/Resume/TanThanhNguyenCV.docx",
-    "04 - Daily/2024/09-September/22-09-2024 - Sunday.md",
-    "03 - Resources/images",
-    "01 - Projects/Read Digital Zettelkasten Book/test.md",
+    "03 - Resources/images bank",
     "02 - Areas/Personal Development/Skills",
-    "02 - Areas/Career/Resume/Attachments/Attachment 1.png",
     "02 - Areas/Career/Resume/Attachments",
     "02 - Areas/Career/Resume/TanThanhNguyenCV (1).docx",
-    "02 - Areas/Career/Resume",
     "Untitled.canvas"
   ]
 }

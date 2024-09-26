@@ -19,5 +19,8 @@
   "obsidian-pandoc",
   "docxer",
   "obsidian-icon-folder",
-  "obsidian-plugin-toc"
+  "obsidian-plugin-toc",
+  "obsidian-excalidraw-plugin",
+  "emera",
+  "obsidian-languagetool-plugin"
 ]

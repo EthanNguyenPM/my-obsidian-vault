@@ -12,10 +12,10 @@
   
 ##### Example Before 1NF (Non-Atomic Values):
 
-| CustomerID | CustomerName | PhoneNumbers         |
-|------------|--------------|----------------------|
-| 1          | Alice        | 123456, 654321       |
-| 2          | Bob          | 789012               |
+| CustomerID | CustomerName | PhoneNumbers   |
+| ---------- | ------------ | -------------- |
+| 1          | Alice        | 123456, 654321 |
+| 2          | Bob          | 789012         |
 
 - **Issue:** The `PhoneNumbers` column contains multiple values (non-atomic).
 
