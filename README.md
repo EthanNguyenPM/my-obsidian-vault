@@ -27,4 +27,4 @@ git clone https://github.com/ThanhTanPM2000/my-obsidian-vault.git
 ```
 
 2. **Open the repository with Obsidian App:**
-3. **Download [JetBrains Mono](https://www.jetbrains.com/lp/mono/) font in case you haven't had it yet**
+3. **(Optional) Download [JetBrains Mono](https://www.jetbrains.com/lp/mono/) font in case you haven't had it yet**
