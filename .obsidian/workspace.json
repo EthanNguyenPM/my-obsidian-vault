@@ -8,26 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ed0da9361ca10379",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 - Resources/Database/Normalization.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0ff62b2f45b0af68",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Resources/Database/Normalization.md",
+                "file": "01 - Projects/Read the \"Digital Zettelkasten\" Book.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           },
@@ -37,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Resources/Database/Normalization.md",
+                "file": "01 - Projects/Read the \"Digital Zettelkasten\" Book.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "41978fa7cba0d578",
@@ -92,7 +80,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Resources/Database/Normalization.md",
+                "file": "03 - Resources/Database/Fifth Normal Form.md",
                 "mode": "source",
                 "source": false
               }
@@ -165,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Resources/Database/Normalization.md",
+                "file": "03 - Resources/Database/Fifth Normal Form.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Resources/Database/Normalization.md",
+                "file": "03 - Resources/Database/Fifth Normal Form.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Resources/Database/Normalization.md"
+                "file": "03 - Resources/Database/Fifth Normal Form.md"
               }
             }
           },
@@ -260,18 +248,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dff8edb3026af615",
+  "active": "2025c937fd09b8cf",
   "lastOpenFiles": [
+    "01 - Projects/Read the \"Digital Zettelkasten\" Book.md",
+    "03 - Resources/Database/Normalization.md",
     "03 - Resources/Database/Fifth Normal Form.md",
     "03 - Resources/Database/Fourth Formal Form.md",
     "03 - Resources/Database/Third Normal Form.md",
     "03 - Resources/Database/Second Normal Form.md",
     "03 - Resources/Database/First Normal Form.md",
-    "03 - Resources/Database/Normalization.md",
     "03 - Resources/Database/Normalization Overview.md",
     "03 - Resources/Database",
     "02 - Areas/Career/Computer Science",
-    "01 - Projects/Read the \"Digital Zettelkasten\" Book.md",
     "01 - Projects/Wedding tables.md",
     "00 - Inbox/English vocab 25-9-2024.md",
     "README.md",
