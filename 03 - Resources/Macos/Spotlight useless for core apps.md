@@ -1,3 +1,18 @@
+---
+tags:
+  - macos
+  - spotlight
+  - troubleshooting
+  - howto
+  - system
+---
+---
+**TOC:
+- [[#Overview|Overview]]
+- [[#Problem|Problem]]
+- [[#Solution|Solution]]
+- [[#Commands Explanation|Commands Explanation]]
+---
 ## Overview
 
 - When searching for apps like Calculator or Calendar using Spotlight, it sometimes fails to find them.

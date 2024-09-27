@@ -1,3 +1,11 @@
+---
+tags:
+  - macos
+  - troubleshooting
+  - system
+  - explanation
+  - optimization
+---
 ## What is WindowServer on Mac
 
 - Whenever you're facing a lag in Mac Os, that's because the WindowServer taking a lot of CPU.

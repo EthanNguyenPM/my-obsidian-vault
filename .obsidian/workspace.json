@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bef9d9d8386ccbad",
+        "id": "91f5b1ad59f47beb",
         "type": "tabs",
         "children": [
           {
-            "id": "5bf164385904ba8f",
+            "id": "6d5c1e41cc02d34d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Resources/Tools/Download subfolder from Github.md",
+                "file": "03 - Resources/Database/Normalization Overview.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Resources/Tools/Download subfolder from Github.md",
+                "file": "03 - Resources/Database/Normalization Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Resources/Tools/Download subfolder from Github.md",
+                "file": "03 - Resources/Database/Normalization Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Resources/Tools/Download subfolder from Github.md"
+                "file": "03 - Resources/Database/Normalization Overview.md"
               }
             }
           },
@@ -180,44 +180,44 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5bf164385904ba8f",
+  "active": "6d5c1e41cc02d34d",
   "lastOpenFiles": [
+    "03 - Resources/Cheatsheets/Markdown Syntax.md",
+    "03 - Resources/Cheatsheets/Dataview Obsidian Syntax.md",
+    "02 - Areas/Personal Development/Skills/Useful websites for programing skills.md",
+    "01 - Projects/Wedding tables.md",
+    "01 - Projects/Read the \"Digital Zettelkasten\" Book.md",
+    "00 - Inbox/English vocab 25-9-2024.md",
+    "README.md",
+    "03 - Resources/Terminal/Terminal Configurations.md",
+    "03 - Resources/Terminal/WezTerm Configuration.md",
+    "03 - Resources/Macos/WindowServer on Mac.md",
+    "03 - Resources/Macos/Spotlight useless for core apps.md",
+    "03 - Resources/Images bank/Motivate images/ACB78478-0C9B-4579-8FFA-251C3DE78F26.jpg",
+    "03 - Resources/Github/Github Workflow Tips.md",
+    "03 - Resources/Tools/Download subfolder from Github.md",
     "+Daily Notes.md",
     "04 - Daily/2024/09-September/25-09-2024 - Wednesday.md",
     "04 - Daily/2024/09-September/22-09-2024 - Sunday.md",
     "04 - Daily/2024/09-September/21-09-2024 - Saturday.md",
     "04 - Daily/2024/09-September/18-09-2024 - Wednesday.md",
     "03 - Resources/templates/template, daily note template.md",
-    "03 - Resources/Cheatsheets/Dataview Obsidian Syntax.md",
-    "03 - Resources/Github/Github Workflow Tips.md",
     "03 - Resources/FireFox/Speed up Firefox.md",
-    "03 - Resources/Cheatsheets/Markdown Syntax.md",
     "03 - Resources/Obsidian",
-    "03 - Resources/Tools/Download subfolder from Github.md",
-    "03 - Resources/troubleshooting/Spotlight useless for core apps.md",
     "03 - Resources/Images bank/Pasted images/Pasted image 20240921195850.png",
     "03 - Resources/Images bank/Pasted images/Pasted image 20240921195155.png",
     "03 - Resources/Tools/Send file to kindle.md",
     "03 - Resources/Github",
     "03 - Resources/Tools/Summarize a youtube video for free.md",
-    "03 - Resources/Terminal/WezTerm Configuration.md",
-    "03 - Resources/Terminal/Terminal Configurations.md",
     "03 - Resources/Database/Fifth Normal Form.md",
     "03 - Resources/Database/First Normal Form.md",
     "03 - Resources/Database/Fourth Formal Form.md",
     "03 - Resources/Database/Normalization Overview.md",
-    "03 - Resources/Database/Second Normal Form.md",
-    "03 - Resources/Database/Third Normal Form.md",
-    "03 - Resources/cheatsheets/Relational Database Normalization.md",
-    "01 - Projects/Read the \"Digital Zettelkasten\" Book.md",
-    "03 - Resources/Database/Normalization.md",
     "03 - Resources/Database",
     "02 - Areas/Career/Computer Science",
-    "01 - Projects/Wedding tables.md",
     "Pasted Image 20240926095542_331.png",
     "Excalidraw",
     "02 - Areas/Entertainment",
-    "03 - Resources/Images bank/Motivate images/ACB78478-0C9B-4579-8FFA-251C3DE78F26.jpg",
     "03 - Resources/Images bank/Pasted images/Pasted image 20240924152154.png",
     "03 - Resources/Cheatsheets",
     "03 - Resources/FireFox",

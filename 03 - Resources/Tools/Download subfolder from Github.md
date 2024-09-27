@@ -2,7 +2,7 @@
 tags:
   - github
   - howto
-  - tools
+  - tips
 ---
 ---
 **TOC:
