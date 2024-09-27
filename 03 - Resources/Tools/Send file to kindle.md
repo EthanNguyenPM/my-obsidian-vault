@@ -1,3 +1,18 @@
+---
+tags:
+  - kindle
+  - howto
+  - tools
+---
+---
+**TOC:
+- [[#Overview|Overview]]
+- [[#Supported File Types|Supported File Types]]
+- [[#Methods to Send Files|Methods to Send Files]]
+- [[#Requirements|Requirements]]
+- [[#Tips|Tips]]
+- [[#Additional Resources|Additional Resources]]
+---
 ## Overview
 
 Amazon's Send to Kindle feature allows you to easily send documents to your Kindle library and access them on your Kindle device or app.

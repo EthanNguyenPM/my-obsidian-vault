@@ -11,7 +11,7 @@ For more on database normalization, see below:
 - Read previous: [[Third Normal Form]]
 - [[Normalization Overview]]
 ---
-TOC:
+**TOC:
 - [[#Overview|Overview]]
 - [[#1. Consider the example|1. Consider the example]]
 - [[#2. The Model_Colors_And_Styles_Available Table|2. The Model_Colors_And_Styles_Available Table]]

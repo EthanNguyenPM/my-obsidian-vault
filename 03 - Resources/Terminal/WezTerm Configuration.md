@@ -1,3 +1,22 @@
+---
+tags:
+  - wezterm
+  - terminal
+  - terminal-config
+  - lua
+  - config
+---
+---
+**TOC:
+- [[#Configuration File Location|Configuration File Location]]
+- [[#Background and Wallpaper|Background and Wallpaper]]
+- [[#Font and Appearance|Font and Appearance]]
+- [[#Environment Variables|Environment Variables]]
+- [[#Window Behavior|Window Behavior]]
+- [[#Miscellaneous Options|Miscellaneous Options]]
+- [[#References|References]]
+---
+
 This note reviews the key components of the provided `wezterm.lua` configuration file.
 
 ## Configuration File Location
@@ -159,3 +178,4 @@ This concludes the overview of the WezTerm configuration. It emphasizes appearan
 
 - [Youtube link](https://youtu.be/hqP0XdB7VcA) 
 - [Github](https://github.com/joshmedeski/dotfiles/tree/main/.config/wezterm)
+- For more terminal configuration examples, check out my [[Terminal Configurations]].

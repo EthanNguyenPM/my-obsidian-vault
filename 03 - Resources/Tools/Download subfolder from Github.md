@@ -1,3 +1,16 @@
+---
+tags:
+  - github
+  - howto
+  - tools
+---
+---
+**TOC:
+- [[#Website|Website]]
+- [[#Purpose|Purpose]]
+- [[#How to Use|How to Use]]
+- [[#Benefits|Benefits]]
+---
 ## Website
 
 - **URL:** [GitHub Folder Downloader](https://download-directory.github.io/)

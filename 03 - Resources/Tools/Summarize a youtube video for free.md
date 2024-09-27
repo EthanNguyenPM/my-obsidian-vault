@@ -1,3 +1,15 @@
+---
+tags:
+  - youtube
+  - summarization
+  - tools
+  - howto
+---
+---
+**TOC:
+- [[#Overview|Overview]]
+- [[#Tips|Tips]]
+---
 ## Overview
 
 - While there are many tools and services available for summarizing YouTube videos, most require payment or a subscription.

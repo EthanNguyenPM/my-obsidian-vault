@@ -10,7 +10,7 @@ For more on database normalization, see below:
 - Read next: [[Second Normal Form]]
 - [[Normalization Overview]]
 ---
-TOC:
+**TOC:
 - [[#1. Using row order to convey information violates 1NF|1. Using row order to convey information violates 1NF]]
 - [[#2. Mixing data types within same column violates 1NF|2. Mixing data types within same column violates 1NF]]
 - [[#3. A Table without primary key violates 1NF|3. A Table without primary key violates 1NF]]

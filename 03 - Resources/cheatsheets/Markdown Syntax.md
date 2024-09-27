@@ -1,3 +1,9 @@
+---
+tags:
+  - syntax
+  - markdown
+  - reference
+---
 This section will detail the key Markdown syntax you need to know.
 
 ---
@@ -24,9 +30,8 @@ Table of Contents
 14. [[#14. **Subscript and Superscript**|Subscript and Superscript]]
 
 ---
-
 ### 1. **Headings**
-
+	
 
 Headings in Markdown are created using the `#` symbol. The number of `#` symbols determines the heading level.
 
