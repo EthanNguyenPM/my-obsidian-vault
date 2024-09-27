@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Resources/cheatsheets/Database Normalization.md",
+                "file": "03 - Resources/Database/Normalization.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,9 +25,21 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Resources/cheatsheets/Database Normalization.md",
+                "file": "03 - Resources/Database/Normalization.md",
                 "mode": "source",
                 "source": true
+              }
+            }
+          },
+          {
+            "id": "425fe20127bf6f7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - Resources/Database/Normalization.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -56,25 +68,38 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "41978fa7cba0d578",
         "type": "tabs",
         "children": [
           {
-            "id": "425fe20127bf6f7c",
+            "id": "36b92d08206268e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Resources/cheatsheets/Database Normalization.md",
+                "file": "03 - Resources/Database/First Normal Form.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2025c937fd09b8cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - Resources/Database/Normalization.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -124,8 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 387.5,
-    "collapsed": true
+    "width": 387.5
   },
   "right": {
     "id": "9d566625d0a20a94",
@@ -141,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Resources/cheatsheets/Database Normalization.md",
+                "file": "03 - Resources/Database/Normalization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Resources/cheatsheets/Database Normalization.md",
+                "file": "03 - Resources/Database/Normalization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Resources/cheatsheets/Database Normalization.md"
+                "file": "03 - Resources/Database/Normalization.md"
               }
             }
           },
@@ -236,14 +260,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "425fe20127bf6f7c",
+  "active": "dff8edb3026af615",
   "lastOpenFiles": [
+    "03 - Resources/Database/Fifth Normal Form.md",
+    "03 - Resources/Database/Fourth Formal Form.md",
+    "03 - Resources/Database/Third Normal Form.md",
+    "03 - Resources/Database/Second Normal Form.md",
+    "03 - Resources/Database/First Normal Form.md",
+    "03 - Resources/Database/Normalization.md",
+    "03 - Resources/Database/Normalization Overview.md",
+    "03 - Resources/Database",
     "02 - Areas/Career/Computer Science",
     "01 - Projects/Read the \"Digital Zettelkasten\" Book.md",
     "01 - Projects/Wedding tables.md",
     "00 - Inbox/English vocab 25-9-2024.md",
     "README.md",
-    "03 - Resources/cheatsheets/Database Normalization.md",
     "Pasted Image 20240926095542_331.png",
     "Excalidraw/Drawing 2024-09-26 09.55.03.excalidraw.md",
     "Excalidraw",
@@ -267,11 +298,6 @@
     "03 - Resources/images bank/general images/Pasted image 20240921195155.png",
     "03 - Resources/configuration/WezTerm Configuration Notes.md",
     "03 - Resources/configuration/config Wezterm for macos user.md",
-    "05 - Archives/Mastering Markdown.md",
-    "04 - Daily/2024/09-September/18-09-2024 - Wednesday.md",
-    "03 - Resources/firefox tips/Speed up Firefox.md",
-    "Stack allocation and deallocation.md",
-    "my files structure based on PARA method.md",
     "03 - Resources/cheatsheets",
     "03 - Resources/firefox tips",
     "03 - Resources/wallpapers macos/wallpaperflare.com_wallpaper.jpg",
@@ -282,8 +308,6 @@
     "02 - Areas/Career/Resume/TanThanhNguyenCV.docx",
     "03 - Resources/images bank",
     "02 - Areas/Personal Development/Skills",
-    "02 - Areas/Career/Resume/Attachments",
-    "02 - Areas/Career/Resume/TanThanhNguyenCV (1).docx",
     "Untitled.canvas"
   ]
 }

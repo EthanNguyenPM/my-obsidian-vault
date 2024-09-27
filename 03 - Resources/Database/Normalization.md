@@ -1,3 +1,9 @@
+---
+tags:
+  - database
+  - normalization
+---
+
 ## What is normalization
 
 ### Definition
@@ -395,7 +401,7 @@ This relationship is complex and cannot be represented efficiently in the curren
 
 ##### 4. Decomposition into 5NF
 
-If we decompose the table into three smaller tables representing the relationship between each pair of entities:
+If we decompose the table into three smaller tables representing the relationship between each pair of entitie[[Normalization]]s:
 - Consultant-Client
 - Client-Skill
 - Consultant-Skill
