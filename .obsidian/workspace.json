@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Resources/Database/Normalization Overview.md",
+                "file": "03 - Resources/FireFox/Speed up Firefox.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Resources/Database/Normalization Overview.md",
+                "file": "03 - Resources/FireFox/Speed up Firefox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Resources/Database/Normalization Overview.md",
+                "file": "03 - Resources/FireFox/Speed up Firefox.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Resources/Database/Normalization Overview.md"
+                "file": "03 - Resources/FireFox/Speed up Firefox.md"
               }
             }
           },
@@ -182,6 +182,7 @@
   },
   "active": "6d5c1e41cc02d34d",
   "lastOpenFiles": [
+    "03 - Resources/Database/Normalization Overview.md",
     "03 - Resources/Cheatsheets/Markdown Syntax.md",
     "03 - Resources/Cheatsheets/Dataview Obsidian Syntax.md",
     "02 - Areas/Personal Development/Skills/Useful websites for programing skills.md",
@@ -212,7 +213,6 @@
     "03 - Resources/Database/Fifth Normal Form.md",
     "03 - Resources/Database/First Normal Form.md",
     "03 - Resources/Database/Fourth Formal Form.md",
-    "03 - Resources/Database/Normalization Overview.md",
     "03 - Resources/Database",
     "02 - Areas/Career/Computer Science",
     "Pasted Image 20240926095542_331.png",
