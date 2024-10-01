@@ -3,16 +3,13 @@ tags:
   - normalization
   - relational_database
   - database
+  - resources
 ---
 ---
-**TOC**:
-- [[#Definition|Definition]]
-- [[#How we determine the table is normalized or not|How we determine the table is normalized or not]]
-	- 1. [[First Normal Form]].
-	- 2. [[Second Normal Form]].
-	- 3. [[Third Normal Form]].
-	- 4. [[Fourth Formal Form]].
-	- 5. [[Fifth Normal Form]].
+** Table of Content**
+
+- [Definition](#definition)
+- [How we determine the table is normalized or not](#how-we-determine-the-table-is-normalized-or-not)
 
 ---
 ## Definition

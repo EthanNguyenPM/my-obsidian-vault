@@ -4,6 +4,7 @@ tags:
   - git
   - workflow
   - tips
+  - resources
 ---
 ## Tools
 

@@ -3,6 +3,7 @@ tags:
   - dataview
   - obsidian
   - syntax
+  - resources
 ---
 **Dataview** is a powerful Obsidian plugin that allows you to create dynamic views based on the metadata and content of your notes. This note provides an overview of Dataview syntax, examples, and best practices for querying and visualizing your notes.
 

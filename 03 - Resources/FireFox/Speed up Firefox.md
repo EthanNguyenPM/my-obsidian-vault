@@ -4,6 +4,7 @@ tags:
   - browser
   - boost
   - tips
+  - resources
 ---
 ---
 **Toc

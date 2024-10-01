@@ -1,1 +1,3 @@
 - I love to `lounge` on my couch
+- it’s `plausible ` to assume we can store an empty list for the property
+- Many of these benefits `stem from` the ability of functions to be extremely flexible

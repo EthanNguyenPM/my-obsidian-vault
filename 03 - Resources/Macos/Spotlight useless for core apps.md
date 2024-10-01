@@ -5,6 +5,7 @@ tags:
   - troubleshooting
   - howto
   - system
+  - resources
 ---
 ---
 **TOC:

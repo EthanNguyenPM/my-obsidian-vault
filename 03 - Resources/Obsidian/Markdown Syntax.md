@@ -3,6 +3,8 @@ tags:
   - syntax
   - markdown
   - reference
+  - obsidian
+  - resources
 ---
 This section will detail the key Markdown syntax you need to know.
 

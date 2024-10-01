@@ -5,6 +5,7 @@ tags:
   - system
   - explanation
   - optimization
+  - resources
 ---
 ## What is WindowServer on Mac
 

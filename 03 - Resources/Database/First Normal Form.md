@@ -4,6 +4,7 @@ tags:
   - database
   - normalization
   - relational_database
+  - resources
 ---
 ---
 For more on database normalization, see below:
