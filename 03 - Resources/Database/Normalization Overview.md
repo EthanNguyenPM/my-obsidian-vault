@@ -6,7 +6,7 @@ tags:
   - resources
 ---
 ---
-** Table of Content**
+**Table of Content**
 
 - [Definition](#definition)
 - [How we determine the table is normalized or not](#how-we-determine-the-table-is-normalized-or-not)

@@ -7,22 +7,17 @@ tags:
   - resources
 ---
 ---
-For more on database normalization, see below:
-- Read next: [[Fifth Normal Form]].
-- Read previous: [[Third Normal Form]]
-- [[Normalization Overview]]
----
-**TOC:
-- [[#Overview|Overview]]
-- [[#1. Consider the example|1. Consider the example]]
-- [[#2. The Model_Colors_And_Styles_Available Table|2. The Model_Colors_And_Styles_Available Table]]
-- [[#3. The Problem of Data Redundancy|3. The Problem of Data Redundancy]]
-- [[#4. Data inconsistency|4. Data inconsistency]]
-- [[#5. Why this violates Fourth Normal form|5. Why this violates Fourth Normal form]]
-- [[#6. Solution: Decompose the Table|6. Solution: Decompose the Table]]
+**Table of Content**
+
+- [Overview](#overview)
+- [1. Consider the example](#1-consider-the-example)
+- [2. The Model_Colors_And_Styles_Available Table](#2-the-model_colors_and_styles_available-table)
+- [3. The Problem of Data Redundancy](#3-the-problem-of-data-redundancy)
+- [4. Data inconsistency](#4-data-inconsistency)
+- [5. Why this violates Fourth Normal form](#5-why-this-violates-fourth-normal-form)
+- [6. Solution: Decompose the Table](#6-solution-decompose-the-table)
 
 ---
-
 ## Overview
 
 **Keynote:** ==Multivalued dependencies in a table must be multivalued dependencies on the key.
@@ -138,3 +133,9 @@ To bring the design into **Fourth Normal Form** and eliminate the multivalued de
 | Metro   | Modular     |
 | Prairie | Bungalow    |
 | Prairie | Schoolhouse |
+
+---
+For more on database normalization, see below:
+- Read next: [[Fifth Normal Form]].
+- Read previous: [[Third Normal Form]]
+- [[Normalization Overview]]

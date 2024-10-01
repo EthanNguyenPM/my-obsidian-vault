@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Resources/Database/Normalization Overview.md",
-                "mode": "preview",
+                "file": "03 - Resources/Database/Third Normal Form.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Resources/Database/Normalization Overview.md",
+                "file": "03 - Resources/Database/Third Normal Form.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Resources/Database/Normalization Overview.md",
+                "file": "03 - Resources/Database/Third Normal Form.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Resources/Database/Normalization Overview.md"
+                "file": "03 - Resources/Database/Third Normal Form.md"
               }
             }
           },
@@ -193,11 +193,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dbe14d5657bb3253",
+  "active": "388bcb8621404bf2",
   "lastOpenFiles": [
-    "03 - Resources/Database/Fourth Formal Form.md",
-    "03 - Resources/Database/Fifth Normal Form.md",
+    "03 - Resources/Database/Second Normal Form.md",
     "03 - Resources/Database/Normalization Overview.md",
+    "03 - Resources/Database/Fourth Formal Form.md",
+    "03 - Resources/Database/First Normal Form.md",
+    "03 - Resources/Database/Fifth Normal Form.md",
+    "03 - Resources/Database/Third Normal Form.md",
     "00 - Inbox/Automation Tool Backend.md",
     "03 - Resources/Database/MySql/MySql syntax.md",
     "03 - Resources/Python/Introduction to Higher-Order Functions.md",
@@ -213,9 +216,6 @@
     "03 - Resources/Macos/Spotlight useless for core apps.md",
     "03 - Resources/Github/Github Workflow Tips.md",
     "03 - Resources/FireFox/Speed up Firefox.md",
-    "03 - Resources/Database/Third Normal Form.md",
-    "03 - Resources/Database/Second Normal Form.md",
-    "03 - Resources/Database/First Normal Form.md",
     "99 - Extras/Templates/Template, resource template.md",
     "99 - Extras/Templates/Template, area template.md",
     "99 - Extras/Templates/Template, project template.md",

@@ -7,16 +7,12 @@ tags:
   - resources
 ---
 ---
-For more on database normalization, see below:
-- Read next: [[Fourth Formal Form]].
-- Read previous: [[Second Normal Form]]
-- [[Normalization Overview]]
----
-**TOC**:
-- [[#Overview|Overview]]
-- [[#1. The Problem: Update Anomaly|1. The Problem: Update Anomaly]]
-- [[#2. The Cause: Transitive Dependency|2. The Cause: Transitive Dependency]]
-- [[#3. Solution: Remove Transitive Dependency|3. Solution: Remove Transitive Dependency]]
+**Table of Content**
+
+- [Overview](#overview)
+- [1. The Problem: Update Anomaly](#1-the-problem-update-anomaly)
+- [2. The Cause: Transitive Dependency](#2-the-cause-transitive-dependency)
+- [3. Solution: Remove Transitive Dependency](#3-solution-remove-transitive-dependency)
 
 ---
 ## Overview
@@ -82,3 +78,9 @@ To bring the table into **Third Normal Form (3NF)**, we can remove the transitiv
 | 8                  | Advanced      |
 | 9                  | Advanced      |
 
+
+---
+For more on database normalization, see below:
+- Read next: [[Fourth Formal Form]].
+- Read previous: [[Second Normal Form]]
+- [[Normalization Overview]]

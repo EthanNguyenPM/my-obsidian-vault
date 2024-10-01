@@ -7,18 +7,15 @@ tags:
   - resources
 ---
 ---
-For more on database normalization, see below:
-- Read previous: [[Fourth Formal Form]]
-- [[Normalization Overview]]
----
-**TOC:**
-- [[#1. What is Fifth Normal Form (5NF)?|1. What is Fifth Normal Form (5NF)?]]
-- [[#2. Example of a 5NF Violation|2. Example of a 5NF Violation]]
-- [[#3. Potential redundancy|3. Potential redundancy]]
-- [[#4. Decomposition into 5NF|4. Decomposition into 5NF]]
-- [[#5. Problem: Spurious tuples on Join|5. Problem: Spurious tuples on Join]]
-- [[#6. Why does this violate 5NF|6. Why does this violate 5NF]]
-- [[#7. Correct design|7. Correct design]]
+**Table of Content**
+
+- [1. What is Fifth Normal Form (5NF)?](#1-what-is-fifth-normal-form-5nf)
+- [2. Example of a 5NF Violation](#2-example-of-a-5nf-violation)
+- [3. Potential redundancy](#3-potential-redundancy)
+- [4. Decomposition into 5NF](#4-decomposition-into-5nf)
+- [5. Problem: Spurious tuples on Join](#5-problem-spurious-tuples-on-join)
+- [6. Why does this violate 5NF](#6-why-does-this-violate-5nf)
+- [7. Correct design](#7-correct-design)
 
 ---
 ## 1. What is Fifth Normal Form (5NF)?
@@ -115,3 +112,8 @@ In 5NF, the decomposition just only occur if the original table can be reconstru
 To correct this and ensure the table is in 5NF, we need to acknowledge the complex join dependency between the three entities (Consultant, Client, and Skill). The original table should not be decomposed in a way that loses the relationship between all three attributes.
 
 Thus, to preserve the information accurately without spurious tuples, the original table should remain as it is
+
+---
+For more on database normalization, see below:
+- Read previous: [[Fourth Formal Form]]
+- [[Normalization Overview]]

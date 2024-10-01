@@ -7,15 +7,13 @@ tags:
   - resources
 ---
 ---
-For more on database normalization, see below:
-- Read next: [[Second Normal Form]]
-- [[Normalization Overview]]
----
-**TOC:
-- [[#1. Using row order to convey information violates 1NF|1. Using row order to convey information violates 1NF]]
-- [[#2. Mixing data types within same column violates 1NF|2. Mixing data types within same column violates 1NF]]
-- [[#3. A Table without primary key violates 1NF|3. A Table without primary key violates 1NF]]
-- [[#4. Storing a repeating group of data items on a single row violates 1NF|4. Storing a repeating group of data items on a single row violates 1NF]]
+**Table of Content**
+
+- [1. Using row order to convey information violates 1NF](#1-using-row-order-to-convey-information-violates-1nf)
+- [2. Mixing data types within same column violates 1NF](#2-mixing-data-types-within-same-column-violates-1nf)
+- [3. A Table without primary key violates 1NF](#3-a-table-without-primary-key-violates-1nf)
+- [4. Storing a repeating group of data items on a single row violates 1NF](#4-storing-a-repeating-group-of-data-items-on-a-single-row-violates-1nf)
+
 ---
 ## 1. Using row order to convey information violates 1NF
 
@@ -93,6 +91,7 @@ A table must define a primary key to ensure each record is unique and to prevent
 | trev73    | copper coins | 30            |
 | trev73    | rings        | 7             |
 
+---
 For more on database normalization, see below:
-- Read next one: [[Second Normal Form]].
+- Read next: [[Second Normal Form]]
 - [[Normalization Overview]]

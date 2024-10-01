@@ -7,20 +7,16 @@ tags:
   - resources
 ---
 ---
-For more on database normalization, see below:
-- Read next: [[Third Normal Form]]
-- Read previous: [[First Normal Form]]
-- [[Normalization Overview]]
----
-**TOC**:
-- [[#Example|Example]]
-- [[#1. Deletion Anomaly|1. Deletion Anomaly]]
-- [[#2. Update Anomaly|2. Update Anomaly]]
-- [[#3. Insertion Anomaly|3. Insertion Anomaly]]
-- [[#4. Violating 2NF: Non-Key Attributes Must Depend on the Entire Primary Key|4. Violating 2NF: Non-Key Attributes Must Depend on the Entire Primary Key]]
-- [[#5. Corrected Design|5. Corrected Design]]
-	- [[#5. Corrected Design#5.1. Player Table|5.1. Player Table]]
-	- [[#5. Corrected Design#5.2. Player_Inventory Table|5.2. Player_Inventory Table]]
+**Table of Content**
+
+- [Example](#example)
+- [1. Deletion Anomaly](#1-deletion-anomaly)
+- [2. Update Anomaly](#2-update-anomaly)
+- [3. Insertion Anomaly](#3-insertion-anomaly)
+- [4. Violating 2NF: Non-Key Attributes Must Depend on the Entire Primary Key](#4-violating-2nf-non-key-attributes-must-depend-on-the-entire-primary-key)
+- [5. Corrected Design](#5-corrected-design)
+	- [5.1. Player Table](#51-player-table)
+	- [5.2. Player_Inventory Table](#52-player_inventory-table)
 
 ---
 ## Example
@@ -93,3 +89,9 @@ To fix this, we should create a separate table to store player information, incl
 | trev73    | arrows       | 5             |
 | trev73    | copper coins | 30            |
 | trev73    | rings        | 7             |
+
+---
+For more on database normalization, see below:
+- Read next: [[Third Normal Form]]
+- Read previous: [[First Normal Form]]
+- [[Normalization Overview]]
