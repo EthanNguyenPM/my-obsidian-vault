@@ -166,6 +166,9 @@ This is a sentence with a footnote[^1].
 [^1]: This is the footnote text.
 ```
 
+This is a sentence with a footnote[^1].
+
+[^1]: This is the footnote text.
 ### 11. **Horizontal Rule**
 
 You can create horizontal rules by using three or more dashes (`---`).

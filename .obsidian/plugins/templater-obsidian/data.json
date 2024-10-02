@@ -15,8 +15,16 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "",
-      "template": ""
+      "folder": "03 - Resources",
+      "template": "99 - Extras/Templates/Template, resource template.md"
+    },
+    {
+      "folder": "02 - Areas",
+      "template": "99 - Extras/Templates/Template, area template.md"
+    },
+    {
+      "folder": "01 - Projects",
+      "template": "99 - Extras/Templates/Template, project template.md"
     }
   ],
   "syntax_highlighting": true,
