@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Resources/Python/Python zip() Function.md",
+                "file": "03 - Resources/Python/Pythoric programming/The Walrus Operator for “Loop-and-a-Half” Blocks.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Resources/Python/Python zip() Function.md",
+                "file": "03 - Resources/Python/Pythoric programming/The Walrus Operator for “Loop-and-a-Half” Blocks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Resources/Python/Python zip() Function.md",
+                "file": "03 - Resources/Python/Pythoric programming/The Walrus Operator for “Loop-and-a-Half” Blocks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Resources/Python/Python zip() Function.md"
+                "file": "03 - Resources/Python/Pythoric programming/The Walrus Operator for “Loop-and-a-Half” Blocks.md"
               }
             }
           },
@@ -196,16 +196,17 @@
   },
   "active": "a3db637bfdaa4428",
   "lastOpenFiles": [
+    "01 - Projects/Better Python Code Book.md",
+    "03 - Resources/Python/Pythoric programming/zip(strict=True) and itertools.zip_longest().md",
     "03 - Resources/Python/Pythoric programming/zip() Simplifies Using Multiple Iterables.md",
+    "03 - Resources/Python/Pythoric programming/The Walrus Operator for “Loop-and-a-Half” Blocks.md",
     "03 - Resources/Python/Python zip() Function.md",
     "03 - Resources/Obsidian/Markdown Syntax.md",
-    "01 - Projects/Better Python Code Book.md",
     "How to restore deleted files in git.md",
     "01 - Projects/k.md",
     "04 - Daily/2024/10-October/02-10-2024 - Wednesday.md",
     "04 - Daily/2024/10-October",
     "01 - Projects/Course Progress - Learn Python 3 (Codecademy).md",
-    "03 - Resources/Python/Pythoric programming/The Walrus Operator for “Loop-and-a-Half” Blocks.md",
     "03 - Resources/Howto/How to view contain in Medium Premium for Free.md",
     "03 - Resources/Database/Fifth Normal Form.md",
     "01 - Projects/Read the \"Digital Zettelkasten\" Book.md",
@@ -224,7 +225,6 @@
     "03 - Resources/Python/User input.md",
     "03 - Resources/Database/Second Normal Form.md",
     "03 - Resources/Database/Normalization Overview.md",
-    "00 - Inbox/Automation Tool Backend.md",
     "03 - Resources/Database/MySql",
     "02 - Areas/Python Programming",
     "03 - Resources/Python",
