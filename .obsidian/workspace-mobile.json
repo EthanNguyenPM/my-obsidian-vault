@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "4f88597cf5ca1a8b",
+    "type": "split",
+    "children": [
+      {
+        "id": "55d340269d92acf8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a1dd69392ccb88d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - Resources/Python/Pythoric programming/zip(strict=True) and itertools.zip_longest().md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4aaabf403779b6f2",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "e96adcc87dedb66e",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "8673a046f8db2231",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "tag:#explanation",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "314dd398dc3b782f",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "e2f02b9d33a1d6bb",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      },
+      {
+        "id": "c3062fbef4fcc0e5",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          }
+        }
+      }
+    ],
+    "currentTab": 1
+  },
+  "right": {
+    "id": "20ae789189894547",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "5f5abec5638cd94f",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "03 - Resources/Python/Pythoric programming/zip(strict=True) and itertools.zip_longest().md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "091ea869555af350",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "03 - Resources/Python/Pythoric programming/zip(strict=True) and itertools.zip_longest().md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "11a687ccfc9ca576",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "03 - Resources/Python/Pythoric programming/zip(strict=True) and itertools.zip_longest().md"
+          }
+        }
+      },
+      {
+        "id": "07bea5921a873e9b",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "300477427979d6d1",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 4
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "markdown-importer:Open format converter": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-kanban:Create new board": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false
+    }
+  },
+  "active": "8673a046f8db2231",
+  "lastOpenFiles": [
+    "01 - Projects/Course Progress - Learn Python 3 (Codecademy).md",
+    "03 - Resources/Python/Loop-and-a-half pattern.md",
+    "03 - Resources/Python/Lambda Functions.md",
+    "03 - Resources/Database/Fifth Normal Form.md",
+    "03 - Resources/Images bank/Pasted images/Pasted image 20240921195155.png",
+    "03 - Resources/Github/Github Workflow Tips.md",
+    "03 - Resources/Github/How to restore deleted files in git.md",
+    "03 - Resources/Python/Pythoric programming/zip(strict=True) and itertools.zip_longest().md"
+  ]
+}

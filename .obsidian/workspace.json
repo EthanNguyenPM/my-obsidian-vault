@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Resources/Python/Pythoric programming/The Walrus Operator for “Loop-and-a-Half” Blocks.md",
+                "file": "03 - Resources/Python/Pythoric programming/zip(strict=True) and itertools.zip_longest().md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Resources/Python/Pythoric programming/The Walrus Operator for “Loop-and-a-Half” Blocks.md",
+                "file": "03 - Resources/Python/Pythoric programming/zip(strict=True) and itertools.zip_longest().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Resources/Python/Pythoric programming/The Walrus Operator for “Loop-and-a-Half” Blocks.md",
+                "file": "03 - Resources/Python/Pythoric programming/zip(strict=True) and itertools.zip_longest().md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Resources/Python/Pythoric programming/The Walrus Operator for “Loop-and-a-Half” Blocks.md"
+                "file": "03 - Resources/Python/Pythoric programming/zip(strict=True) and itertools.zip_longest().md"
               }
             }
           },
@@ -184,9 +184,9 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false,
       "obsidian-importer:Open Importer": false,
       "obsidian-kanban:Create new board": false,
+      "templater-obsidian:Templater": false,
       "obsidian-full-calendar:Open Full Calendar": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
@@ -196,10 +196,19 @@
   },
   "active": "a3db637bfdaa4428",
   "lastOpenFiles": [
-    "01 - Projects/Better Python Code Book.md",
-    "03 - Resources/Python/Pythoric programming/zip(strict=True) and itertools.zip_longest().md",
-    "03 - Resources/Python/Pythoric programming/zip() Simplifies Using Multiple Iterables.md",
     "03 - Resources/Python/Pythoric programming/The Walrus Operator for “Loop-and-a-Half” Blocks.md",
+    "03 - Resources/Python/Pythoric programming/zip() Simplifies Using Multiple Iterables.md",
+    "03 - Resources/Python/Pythoric programming/zip(strict=True) and itertools.zip_longest().md",
+    "00 - Inbox/Wedding tables.md",
+    "00 - Inbox/README.md",
+    "03 - Resources/Video bank/local videos/Screen Recording 2024-10-03 at 14.51.04.mov",
+    "03 - Resources/Video bank/local videos",
+    "03 - Resources/Video bank/untitled folder",
+    "03 - Resources/Video bank",
+    "03 - Resources/untitled folder",
+    "README.md",
+    "03 - Resources/Github/How to restore deleted files in git.md",
+    "01 - Projects/Better Python Code Book.md",
     "03 - Resources/Python/Python zip() Function.md",
     "03 - Resources/Obsidian/Markdown Syntax.md",
     "How to restore deleted files in git.md",
@@ -221,24 +230,15 @@
     "03 - Resources/Database/MySql/MySql syntax.md",
     "03 - Resources/Database/Fourth Formal Form.md",
     "03 - Resources/Database/Third Normal Form.md",
-    "03 - Resources/Database/First Normal Form.md",
-    "03 - Resources/Python/User input.md",
-    "03 - Resources/Database/Second Normal Form.md",
-    "03 - Resources/Database/Normalization Overview.md",
     "03 - Resources/Database/MySql",
     "02 - Areas/Python Programming",
     "03 - Resources/Python",
     "03 - Resources/Macos/Wallpapers Macos/wallpaperflare.com_wallpaper (1).jpg",
     "03 - Resources/Macos/Wallpapers Macos/wallpaperflare.com_wallpaper.jpg",
     "03 - Resources/Images bank/Motivational images/ACB78478-0C9B-4579-8FFA-251C3DE78F26.jpg",
-    "03 - Resources/Obsidian",
     "03 - Resources/Images bank/Pasted images/Pasted image 20240921195850.png",
     "03 - Resources/Images bank/Pasted images/Pasted image 20240921195155.png",
-    "03 - Resources/Github",
-    "03 - Resources/Database",
-    "02 - Areas/Career/Computer Science",
     "Pasted Image 20240926095542_331.png",
-    "Excalidraw",
     "03 - Resources/Images bank/Pasted images/Pasted image 20240924152154.png",
     "03 - Resources/Macos/Wallpapers Macos/wallpaperflare.com_wallpaper (5).jpg",
     "03 - Resources/Macos/Wallpapers Macos/wallpaperflare.com_wallpaper (2).jpg",
