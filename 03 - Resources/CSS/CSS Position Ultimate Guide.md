@@ -1,6 +1,7 @@
 ---
 tags:
   - resources
+  - css
 ---
 ## Static Position
 
@@ -38,9 +39,9 @@ The next simplest position type is `relative` position. A `relative` position el
 
 ![[Pasted image 20241023135647.png]]
 
-From the above example you can see that the one element works just like `static` when there is no extra properties defined. Once you add a property like `left`, or `top`, though, you can see that the element offsets itself relative to its normal position by these `top`, `left`, `right`, and `bottom` properties. You will notice, however, that the other elements do not move to account for the offset position of the `relative` positioned element. This is because all the other elements assume that the `relative` positioned element has no offsets and they determine their position based on where the `relative` positioned element would have been if it was `static`.
+From the above example you can see that the one element works just like `static` when there is no extra properties defined. Once you add a property like `left`, or `top`, though, you can see that the element offsets itself relative to its normal position by these `top`, `left`, `right`, and `bottom` properties. You will notice, however, that the other elements do not move to account for the offset position of the `relative` positioned element. This is because all the other elements assume that the `relative` positioned element has no offsets, and they determine their position based on where the `relative` positioned element would have been if it was `static`.
 
-Now on its own `relative` position is not that useful as you do not usually want to offset an element without also moving all the elements around it. The main use cases for position `relative` are to either set the `z-index` of the element, or to be used as a container for `absolute` positioned elements which we will talk about next.
+Now on its own `relative` position is not that useful as you do not usually want to offset an element without also moving all the surrounding elements. The main use cases for position `relative` are to either set the `z-index` of the element, or to be used as a container for `absolute` positioned elements which we will talk about next.
 
 ## Absolute Position
 
@@ -113,13 +114,13 @@ The final position value is `sticky`. This position is a combination of both `fi
 
 ![[Pasted image 20241023135928.png]]
 
-At first you will notice that the one element is in its normal position in the document flow as if it were `static`. Once you scroll the page to the point that the top of the one element is 10px from the top of the page it will then stick to the top of the page as if it were position `fixed`. This will last this way all the way until the element gets to the bottom of the purple parent container in which case it will stop scrolling with the page.
+At first, you will notice that the one element is in its normal position in the document flow as if it were `static`. Once you scroll the page to the point that the top of the one element is 10px from the top of the page it will then stick to the top of the page as if it were position `fixed`. This will last this way all the way until the element gets to the bottom of the purple parent container in which case it will stop scrolling with the page.
 
-`sticky` position is the perfect position for navbars that scroll with the page, headings in long lists, and many other use cases.
+`sticky` Position is the perfect position for navbars that scroll with the page, headings in long lists, and many other use cases.
 
 ## Absolute/Fixed Position Advanced
 
-Now there is one thing about `fixed` and `absolute` position elements that you need to know since it could cause some weird, hard to find bugs. An element that is `absolute` positioned will use the first parent element that has a non-static position as its container to offset itself from and it will default to the body if no parent has a position value other than `static`. This we already know, but this is not the only way to define a parent container. `absolute` positioned elements will also check for a parent that has either the `transform`, `filter`, or `perspective` properties set. If any of those are found on a parent it will use that parent as the container.
+Now there is one thing about `fixed` and `absolute` position elements that you need to know since it could cause some weird, hard to find bugs. An element that is `absolute` positioned will use the first parent element that has a non-static position as its container to offset itself from, and it will default to the body if no parent has a position value other than `static`. This we already know, but this is not the only way to define a parent container. `absolute` positioned elements will also check for a parent that has either the `transform`, `filter`, or `perspective` properties set. If any of those are found on a parent it will use that parent as the container.
 
 ```css
 .purple-parent {
