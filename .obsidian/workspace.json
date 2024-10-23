@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Resources/Python/Pythoric programming/zip(strict=True) and itertools.zip_longest().md",
+                "file": "03 - Resources/CSS/Untitled.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           },
           {
@@ -28,7 +30,9 @@
                 "file": "03 - Resources/Obsidian/Markdown Syntax.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Markdown Syntax"
             }
           }
         ]
@@ -51,7 +55,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -60,13 +66,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "python code",
+                "query": "gotcha",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -74,7 +82,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -97,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Resources/Python/Pythoric programming/zip(strict=True) and itertools.zip_longest().md",
+                "file": "03 - Resources/NodeJs/Import CommonJs from ESM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +115,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Import CommonJs from ESM"
             }
           },
           {
@@ -114,10 +126,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Resources/Python/Pythoric programming/zip(strict=True) and itertools.zip_longest().md",
+                "file": "03 - Resources/NodeJs/Import CommonJs from ESM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Import CommonJs from ESM"
             }
           },
           {
@@ -128,7 +142,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -137,8 +153,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Resources/Python/Pythoric programming/zip(strict=True) and itertools.zip_longest().md"
-              }
+                "file": "03 - Resources/NodeJs/Import CommonJs from ESM.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Import CommonJs from ESM"
             }
           },
           {
@@ -146,7 +164,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -154,7 +174,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -166,7 +188,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ],
@@ -184,9 +208,9 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
       "obsidian-importer:Open Importer": false,
       "obsidian-kanban:Create new board": false,
-      "templater-obsidian:Templater": false,
       "obsidian-full-calendar:Open Full Calendar": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
@@ -196,52 +220,52 @@
   },
   "active": "a3db637bfdaa4428",
   "lastOpenFiles": [
-    "03 - Resources/Python/Pythoric programming/The Walrus Operator for “Loop-and-a-Half” Blocks.md",
-    "03 - Resources/Python/Pythoric programming/zip() Simplifies Using Multiple Iterables.md",
-    "03 - Resources/Python/Pythoric programming/zip(strict=True) and itertools.zip_longest().md",
-    "00 - Inbox/Wedding tables.md",
-    "00 - Inbox/README.md",
-    "03 - Resources/Video bank/local videos/Screen Recording 2024-10-03 at 14.51.04.mov",
-    "03 - Resources/Video bank/local videos",
-    "03 - Resources/Video bank/untitled folder",
-    "03 - Resources/Video bank",
-    "03 - Resources/untitled folder",
-    "README.md",
-    "03 - Resources/Github/How to restore deleted files in git.md",
-    "01 - Projects/Better Python Code Book.md",
-    "03 - Resources/Python/Python zip() Function.md",
-    "03 - Resources/Obsidian/Markdown Syntax.md",
-    "How to restore deleted files in git.md",
-    "01 - Projects/k.md",
-    "04 - Daily/2024/10-October/02-10-2024 - Wednesday.md",
-    "04 - Daily/2024/10-October",
-    "01 - Projects/Course Progress - Learn Python 3 (Codecademy).md",
-    "03 - Resources/Howto/How to view contain in Medium Premium for Free.md",
-    "03 - Resources/Database/Fifth Normal Form.md",
-    "01 - Projects/Read the \"Digital Zettelkasten\" Book.md",
-    "03 - Resources/Python/Loop-and-a-half pattern.md",
-    "03 - Resources/Howto/Send file to kindle.md",
-    "03 - Resources/Python/Pythoric programming",
-    "03 - Resources/Images bank/Pasted images/Pasted image 20241001145417.png",
-    "03 - Resources/Howto/Summarize a youtube video for free.md",
+    "Pasted image 20241023140048.png",
+    "Pasted image 20241023140022.png",
+    "Pasted image 20241023135928.png",
+    "Pasted image 20241023135903.png",
+    "Pasted image 20241023135828.png",
+    "Pasted image 20241023135804.png",
+    "Pasted image 20241023135718.png",
+    "Pasted image 20241023135647.png",
+    "Pasted image 20241023135634.png",
+    "02 - Areas/Programming/Object Oriented Programming.md",
+    "Pasted image 20241023135538.png",
+    "Pasted image 20241023135552.png",
+    "03 - Resources/CSS/Untitled.md",
+    "03 - Resources/NodeJs/Import CommonJs from ESM.md",
+    "03 - Resources/CSS",
+    "01 - Projects/Interview with company Consortia Group.md",
+    "03 - Resources/NodeJs",
+    "03 - Resources/Books/NodeJs Design Patterns/Chapter 1 The Node.Js Platform.md",
     "03 - Resources/Howto/Download subfolder from Github.md",
-    "03 - Resources/Macos/Spotlight useless for core apps.md",
-    "Fourth.md",
-    "03 - Resources/Database/MySql/MySql syntax.md",
-    "03 - Resources/Database/Fourth Formal Form.md",
-    "03 - Resources/Database/Third Normal Form.md",
-    "03 - Resources/Database/MySql",
-    "02 - Areas/Python Programming",
-    "03 - Resources/Python",
-    "03 - Resources/Macos/Wallpapers Macos/wallpaperflare.com_wallpaper (1).jpg",
-    "03 - Resources/Macos/Wallpapers Macos/wallpaperflare.com_wallpaper.jpg",
-    "03 - Resources/Images bank/Motivational images/ACB78478-0C9B-4579-8FFA-251C3DE78F26.jpg",
-    "03 - Resources/Images bank/Pasted images/Pasted image 20240921195850.png",
-    "03 - Resources/Images bank/Pasted images/Pasted image 20240921195155.png",
-    "Pasted Image 20240926095542_331.png",
-    "03 - Resources/Images bank/Pasted images/Pasted image 20240924152154.png",
-    "03 - Resources/Macos/Wallpapers Macos/wallpaperflare.com_wallpaper (5).jpg",
-    "03 - Resources/Macos/Wallpapers Macos/wallpaperflare.com_wallpaper (2).jpg",
+    "01 - Projects/NodeJs Design Patterns Book.md",
+    "03 - Resources/Books/NodeJs Design Patterns",
+    "03 - Resources/Books",
+    "03 - Resources/Books.md",
+    "03 - Resources/Howto/Summarize a youtube video for free.md",
+    "02 - Areas/Programming",
+    "03 - Resources/Python/Python Gotcha.md",
+    "03 - Resources/Howto/Send file to kindle.md",
+    "02 - Areas/Python Programming/Bitwise Operator.md",
+    "02 - Areas/Python Programming/Introduction to Recursion.md",
+    "02 - Areas/Python Programming/Python Libraries to Learn.md",
+    "02 - Areas/Entertainment/Movies to Watch.md",
+    "03 - Resources/Python/Concurrency Programming.md",
+    "03 - Resources/Python/What is Concurrent Programming.md",
+    "03 - Resources/Python/Kernel Threads vs User Threads.md",
+    "03 - Resources/Python/Multithreading.md",
+    "03 - Resources/Python/Introduction to Threads.md",
+    "03 - Resources/Python/Functional Programming.md",
+    "02 - Areas/Python Programming/Ongoing Learning.md",
+    "03 - Resources/Terminal/Prezto Configuration.md",
+    "03 - Resources/Terminal/WezTerm Configuration.md",
+    "03 - Resources/Terminal/Terminal Configurations.md",
+    "03 - Resources/Terminal/ZSH",
+    "02 - Areas/Career/Resume/TanThanhNguyenCV.docx",
+    "03 - Resources/Video bank/local videos",
+    "03 - Resources/Video bank",
+    "04 - Daily/2024/10-October",
     "Untitled.canvas"
   ]
 }
