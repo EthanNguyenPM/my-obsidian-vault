@@ -13,12 +13,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Resources/CSS/CSS Position Ultimate Guide.md",
+                "file": "01 - Projects/Tiktok Advertising.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CSS Position Ultimate Guide"
+              "title": "Tiktok Advertising"
+            }
+          },
+          {
+            "id": "a9e3aa9b292cbb4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Projects/Ielts exam prepare.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ielts exam prepare"
+            }
+          },
+          {
+            "id": "c7d99b2de0ce33c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - Resources/Azure Portal.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Azure Portal"
             }
           },
           {
@@ -35,7 +63,8 @@
               "title": "Markdown Syntax"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -66,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gotcha",
+                "query": "git",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -218,28 +247,42 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "a3db637bfdaa4428",
+  "active": "c7d99b2de0ce33c8",
   "lastOpenFiles": [
-    "Pasted image 20241023140048.png",
-    "Pasted image 20241023140022.png",
-    "Pasted image 20241023135928.png",
-    "Pasted image 20241023135903.png",
-    "Pasted image 20241023135828.png",
-    "Pasted image 20241023135804.png",
-    "Pasted image 20241023135718.png",
-    "Pasted image 20241023135647.png",
-    "Pasted image 20241023135634.png",
-    "02 - Areas/Programming/Object Oriented Programming.md",
-    "Pasted image 20241023135538.png",
-    "Pasted image 20241023135552.png",
+    "03 - Resources/Untitled",
+    "03 - Resources/Howto/Download subfolder from Github.md",
+    "03 - Resources/Azure Portal.md",
+    "03 - Resources/Terminal/SSH.md",
+    "02 - Areas/Career/Resume/TanThanhNguyenCV.docx",
+    "01 - Projects/Ielts exam prepare.md",
+    "Pasted image 20241231173825.png",
+    "03 - Resources/Images bank/Pasted images/Pasted image 20241205001253.png",
+    "03 - Resources/Images bank/Pasted images/Pasted image 20241125150508.png",
+    "03 - Resources/Images bank/Pasted images/Pasted image 20241227184827.png",
+    "01 - Projects/Course Progress - Learn Python 3 (Codecademy).md",
+    "01 - Projects/Better Python Code Book.md",
+    "01 - Projects/NodeJs Design Patterns Book.md",
+    "01 - Projects/Read the \"Digital Zettelkasten\" Book.md",
+    "01 - Projects/Tiktok Advertising.md",
+    "03 - Resources/Images bank/Pasted images/Pasted image 20241023135634.png",
+    "03 - Resources/Images bank/Pasted images/Pasted image 20241023135647.png",
+    "03 - Resources/Images bank/Pasted images/Pasted image 20241125142127.png",
+    "Best Hashtag for Solar Light.md",
+    "Pasted image 20241125150444.png",
+    "03 - Resources/Images bank/Pasted images/Pasted image 20241023135903.png",
+    "Pasted image 20241125150028.png",
+    "04 - Daily/2024/11-November/25-11-2024 - Monday.md",
+    "04 - Daily/2024/11-November",
+    "03 - Resources/Obsidian/Markdown Syntax.md",
+    "03 - Resources/Obsidian/Dataview Obsidian Syntax.md",
+    "02 - Areas/Entertainment/Movies to Watch.md",
     "03 - Resources/CSS/CSS Position Ultimate Guide.md",
+    "02 - Areas/Programming/Object Oriented Programming.md",
     "03 - Resources/NodeJs/Import CommonJs from ESM.md",
     "03 - Resources/CSS",
     "01 - Projects/Interview with company Consortia Group.md",
     "03 - Resources/NodeJs",
     "03 - Resources/Books/NodeJs Design Patterns/Chapter 1 The Node.Js Platform.md",
-    "03 - Resources/Howto/Download subfolder from Github.md",
-    "01 - Projects/NodeJs Design Patterns Book.md",
     "03 - Resources/Books/NodeJs Design Patterns",
     "03 - Resources/Books",
     "03 - Resources/Books.md",
@@ -249,23 +292,9 @@
     "03 - Resources/Howto/Send file to kindle.md",
     "02 - Areas/Python Programming/Bitwise Operator.md",
     "02 - Areas/Python Programming/Introduction to Recursion.md",
-    "02 - Areas/Python Programming/Python Libraries to Learn.md",
-    "02 - Areas/Entertainment/Movies to Watch.md",
-    "03 - Resources/Python/Concurrency Programming.md",
-    "03 - Resources/Python/What is Concurrent Programming.md",
-    "03 - Resources/Python/Kernel Threads vs User Threads.md",
-    "03 - Resources/Python/Multithreading.md",
-    "03 - Resources/Python/Introduction to Threads.md",
-    "03 - Resources/Python/Functional Programming.md",
-    "02 - Areas/Python Programming/Ongoing Learning.md",
-    "03 - Resources/Terminal/Prezto Configuration.md",
-    "03 - Resources/Terminal/WezTerm Configuration.md",
-    "03 - Resources/Terminal/Terminal Configurations.md",
     "03 - Resources/Terminal/ZSH",
-    "02 - Areas/Career/Resume/TanThanhNguyenCV.docx",
     "03 - Resources/Video bank/local videos",
     "03 - Resources/Video bank",
-    "04 - Daily/2024/10-October",
     "Untitled.canvas"
   ]
 }
