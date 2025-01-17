@@ -74,4 +74,12 @@ az rest \
 - [azure-graph-api](https://learn.microsoft.com/en-us/graph/api/application-update?view=graph-rest-1.0&tabs=http)
 - [azure-cli-doc](https://learn.microsoft.com/en-us/cli/azure/microsoft-graph-migration#known-issues)
 - [Microsoft Entra admin center](https://entra.microsoft.com/#home)
+- Van Lang Uni `Wreflect` Credential  
 
+```json
+{
+  "appId": "40c3c8c6-70bc-4827-948e-0eba303211eb",
+  "password": "TTB8Q~-St8Mb0.jmNfhMAy5hRnIGxWeh0Ucyea9.",
+  "tenant": "3011a54b-0a5d-4929-bf02-a00787877c6a"
+}
+```
