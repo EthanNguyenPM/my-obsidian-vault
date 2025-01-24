@@ -25,3 +25,7 @@ Bởi vì Sapo đã hỗ trợ các events trên cho mình, chúng ta không th�
 Sau khi đã thêm Google Tag Manager script cho trang website, chúng ta có thể follow và send các event qua gtag function hoặc có thể sử dụng dataLayer để push các event vào hàng đợi. Google Tag Manager sẽ bắt trigger từ hàng đợi này.
 
 [Document DataLayer](https://developers.google.com/tag-platform/tag-manager/datalayer?hl=en)
+## Cách Debug google tag manager
+
+[Google Tag Assistant](https://tagassistant.google.com/)
+

@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Projects/Tiktok Advertising.md",
+                "file": "03 - Resources/Kitawa/Điều chỉnh Google Analysis trên template Sapo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tiktok Advertising"
+              "title": "Điều chỉnh Google Analysis trên template Sapo"
             }
           }
         ],
@@ -95,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "git",
+                "query": "ssh",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -120,7 +120,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 336.5
+    "width": 439.5
   },
   "right": {
     "id": "9d566625d0a20a94",
@@ -249,9 +249,22 @@
   },
   "active": "3090b64ac31fcaef",
   "lastOpenFiles": [
-    "01 - Projects/Course Progress - Learn Python 3 (Codecademy).md",
+    "03 - Resources/Macos/Wallpapers Macos/wallpaperflare.com_wallpaper (5).jpg",
+    "03 - Resources/Macos/Wallpapers Macos/wallpaperflare.com_wallpaper (3).jpg",
+    "03 - Resources/Macos/Wallpapers Macos/wallpaperflare.com_wallpaper (2).jpg",
+    "03 - Resources/Macos/Wallpapers Macos/wallpaperflare.com_wallpaper.jpg",
+    "03 - Resources/Macos/Wallpapers Macos/wallpaperflare.com_wallpaper (1).jpg",
+    "03 - Resources/Deploy.md",
+    "03 - Resources/Azure/Azure CLI.md",
+    "01 - Projects/Interview with company Consortia Group.md",
     "01 - Projects/Ielts exam prepare.md",
+    "01 - Projects/Course Progress - Learn Python 3 (Codecademy).md",
     "01 - Projects/Better Python Code Book.md",
+    "01 - Projects/Read the \"Digital Zettelkasten\" Book.md",
+    "01 - Projects/Tiktok Advertising.md",
+    "03 - Resources/Deploy",
+    "03 - Resources/Terminal/SSH.md",
+    "01 - Projects/NodeJs Design Patterns Book.md",
     "03 - Resources/Kitawa/Điều chỉnh Google Analysis trên template Sapo.md",
     "README.md",
     "03 - Resources/Obsidian/Markdown Syntax.md",
@@ -260,24 +273,14 @@
     "Pasted image 20250117001406.png",
     "03 - Resources/Kitawa/Điều chỉnh Google Analysis trên template Sapos.md",
     "03 - Resources/Kitawa",
-    "03 - Resources/Untitled.md",
-    "03 - Resources/Azure/Azure CLI.md",
     "03 - Resources/Untitled 1",
     "03 - Resources/Azure",
     "03 - Resources/Howto/Download subfolder from Github.md",
-    "03 - Resources/Terminal/SSH.md",
     "02 - Areas/Career/Resume/TanThanhNguyenCV.docx",
     "03 - Resources/Images bank/Pasted images/Pasted image 20241205001253.png",
     "03 - Resources/Images bank/Pasted images/Pasted image 20241125150508.png",
     "03 - Resources/Images bank/Pasted images/Pasted image 20241227184827.png",
-    "01 - Projects/NodeJs Design Patterns Book.md",
-    "01 - Projects/Read the \"Digital Zettelkasten\" Book.md",
-    "01 - Projects/Tiktok Advertising.md",
     "03 - Resources/Images bank/Pasted images/Pasted image 20241023135634.png",
-    "03 - Resources/Images bank/Pasted images/Pasted image 20241023135647.png",
-    "03 - Resources/Images bank/Pasted images/Pasted image 20241125142127.png",
-    "Pasted image 20241125150444.png",
-    "03 - Resources/Images bank/Pasted images/Pasted image 20241023135903.png",
     "04 - Daily/2024/11-November/25-11-2024 - Monday.md",
     "04 - Daily/2024/11-November",
     "03 - Resources/Obsidian/Dataview Obsidian Syntax.md",
@@ -286,15 +289,12 @@
     "02 - Areas/Programming/Object Oriented Programming.md",
     "03 - Resources/NodeJs/Import CommonJs from ESM.md",
     "03 - Resources/CSS",
-    "01 - Projects/Interview with company Consortia Group.md",
     "03 - Resources/NodeJs",
     "03 - Resources/Books/NodeJs Design Patterns/Chapter 1 The Node.Js Platform.md",
     "03 - Resources/Books/NodeJs Design Patterns",
     "03 - Resources/Books",
     "03 - Resources/Books.md",
     "03 - Resources/Howto/Summarize a youtube video for free.md",
-    "02 - Areas/Programming",
-    "03 - Resources/Python/Python Gotcha.md",
     "Untitled.canvas"
   ]
 }

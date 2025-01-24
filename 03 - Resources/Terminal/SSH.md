@@ -16,5 +16,6 @@ To access the target, run this command below
 
 ```bash
 ssh -i /path/to/private_key root@ipv4-target
+ssh -i ~/.ssh/digital-ocean-wreflect-droplet root@165.232.160.169
 ```
 
