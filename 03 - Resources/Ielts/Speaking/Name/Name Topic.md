@@ -8,7 +8,6 @@ tags:
 ### Does your name have any special meaning? #card
 
 Yes, my name "Thành Tân" has a special meaning. In Vietnamese, "Thành" often signifies "accomplishment" or "completion," while "Tân" can mean "new" or "fresh." Altogether, it symbolizes "accomplishing new things" or "new achievements."
-ddf
 
 
 ### Who gave you this name? #card
