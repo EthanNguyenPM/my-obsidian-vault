@@ -13,6 +13,8 @@ Yes, my name "Thành Tân" has a special meaning. In Vietnamese, "Thành" often 
 
 My parents gave me this name. They chose it because they wanted me to embrace new beginnings and achievements in life.
 
+hihi
+
 ### Do you like your name? #card 
 
 _Yes, I really like my name because it has a deep and positive meaning. It represents hope, progress, and personal growth, which I find inspiring. Also, I feel proud whenever people ask me about its meaning, as it allows me to share a part of my culture with them._
