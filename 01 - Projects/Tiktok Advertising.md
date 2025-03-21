@@ -33,3 +33,10 @@ Here is a list of objective campaign and how each one cost:
 - Lead Generation:
 	- Objective: For shop/company who want to pull numerous of the contact information from customers for the future usages or other purpose of campaign.
 	- CPL (cost per lead), TikTok ads will optimize the post to reach up on the customers derived from this metric.
+
+1/ có thể chạy smart+ vào ngày mai luôn không
+2/ nếu ngày đó chiến dịch có set daily budget là 100$ ngày, nhưng chiến dịch không tiêu thụ ngưỡng tiền đó thì saosao
+
+3/Smart+ có cho phép chọn đối tượng (targeting) không, hay nó hoàn toàn tự động?
+4/ 
+
