@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Resources/Ielts/Writing/Task 1/Process/Example 1.md",
+                "file": "03 - Resources/Python/Pythoric programming/The Walrus Operator for “Loop-and-a-Half” Blocks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Example 1"
+              "title": "The Walrus Operator for “Loop-and-a-Half” Blocks"
+            }
+          },
+          {
+            "id": "fe090cd658f481cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - Resources/Ielts/Vocabs/Sorted Thesaurus.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sorted Thesaurus"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "deploy",
+                "query": "python",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -206,11 +221,26 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "5cd0e153806823e2",
+  "active": "fe090cd658f481cb",
   "lastOpenFiles": [
-    "enhanced_cheese_process.png",
+    "03 - Resources/Ielts/Speaking/Leisures time and hobbies/Leisures time and hobbies topic.md",
+    "03 - Resources/Ielts/Speaking/People/How did you meet your best friend?.md",
+    "03 - Resources/Ielts/Vocabs/Sorted Thesaurus.md",
+    "03 - Resources/Ielts/Speaking/People",
+    "03 - Resources/Ielts/Vocabs/Important words.md",
+    "03 - Resources/Ielts/Vocabs/Thesaurus.md",
+    "03 - Resources/Ielts/Vocabs/Verbs.md",
     "03 - Resources/Ielts/Speaking/Job and Study/Job and Study Topic.md",
+    "03 - Resources/Ielts/Vocabs",
+    "01 - Projects/Better Python Code Book.md",
+    "03 - Resources/Python/Pythoric programming/zip(strict=True) and itertools.zip_longest().md",
+    "00 - Inbox/Automation Tool Backend.md",
+    "03 - Resources/Database/Fifth Normal Form.md",
+    "03 - Resources/Python/Concurrency Programming.md",
+    "02 - Areas/Python Programming/Bitwise Operator.md",
+    "03 - Resources/Python/Pythoric programming/The Walrus Operator for “Loop-and-a-Half” Blocks.md",
     "03 - Resources/Ielts/Writing/Task 1/Process/Example 1.md",
+    "enhanced_cheese_process.png",
     "03 - Resources/Ielts/Writing/Task 1/Process",
     "03 - Resources/Ielts/Writing/Task 1",
     "03 - Resources/Ielts/Writing/20-3-2025.md",
@@ -220,40 +250,25 @@
     "03 - Resources/Ielts/Speaking/Work and Study/Work and Study.md",
     "03 - Resources/Terminal/SSH.md",
     "03 - Resources/Azure/Azure CLI.md",
-    "03 - Resources/Ielts/Speaking/Leisures time and hobbies/Leisures time and hobbies topic.md",
     "03 - Resources/Ielts/Speaking/Job and Study",
     "01 - Projects/Tiktok Advertising.md",
     "03 - Resources/Ielts/Speaking/Leisures time and hobbies",
     "01 - Projects/Ielts exam prepare.md",
-    "01 - Projects/Better Python Code Book.md",
     "03 - Resources/Ielts/Speaking/Name/Name Topic.md",
     "03 - Resources/Ielts/Speaking/Work and Study",
     "03 - Resources/Ielts/Speaking/Name",
     "03 - Resources/Ielts/Speaking/HomeTown",
     "04 - Daily/2025/02-February/10-02-2025 - Monday.md",
-    "04 - Daily/2025/02-February",
-    "04 - Daily/2025",
     "03 - Resources/Kitawa/Điều chỉnh Google Analysis trên template Sapo.md",
-    "03 - Resources/Obsidian/Markdown Syntax.md",
-    "03 - Resources/Obsidian/Dataview Obsidian Syntax.md",
     "03 - Resources/Macos/Wallpapers Macos/wallpaperflare.com_wallpaper (5).jpg",
     "03 - Resources/Macos/Wallpapers Macos/wallpaperflare.com_wallpaper (3).jpg",
     "03 - Resources/Macos/Wallpapers Macos/wallpaperflare.com_wallpaper (2).jpg",
     "03 - Resources/Macos/Wallpapers Macos/wallpaperflare.com_wallpaper.jpg",
     "03 - Resources/Macos/Wallpapers Macos/wallpaperflare.com_wallpaper (1).jpg",
-    "01 - Projects/Interview with company Consortia Group.md",
-    "01 - Projects/Course Progress - Learn Python 3 (Codecademy).md",
-    "01 - Projects/Read the \"Digital Zettelkasten\" Book.md",
-    "01 - Projects/NodeJs Design Patterns Book.md",
-    "README.md",
-    "Best Hashtag for Solar Light.md",
     "Pasted image 20241231173825.png",
     "Pasted image 20250117001406.png",
-    "03 - Resources/Kitawa/Điều chỉnh Google Analysis trên template Sapos.md",
-    "03 - Resources/Howto/Download subfolder from Github.md",
     "03 - Resources/Images bank/Pasted images/Pasted image 20241205001253.png",
     "03 - Resources/Images bank/Pasted images/Pasted image 20241125150508.png",
-    "03 - Resources/Images bank/Pasted images/Pasted image 20241227184827.png",
     "Untitled.canvas"
   ]
 }
