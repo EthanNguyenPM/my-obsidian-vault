@@ -1,0 +1,45 @@
+---
+tags:
+  - resources
+---
+- [x] 1 
+- [x] 2 bridge
+- [x] 3 3:30
+- [x] 4 Rose
+- [x] 5 sign
+- [ ] 6 
+- [x] 7 samphire
+- [x] 8 melon
+- [x] 9 coconuts
+- [x] 10 strawberry
+- [x] 11 c
+- [ ] 12 d
+- [x] 13 f
+- [x] 14 g
+- [ ] 15 b
+- [ ] 16 e
+- [ ] 17 a
+- [ ] 18 c
+- [x] 19 b
+- [ ] 20 d
+- [x] 21 c
+- [x] 22 b
+- [ ] 23 b
+- [x] 24 a
+- [x] 25 c
+- [x] 26 c
+- [x] 27 h
+- [x] 28 e
+- [x] 29 b
+- [x] 30 f
+- [x] 31 clothing
+- [x] 32 mouth
+- [ ] 33 pork
+- [x] 34 toothpaste
+- [ ] 35 farming
+- [ ] 36 nutrian
+- [ ] 37 inhibit
+- [x] 38 weight
+- [ ] 39 futile
+- [x] 40 society
+
