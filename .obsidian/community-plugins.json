@@ -1,5 +1,4 @@
 [
-  "obsidian-vimrc-support",
   "calendar",
   "dataview",
   "nl-syntax-highlighting",
@@ -24,7 +23,5 @@
   "emera",
   "obsidian-languagetool-plugin",
   "highlightr-plugin",
-  "darlal-switcher-plus",
-  "flashcards-obsidian",
-  "vimium"
+  "darlal-switcher-plus"
 ]
