@@ -14,3 +14,8 @@ Use this command when macOS blocks an app with an error like:  
 xattr -cr /Applications/App\ name.app && codesign --force --deep --sign - /Applications/App\ name.app
 ```
 
+
+```bash
+xattr -cr ~/Desktop/ && codesign --force --deep --sign - ~/Desktop/
+```
+

@@ -1,0 +1,36 @@
+---
+tags:
+  - resources
+  - vocabulary
+  - ielts
+---
+- `Big`
+	- They live in a big house in the City.
+- Tremendous
+	- It's the box for Clayton to check in his tremendous career.
+- `hefty` 
+	- The speeding motorist was given a hefty fine.
+- `large`
+	- The large number of people was crowded into the room.
+- `considerable`
+	- Considerable criticism has been levelled at her leadership
+- `great`
+	- The party was a great success. 
+- `enormous`
+	- They bought an enormous house in the suburbs.
+- `respectable`
+	- The party picked up a respectable number of ethnic-minority votes
+- `immense`
+	- The family had amassed immense wealth.
+- `generous`
+	- The novel is served up with a generous measure of wit.
+- `gigantic`
+	- There's a gigantic spider in the bathroom.
+- `colossal`
+	- Colossal sums have been wasted on this project.
+- `astronomical`
+	- Professional footballers are paid astronomical sums.
+- `substantial`
+	- She is known to have made substantial donation to.
+- `ginormous`
+	- The guy has a ginormous ego.

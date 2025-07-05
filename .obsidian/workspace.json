@@ -4,35 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6384fa43596bfc34",
+        "id": "18731adb910a4b26",
         "type": "tabs",
         "children": [
           {
-            "id": "a3db637bfdaa4428",
+            "id": "38b81f636bc42a00",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 - Resources/Macos/Bypass \"App is damaged\" error.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Bypass \"App is damaged\" error"
-            }
-          },
-          {
-            "id": "3090b64ac31fcaef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 - Resources/Obsidian/Markdown Syntax.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Markdown Syntax"
+              "title": "New tab"
             }
           }
         ]
@@ -67,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "python code",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -224,54 +206,54 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "a3db637bfdaa4428",
+  "active": "dff8edb3026af615",
   "lastOpenFiles": [
+    "03 - Resources/File and Folder/adguard-block-quilbot.txt",
+    "03 - Resources/File and Folder/Untitled.md",
+    "05 - Archives/Mastering Markdown.md",
+    "03 - Resources/File and Folder",
+    "03 - Resources/Adguard/Untitled.md",
+    "03 - Resources/Adguard",
+    "05 - Archives/Untitled.md",
+    "03 - Resources/Macos/Using hide email to sign up in any websites.md",
+    "06 - Temp/Help Quynh's friend to download an app related to work.md",
+    "03 - Resources/Ielts/Vocabs/Synonyms/Adjective as in different, unconnected.md",
+    "03 - Resources/Ielts/Vocabs/Synonyms/Preposition as in concerning, relating to.md",
+    "03 - Resources/Ielts/Vocabs/Synonyms/To describe Big.md",
+    "03 - Resources/Ielts/Writing/Task 1/Table/Internet activities by age group.md",
+    "03 - Resources/Ielts/Vocabs/Synonyms",
+    "03 - Resources/Ielts/Vocabs/Thesaurus.md",
     "03 - Resources/Macos/Spotlight useless for core apps.md",
-    "03 - Resources/Ielts/Writing/Task 1/Table/Practice 9.md",
+    "03 - Resources/Ielts/Vocabs/Verbs.md",
+    "Pasted image 20250705143527.png",
+    "03 - Resources/Ielts/Writing/Task 1/Line Chart/The percentages of Australian export with four countries.md",
     "03 - Resources/Macos/Bypass \"App is damaged\" error.md",
-    "conflict-files-obsidian-git.md",
+    "03 - Resources/Ielts/Writing/Task 1/Line Chart",
     "enhanced_cheese_process.png",
+    "Pasted image 20250701160010.png",
+    "03 - Resources/Howto/Download subfolder from Github.md",
+    "06 - Temp",
+    "03 - Resources/Obsidian/Dataview Obsidian Syntax.md",
+    "03 - Resources/Ielts/Writing/Task 1/Process/Example 1.md",
+    "03 - Resources/Obsidian/Markdown Syntax.md",
+    "03 - Resources/Ielts/Writing/Task 1/Table/Practice 9.md",
+    "conflict-files-obsidian-git.md",
     "03 - Resources/Ielts/Writing/Task 1/Table/Practice 8.md",
     "03 - Resources/Ielts/Writing/Task 1/Table/Practice 7.md",
     "03 - Resources/Ielts/Writing/Task 1/Table/Practice 10.md",
     "03 - Resources/Ielts/Writing/Task 1/Table/Practice 11.md",
-    "03 - Resources/Python/Pythoric programming/zip(strict=True) and itertools.zip_longest().md",
-    "03 - Resources/Python/Pythoric programming/The Walrus Operator for “Loop-and-a-Half” Blocks.md",
-    "03 - Resources/Python/Pythoric programming/zip() Simplifies Using Multiple Iterables.md",
-    "00 - Inbox/Wedding tables.md",
-    "00 - Inbox/README.md",
     "03 - Resources/Video bank/local videos/Screen Recording 2024-10-03 at 14.51.04.mov",
     "03 - Resources/Video bank/local videos",
     "03 - Resources/Video bank/untitled folder",
     "03 - Resources/Video bank",
     "03 - Resources/untitled folder",
-    "README.md",
-    "03 - Resources/Github/How to restore deleted files in git.md",
-    "01 - Projects/Better Python Code Book.md",
-    "03 - Resources/Python/Python zip() Function.md",
-    "03 - Resources/Obsidian/Markdown Syntax.md",
-    "How to restore deleted files in git.md",
-    "01 - Projects/k.md",
-    "04 - Daily/2024/10-October/02-10-2024 - Wednesday.md",
-    "04 - Daily/2024/10-October",
-    "01 - Projects/Course Progress - Learn Python 3 (Codecademy).md",
-    "03 - Resources/Howto/How to view contain in Medium Premium for Free.md",
-    "03 - Resources/Database/Fifth Normal Form.md",
-    "01 - Projects/Read the \"Digital Zettelkasten\" Book.md",
-    "03 - Resources/Python/Loop-and-a-half pattern.md",
-    "03 - Resources/Python/Pythoric programming",
     "03 - Resources/Images bank/Pasted images/Pasted image 20241001145417.png",
-    "03 - Resources/Database/MySql",
-    "02 - Areas/Python Programming",
-    "03 - Resources/Python",
     "03 - Resources/Macos/Wallpapers Macos/wallpaperflare.com_wallpaper (1).jpg",
     "03 - Resources/Macos/Wallpapers Macos/wallpaperflare.com_wallpaper.jpg",
     "03 - Resources/Images bank/Motivational images/ACB78478-0C9B-4579-8FFA-251C3DE78F26.jpg",
     "03 - Resources/Images bank/Pasted images/Pasted image 20240921195850.png",
     "03 - Resources/Images bank/Pasted images/Pasted image 20240921195155.png",
     "Pasted Image 20240926095542_331.png",
-    "03 - Resources/Images bank/Pasted images/Pasted image 20240924152154.png",
-    "03 - Resources/Macos/Wallpapers Macos/wallpaperflare.com_wallpaper (5).jpg",
     "Untitled.canvas"
   ]
 }
