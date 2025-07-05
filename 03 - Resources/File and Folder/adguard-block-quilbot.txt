@@ -1,1 +1,0 @@
-||quillbot.com/api/auth/get-account-details^
