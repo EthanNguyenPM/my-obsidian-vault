@@ -16582,7 +16582,8 @@ var DEFAULT_SETTINGS = {
   conjunctionEnabled: true,
   conjunctionColor: "#01934e",
   classToApplyHighlightingTo: "",
-  wordsToOverride: ""
+  wordsToOverride: "",
+  enabled: true
 };
 var NLSyntaxHighlightSettingTab = class extends import_obsidian.PluginSettingTab {
   constructor(app, plugin5) {
@@ -16592,6 +16593,12 @@ var NLSyntaxHighlightSettingTab = class extends import_obsidian.PluginSettingTab
   display() {
     const { containerEl } = this;
     containerEl.empty();
+    new import_obsidian.Setting(containerEl).setName("Enabled").setDesc("Toggle the highlighting on or off").addToggle((toggle) => toggle.setValue(this.plugin.settings.enabled).onChange(async (value) => {
+      this.plugin.settings.enabled = value;
+      await this.plugin.saveSettings();
+      this.plugin.updateExtensionEnabled(value);
+    }));
+    new import_obsidian.Setting(containerEl).setName("Parts of speech").setHeading();
     const adjectives = new import_obsidian.Setting(containerEl).setName("Adjectives");
     let adjectiveToggle;
     adjectives.addToggle((toggle) => {
@@ -16677,6 +16684,7 @@ var NLSyntaxHighlightSettingTab = class extends import_obsidian.PluginSettingTab
       await this.plugin.saveSettings();
       this.plugin.reloadStyle();
     }));
+    new import_obsidian.Setting(containerEl).setName("Misc").setHeading();
     new import_obsidian.Setting(containerEl).setName("Words to override").setDesc("Occasionally, words may be misclassfied. Type words here to override their classification. Use the format word: part-of-speech, with each word separated by a new line. e.g. snowy: adjective").addTextArea((text) => text.setValue(this.plugin.settings.wordsToOverride).setPlaceholder(`snowy: adjective
 cloud: noun`).onChange(async (value) => {
       this.plugin.settings.wordsToOverride = value;
@@ -16701,10 +16709,11 @@ var NLSyntaxHighlightPlugin = class extends import_obsidian2.Plugin {
     await this.loadSettings();
     this.addSettingTab(new NLSyntaxHighlightSettingTab(this.app, this));
     this.loadWordsToOverrideDict();
-    this.extensions = [NLSyntaxHighlightViewPlugin.extension];
+    this.extensions = this.settings.enabled ? [NLSyntaxHighlightViewPlugin.extension] : [];
     this.registerEditorExtension(this.extensions);
     this.styleEl = document.head.createEl("style");
     this.reloadStyle();
+    this.addCommands();
   }
   onunload() {
     this.styleEl.remove();
@@ -16714,6 +16723,25 @@ var NLSyntaxHighlightPlugin = class extends import_obsidian2.Plugin {
   }
   async saveSettings() {
     await this.saveData(this.settings);
+  }
+  addCommands() {
+    this.addCommand({
+      id: "toggle-enabled",
+      name: "Toggle on/off",
+      callback: async () => {
+        this.settings.enabled = !this.settings.enabled;
+        await this.saveSettings();
+        this.updateExtensionEnabled(this.settings.enabled);
+      }
+    });
+  }
+  updateExtensionEnabled(enabled) {
+    if (enabled) {
+      this.extensions.push(NLSyntaxHighlightViewPlugin.extension);
+    } else {
+      this.extensions.pop();
+    }
+    this.app.workspace.updateOptions();
   }
   convertSettingsToStyle(settings) {
     let style = "";
@@ -16747,9 +16775,13 @@ var NLSyntaxHighlightPlugin = class extends import_obsidian2.Plugin {
     this.wordsToOverrideDict = dict;
   }
   reloadEditorExtensions() {
-    this.extensions.pop();
-    this.app.workspace.updateOptions();
-    this.extensions.push(NLSyntaxHighlightViewPlugin.extension);
+    if (this.settings.enabled) {
+      this.extensions.pop();
+      this.app.workspace.updateOptions();
+      this.extensions.push(NLSyntaxHighlightViewPlugin.extension);
+    }
     this.app.workspace.updateOptions();
   }
 };
+
+/* nosourcemap */

@@ -1,14 +1,15 @@
 {
   "adjectiveEnabled": true,
-  "adjectiveColor": "#b97a0a",
+  "adjectiveColor": "#7198c8",
   "nounEnabled": true,
-  "nounColor": "#ce4924",
+  "nounColor": "#eb9662",
   "adverbEnabled": true,
-  "adverbColor": "#c333a7",
+  "adverbColor": "#e27e7d",
   "verbEnabled": true,
-  "verbColor": "#177eB8",
+  "verbColor": "#c69bc9",
   "conjunctionEnabled": true,
-  "conjunctionColor": "#01934e",
+  "conjunctionColor": "#c67f62",
   "classToApplyHighlightingTo": "IELTS",
-  "wordsToOverride": ""
+  "wordsToOverride": "",
+  "enabled": true
 }

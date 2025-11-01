@@ -25,6 +25,10 @@
     {
       "folder": "01 - Projects",
       "template": "99 - Extras/Templates/Template, project template.md"
+    },
+    {
+      "folder": "03 - Resources/Ielts/Writing",
+      "template": "99 - Extras/Templates/Template, IELTS writing template.md"
     }
   ],
   "syntax_highlighting": true,
