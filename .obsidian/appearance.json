@@ -1,9 +1,10 @@
 {
-  "cssTheme": "Obsidian gruvbox",
+  "cssTheme": "Things",
   "textFontFamily": "JetBrains Mono NL",
   "interfaceFontFamily": "JetBrains Mono NL",
   "enabledCssSnippets": [
     "status-bar-item"
   ],
-  "translucency": false
+  "translucency": false,
+  "theme": "moonstone"
 }
