@@ -1,8 +1,25 @@
 ---
 tags:
   - resources
-  - vocabulary
   - ielts
+  - glossary
+aliases:
+  - big
+  - tremendous
+  - hefty
+  - large
+  - great
+  - enormous
+  - respectable
+  - immense
+  - generous
+  - gigantic
+  - colossal
+  - astronomical
+  - substantial
+  - ginormous
+cssclasses:
+  - IELTS
 ---
 - `Big`
 	- They live in a big house in the City.
@@ -11,7 +28,7 @@ tags:
 - `hefty` 
 	- The speeding motorist was given a hefty fine.
 - `large`
-	- The large number of people was crowded into the room.
+	- A large number of people were crowded into the room.
 - `considerable`
 	- Considerable criticism has been levelled at her leadership
 - `great`
@@ -31,6 +48,6 @@ tags:
 - `astronomical`
 	- Professional footballers are paid astronomical sums.
 - `substantial`
-	- She is known to have made substantial donation to.
+	- She is known to have made a substantial donation to.
 - `ginormous`
 	- The guy has a ginormous ego.

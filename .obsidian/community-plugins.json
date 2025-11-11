@@ -21,8 +21,10 @@
   "obsidian-plugin-toc",
   "obsidian-excalidraw-plugin",
   "emera",
-  "highlightr-plugin",
   "darlal-switcher-plus",
   "obsidian-vimrc-support",
-  "diagram-zoom-drag"
+  "obsidian-image-toolkit",
+  "highlightr-plugin",
+  "enhanced-annotations",
+  "virtual-linker"
 ]

@@ -2,7 +2,7 @@
 tags:
   - resources
 ---
->**ToTopic: Describe a person you admire
+>**To Topic: Describe a person you admire
  You should say:
 	•	Who the person is
 	•	What they are like

@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Resources/Ielts/Writing/Diary/November 4th.md",
+                "file": "03 - Resources/Ielts/Glossary/Incorporation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "November 4th"
+              "title": "Incorporation"
+            }
+          },
+          {
+            "id": "a7e995854a70dbfd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - Resources/Ielts/Glossary/Nang cap tu vung IELTS 2500+/A big moment.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "A big moment"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,6 +199,16 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
+          },
+          {
+            "id": "1244755ac354ca09",
+            "type": "leaf",
+            "state": {
+              "type": "annotations-outline",
+              "state": {},
+              "icon": "message-square",
+              "title": "Enhanced Annotations"
+            }
           }
         ],
         "currentTab": 5
@@ -208,49 +233,51 @@
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
-      "darlal-switcher-plus:Open Symbols for the active editor": false
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "hi-note:HiNote": false
     }
   },
-  "active": "38b81f636bc42a00",
+  "active": "dbe14d5657bb3253",
   "lastOpenFiles": [
-    "03 - Resources/Ielts/Speaking/Part 1/Doing something well.md",
+    "03 - Resources/Ielts/Glossary/To describe Big.md",
+    "03 - Resources/Ielts/Glossary/Nang cap tu vung IELTS 2500+/A big moment.md",
+    "03 - Resources/Ielts/Glossary/Nang cap tu vung IELTS 2500+",
+    "03 - Resources/Ielts/Glossary/Untitled.md",
+    "03 - Resources/Ielts/Glossary/Preposition as in concerning, relating to.md",
+    "03 - Resources/Ielts/Glossary/Incorporation.md",
+    "03 - Resources/Ielts/Writing/Task 2/Advantages And Disadvantages/The use of technology in classrooms has become increasingly common in recent years. Do the advantages of using technology in education outweigh the disadvantages?.md",
+    "03 - Resources/Ielts/Vocabs/High-Impact IELTS Collocations & Phrases.md",
+    "03 - Resources/Ielts/Vocabs/Checklist Thesaurus.md",
+    "03 - Resources/Ielts/Vocabs/Sorted Thesaurus.md",
+    "03 - Resources/Ielts/Vocabs/My essential vocabs.md",
+    "03 - Resources/Ielts/Vocabs/Important words.md",
+    "03 - Resources/Ielts/Vocabs/Synonyms/Adjective as in different, unconnected.md",
+    "99 - Extras/Templates/Template, IELTS glossary.md",
+    "99 - Extras/Templates/Template, IELTS writing template.md",
+    "03 - Resources/Ielts/Speaking/Part 2/People.md",
+    "03 - Resources/Ielts/Speaking/People/Topic.md",
+    "03 - Resources/Ielts/Glossary",
+    "03 - Resources/Ielts/Writing/Task 2/Positive And Negative/Some children spend hours every day on their smartphones. Why is this the case? Is it a positive or negative trend?.md",
+    "enhanced_cheese_process.png",
+    "Pasted image 20250705143527.png",
+    "03 - Resources/Ielts/Writing/Task 1/Line Chart/The line graphs below show the number of hospital beds per 1,000 people, and the percentage of patients who waited up to one month and those who waited more than one month for elective surgery in five countries in 2010, 2014, and 2018..md",
+    "03 - Resources/Ielts/Writing/Task 2/Advantages And Disadvantages",
+    "03 - Resources/Ielts/Writing/Task 1/Line Chart/Pasted Images/Pasted image 20251109152228.png",
+    "03 - Resources/Ielts/Writing/Task 1/Line Chart/Pasted Images",
+    "03 - Resources/Ielts/Writing/Task 1/Line Chart/The percentages of Australian export with four countries.md",
     "03 - Resources/Ielts/Writing/Diary/November 4th.md",
+    "03 - Resources/Ielts/Speaking/Part 1/Doing something well.md",
     "03 - Resources/Ielts/Writing/Diary",
     "03 - Resources/Untitled",
     "03 - Resources/Ielts/Speaking/Part 3/Accommodations and Building.md",
     "03 - Resources/Ielts/Speaking/Part 3/Advertisement.md",
     "03 - Resources/Ielts/Speaking/Part 1",
-    "03 - Resources/Ielts/Writing/Task 2/Positive And Negative/Some children spend hours every day on their smartphones. Why is this the case? Is it a positive or negative trend?.md",
     "03 - Resources/Ielts/Speaking/Accommodation & Buildings",
     "03 - Resources/Ielts/Writing/Opinion.md",
     "03 - Resources/Ielts/Writing/20-3-2025.md",
-    "99 - Extras/Templates/Template, IELTS writing template.md",
     "99 - Extras/Templates/Template, resource template.md",
-    "99 - Extras/Templates/Template, project template.md",
-    "03 - Resources/Ielts/Writing/Task 2/Untitled.md",
     "03 - Resources/Ielts/Writing/Task 2/Positive And Negative",
-    "03 - Resources/Ielts/Writing/opinion/Some people think that homework should be given to students every day, while others believe it is unnecessary. Do you agree or disagree?.md",
-    "03 - Resources/Ielts/Writing/Untitled.md",
     "03 - Resources/Ielts/Writing/Task 2",
-    "03 - Resources/File and Folder/adguard-block-quilbot.txt",
-    "03 - Resources/File and Folder/Untitled.md",
-    "05 - Archives/Mastering Markdown.md",
-    "03 - Resources/File and Folder",
-    "03 - Resources/Adguard/Untitled.md",
-    "03 - Resources/Adguard",
-    "05 - Archives/Untitled.md",
-    "03 - Resources/Macos/Using hide email to sign up in any websites.md",
-    "06 - Temp/Help Quynh's friend to download an app related to work.md",
-    "03 - Resources/Ielts/Vocabs/Synonyms/Adjective as in different, unconnected.md",
-    "03 - Resources/Ielts/Vocabs/Synonyms/Preposition as in concerning, relating to.md",
-    "03 - Resources/Ielts/Vocabs/Synonyms/To describe Big.md",
-    "03 - Resources/Ielts/Writing/Task 1/Table/Internet activities by age group.md",
-    "03 - Resources/Ielts/Vocabs/Synonyms",
-    "03 - Resources/Ielts/Vocabs/Thesaurus.md",
-    "03 - Resources/Macos/Spotlight useless for core apps.md",
-    "03 - Resources/Ielts/Vocabs/Verbs.md",
-    "Pasted image 20250705143527.png",
-    "enhanced_cheese_process.png",
     "Pasted image 20250701160010.png",
     "03 - Resources/Images bank/Pasted images/Pasted image 20241001145417.png",
     "03 - Resources/Macos/Wallpapers Macos/wallpaperflare.com_wallpaper (1).jpg",
@@ -258,7 +285,6 @@
     "03 - Resources/Images bank/Motivational images/ACB78478-0C9B-4579-8FFA-251C3DE78F26.jpg",
     "03 - Resources/Images bank/Pasted images/Pasted image 20240921195850.png",
     "03 - Resources/Images bank/Pasted images/Pasted image 20240921195155.png",
-    "Pasted Image 20240926095542_331.png",
     "Untitled.canvas"
   ]
 }
