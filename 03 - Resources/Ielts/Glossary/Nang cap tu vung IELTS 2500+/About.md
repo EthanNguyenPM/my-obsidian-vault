@@ -1,0 +1,28 @@
+---
+tags:
+  - resources
+  - glossary
+aliases:
+  - Concerning
+  - regarding
+  - With regard to
+  - as regards
+  - as to
+  - in respect of
+  - with respect to
+  - in reference to
+  - relating to
+  - in connection with
+  - in terms of
+---
+- Concerning: về: lien quan đến
+- Regarding: về, đối với
+- In/with regard to: về, đối với
+- As respects: Về, liên quan đến, đối với
+- As to: về
+- In respect of: liên quan đến, đối với
+- With respect to: về, đối với, liên quan đến
+- With/in reference to: về, đối với 
+- Relating to: liên quan đến, về
+- In connection with: về, liên quan đến
+- In terms of: xét về, đối với
