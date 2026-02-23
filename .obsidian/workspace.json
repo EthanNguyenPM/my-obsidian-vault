@@ -27,16 +27,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Resources/Ielts/Speaking/Cook.md",
+                "file": "00 - Inbox/New vocab.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cook"
+              "title": "New vocab"
+            }
+          },
+          {
+            "id": "4f66e6083ad73d60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - Resources/Ielts/Vocabs/vocabs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "vocabs"
+            }
+          },
+          {
+            "id": "4e5f0144bff63be4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - Resources/Ielts/Writing/Task 2/Advantages And Disadvantages/Some people prefer to live in a house, while others feel that there are more advantages to living in an apartment. Are there more advantages than disadvantages of living in a house compared with living in an apartment..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Some people prefer to live in a house, while others feel that there are more advantages to living in an apartment. Are there more advantages than disadvantages of living in a house compared with living in an apartment."
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -68,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pub",
+                "query": " ground",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -236,37 +264,39 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "a7e995854a70dbfd",
+  "active": "4e5f0144bff63be4",
   "lastOpenFiles": [
-    "03 - Resources/Ielts/Speaking/Tinder.md",
+    "03 - Resources/Ielts/Vocabs/vocabs.md",
+    "03 - Resources/Ielts/Vocabs/Verbs.md",
+    "03 - Resources/Ielts/Vocabs/Sorted Thesaurus.md",
+    "03 - Resources/Ielts/Vocabs/My essential vocabs.md",
+    "03 - Resources/Ielts/Vocabs/Important words.md",
+    "03 - Resources/Ielts/Vocabs/High-Impact IELTS Collocations & Phrases.md",
+    "03 - Resources/Ielts/Vocabs/Checklist Thesaurus.md",
+    "00 - Inbox/Pasted Images/Pasted image 20260213232430.png",
+    "00 - Inbox/Automation Tool Backend.md",
+    "00 - Inbox/English vocab 25-9-2024.md",
+    "00 - Inbox/New vocab.md",
+    "00 - Inbox/Wedding tables.md",
+    "03 - Resources/Ielts/Writing/Task 2/Advantages And Disadvantages/Some people prefer to live in a house, while others feel that there are more advantages to living in an apartment. Are there more advantages than disadvantages of living in a house compared with living in an apartment..md",
+    "03 - Resources/Ielts/Glossary/Incorporation.md",
+    "03 - Resources/Ielts/Writing/Task 2/Advantages And Disadvantages/The use of technology in classrooms has become increasingly common in recent years. Do the advantages of using technology in education outweigh the disadvantages?.md",
+    "00 - Inbox/Pasted Images",
+    "03 - Resources/Ielts/Writing/Diary/20th January 2026.md",
+    "03 - Resources/Ielts/Writing/Task 2/Positive And Negative/Some children spend hours every day on their smartphones. Why is this the case? Is it a positive or negative trend?.md",
+    "03 - Resources/Terminal/WezTerm Configuration.md",
+    "03 - Resources/Ielts/Writing/Diary/19th January 2026.md",
+    "03 - Resources/Ielts/Speaking/Transportation.md",
     "03 - Resources/Ielts/Speaking/Cook.md",
+    "03 - Resources/Ielts/Speaking/Tinder.md",
     "03 - Resources/Ielts/Speaking/Social Media.md",
     "03 - Resources/Ielts/Speaking/Routine.md",
     "03 - Resources/Ielts/Speaking/Role Models.md",
     "03 - Resources/Ielts/Speaking/Celebrities.md",
     "Untitled.base",
     "03 - Resources/Ielts/Speaking/Part 1/Doing something well.md",
-    "03 - Resources/Ielts/Speaking/Part 1/stories.md",
-    "03 - Resources/Ielts/Writing/Task 2/Advantages And Disadvantages/The use of technology in classrooms has become increasingly common in recent years. Do the advantages of using technology in education outweigh the disadvantages?.md",
-    "03 - Resources/Ielts/Writing/Diary/November 20th.md",
     "03 - Resources/Ielts/Speaking/Part 1/stories",
-    "03 - Resources/Ielts/Glossary/Nang cap tu vung IELTS 2500+/About.md",
-    "03 - Resources/Ielts/Glossary/Nang cap tu vung IELTS 2500+/A big moment.md",
-    "03 - Resources/Ielts/Glossary/To describe Big.md",
-    "03 - Resources/Ielts/Glossary/Preposition as in concerning, relating to.md",
-    "03 - Resources/Ielts/Glossary/Incorporation.md",
     "03 - Resources/Ielts/Glossary/Nang cap tu vung IELTS 2500+",
-    "03 - Resources/Ielts/Glossary/Untitled.md",
-    "03 - Resources/Ielts/Vocabs/High-Impact IELTS Collocations & Phrases.md",
-    "03 - Resources/Ielts/Vocabs/Checklist Thesaurus.md",
-    "03 - Resources/Ielts/Vocabs/Sorted Thesaurus.md",
-    "03 - Resources/Ielts/Vocabs/My essential vocabs.md",
-    "03 - Resources/Ielts/Vocabs/Important words.md",
-    "03 - Resources/Ielts/Vocabs/Synonyms/Adjective as in different, unconnected.md",
-    "99 - Extras/Templates/Template, IELTS glossary.md",
-    "99 - Extras/Templates/Template, IELTS writing template.md",
-    "03 - Resources/Ielts/Speaking/Part 2/People.md",
-    "03 - Resources/Ielts/Speaking/People/Topic.md",
     "03 - Resources/Ielts/Glossary",
     "enhanced_cheese_process.png",
     "Pasted image 20250705143527.png",
@@ -276,14 +306,12 @@
     "03 - Resources/Ielts/Writing/Diary",
     "03 - Resources/Untitled",
     "03 - Resources/Ielts/Speaking/Part 1",
-    "03 - Resources/Ielts/Speaking/Accommodation & Buildings",
     "Pasted image 20250701160010.png",
     "03 - Resources/Images bank/Pasted images/Pasted image 20241001145417.png",
     "03 - Resources/Macos/Wallpapers Macos/wallpaperflare.com_wallpaper (1).jpg",
     "03 - Resources/Macos/Wallpapers Macos/wallpaperflare.com_wallpaper.jpg",
     "03 - Resources/Images bank/Motivational images/ACB78478-0C9B-4579-8FFA-251C3DE78F26.jpg",
     "03 - Resources/Images bank/Pasted images/Pasted image 20240921195850.png",
-    "03 - Resources/Images bank/Pasted images/Pasted image 20240921195155.png",
     "Untitled.canvas"
   ]
 }
