@@ -4626,6 +4626,7 @@ identities
 inadequate
 isolated
 iteration
+impactful
 Tan
 Thursday
 Tuesday
@@ -7674,6 +7675,7 @@ opine
 outrage
 offenders
 occasionally
+oneself
 Cat
 Chrome
 Convert
@@ -8332,6 +8334,7 @@ California
 Center
 Crimes
 Corporate
+Coursera
 suck
 struggling
 ss
@@ -9423,6 +9426,7 @@ stretched
 southeastern
 surf
 southwards
+segregate
 xin
 xPhotoshop
 xk
@@ -12943,6 +12947,7 @@ absorbed
 assaults
 accountable
 acting
+academy
 guess
 get
 gUp
@@ -14362,6 +14367,8 @@ deterrent
 discouraging
 distorted
 dining
+demonstration
+directed
 fdsafddafdsaf
 fdsaf
 file
@@ -19225,6 +19232,11 @@ exciting
 emergencies
 eastward
 enlarged
+electric
+exchanging
+exposes
+excelling
+establishes
 right
 required
 readability
@@ -20904,6 +20916,8 @@ preventive
 playground
 pool
 pavilion
+prioritizes
+pragmatic
 Notes
 Nv
 NI
@@ -25504,6 +25518,7 @@ upper
 undergone
 unable
 unrest
+unified
 Read
 RTF
 Requirements
@@ -29996,6 +30011,7 @@ United
 Universal
 Uruguay
 University
+Udemy
 just
 jf
 jW
