@@ -177,4 +177,24 @@ confiscate
 
 abnegate
 
- yYou know, I currently live with my parents in my house. You know, in my house right now I have a small bed, and I get to share it with my older brother.
+ You know, I currently live with my parents in my house. You know, in my house right now I have a small bed, and I get to share it with my older brother.
+
+ramify 
+
+erratic
+
+dissimulate
+
+ration 
+
+offset 
+
+transcend 
+
+confluence
+
+get by
+
+u have to catch up, u have to give yourself sometimes to do that 
+
+it's gonna take as long it takes

@@ -1,15 +1,7 @@
-- Dân 19
-	- (15+21+21)=57 khu 19
-- Dân Km 16
-	- (7+24+16+5+3+4+19+12)=90 km 16
-- Dân 19 
-	- (7+22+31+20+11+25)=116 km 19
-- Dân Phước An
-	- (35+33+30+30+17)=145 phước an
-- Dân Thôn 2
-	- (44+20+27+24+32+18)=165 Thôn 2
+**The line graph shows changes in the percentage of adults using three types of social media platforms between 2010 and 2025.**
 
-# Tổng bàn
-(15+21+21)+(7+24+16+5+3+4+19+12)+(7+22+31+20+11+25)+(35)+(33+30+30+17)+(44+20+27+24+32+18)=573
+Overall, usage of all three platforms grew over the period, though the rate of increase varied considerably. Video-based platforms experienced the most dramatic rise, while text-based networks showed the most modest growth.
 
-57+90+116+145+165=573
+Video platforms and image-sharing sites both followed an upward trajectory throughout the period. Video usage surged from just 5% in 2010 to 62% by 2025, with particularly steep growth after 2018. Similarly, image platforms climbed steadily from 10% to 45%, though their growth levelled off noticeably after 2022.
+
+Text-based networks, by contrast, increased at a far more gradual pace, rising from 20% to only 33% over fifteen years. Despite beginning the period with the highest usage rate, they were overtaken by both competing platforms by 2020, underscoring a clear shift in user preference toward visual content.
