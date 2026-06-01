@@ -33,6 +33,10 @@
     {
       "folder": "03 - Resources/Ielts/Glossary",
       "template": "99 - Extras/Templates/Template, IELTS glossary.md"
+    },
+    {
+      "folder": "03 - Resources/Ielts/Writing Forecast",
+      "template": "99 - Extras/Templates/Template, IELTS writing template.md"
     }
   ],
   "syntax_highlighting": true,
