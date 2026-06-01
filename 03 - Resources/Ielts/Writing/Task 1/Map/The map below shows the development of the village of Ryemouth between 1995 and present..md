@@ -7,32 +7,20 @@ cssclasses:
 ---
 ![[Pasted image 20260322175618.png]]
 
-The line chart illustrates the development of Reymouth village from 1995 to the present.
+The maps illustrate how Ryemouth village has changed between 1995 and today.
 
-Overall, the area has shifted from a predominantly rural and fishing-based settlement to a more urbanized and recreational-oriented region. The key changes include the expansion of housing, the introduction of new amenities, and the complete elimination of farmland, forest park, and other features.
+Overall, the area has been significantly transformed, shifting from a fishing and agricultural zone to a comprehensive tourist and leisure destination, marked by extensive replacement and expansion.
 
-The southwest of the area, in 1995, was dominated by the farmland and the forest park of free in the west, while the west is the residential area with a road from the northwest to the southeast of the village bisecting these two areas. This dwelling area comprised two distinct zones, one along the road and another enclosed by its own road. In the present, the residential region has expanded with more houses, with a new road leading to the west outside of the village. The farmland and forest park have been converted into a golf course and tennis courts. 
+In 1995, the layout was divided into three distinct areas by two roads. One road ran diagonally from northwest to southeast, while the other road cut through from west to east, parallel to the coastline, with the two intersecting near the midpoint of the coastal road. A row of housing units lined on both sides of the diagonal road, and a housing block surrounded by its internal roads was located further to the southwest along this road. Below the intersection, a row of shops stretched westward along the northern side of the coastal road, while a hotel stood to the east of the intersection. The coastal strip was occupied by a fishing port and fish markets, with a cafe situated to their east. The northeastern section was dominated by farmland and a forest park.
 
-The central part extends southward from the northern region to a coastal road that runs from the west to the east. A line of shops was located at the western end of the road in the past, whereas the hotel was situated at the other end, all positioned north of this road. Currently, restaurants have been opened to replace the shopping area. Moreover, the hotel has been equipped with a car park to its east.
-
-The southern area stretches from the southern side of the coastal road to the sea to the south. This region used to feature a fish market and a cafe across the road, positioned opposite the shops and the hotel, respectively. For the time being, there has been a conversion of the fish market into seafront apartments, albeit with the removal of the fishing port from the sea. 
+On the contrary, the present village has been transformed considerably. The farmland and forest park have been replaced completely by a golf course and tennis courts
 
 
 
+The maps illustrate how Ryemouth village has changed between 1995 and the present.
 
+Overall, the entire area has undergone a major redevelopment, shifting from a fishing and farming zone to a comprehensive tourist destination, characterized by the construction of new housing, the introduction of new amenities, and the complete demolition of farmland, the forest park, and other features.
 
+In 1995, the map was divided into three distinct zones by two roads. The first road ran diagonally from the northwest to the southeast of the map, while the second road ran from the west to the east, parallel to the coastline, with the two intersecting near the center of the map. To the northwest of the diagonal road lay a row of housing on each side, alongside a housing block encircled by its own roads and situated further southwest. Below the intersection, a row of shops stretched westward to the north of the coastal road, while a hotel stood to the east. The coastal strip was occupied by a fish market and a fishing port, with a café located to the east of them. The northeastern section was dominated by farmland and a forest park. 
 
-
-
-
-----
-
-The two maps illustrate how Ryemouth village has developed over the past thirty years.
-
-Overall, the area has shifted from a predominantly rural and fishing-based settlement to a more urbanized and recreational-oriented region. The key changes include the expansion of housing, the introduction of new amenities, and the complete elimination of all farming and fishing activities.
-
-The northern section, in 1995, was dominated by farmland and a forest park with trees in the east, while the west featured a residential area, with a road from the northwest to the southeast of the village bisecting these two areas. The dwelling area consisted of two distinct zones, one along the road and another enclosed by its own road. In the present, the residential area has expanded with more houses, with a new road leading to the west outside the village. The farmland and the forest park have been converted into a golf course and tennis courts.
-
-The central area extends southward from the northern region to a coastal road that runs from the west to the east. A line of shops was located at the western end of the road in the past, whilst a hotel was situated at the other end, all positioned north of this road. Currently, restaurants have been opened to replace the shopping area. Moreover, the hotel has been equipped with a new car park to its east.
-
-The southern area stretches from the southern side of the coastal road down to the sea to the south. This region used to feature a fish market and a cafe across the coastal road, positioned opposite the shops and the hotel, respectively. In the present, there has been the conversion of the fish market into seafront apartments, while the fishing port in the sea has been completely removed.
+By the present day, Ryemouth has been transformed considerably, turning it into a prominent tourist and leisure zone. The forest and farmland have been replaced by a golf course in the north and tennis courts to its south. Housing has expanded significantly along both sides of the diagonal road. Notably, a new road has been constructed that runs westward from the northern road of the encircled housing block. In addition, the former shops have been converted into a row of restaurants, and a car park has been added to the east of the hotel. Most notably, the fishing port and fish market have been demolished entirely, giving way to a row of seafront apartments. The cafe remains in its original position near the shore.
