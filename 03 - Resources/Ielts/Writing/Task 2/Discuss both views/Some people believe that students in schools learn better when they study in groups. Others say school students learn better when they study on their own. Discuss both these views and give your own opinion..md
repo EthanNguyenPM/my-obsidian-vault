@@ -3,6 +3,7 @@ tags:
   - ielts
   - writing
 cssclasses:
+  - IELTS
 ---
 There is an ongoing debate over the most effective learning method for students. Some people believe students learn more effectively when they study in groups, while others argue that independent study is a better method. Although both approaches offer certain advantages, I contend that self-study is generally more beneficial, provided that group learning is used when necessary.
 
