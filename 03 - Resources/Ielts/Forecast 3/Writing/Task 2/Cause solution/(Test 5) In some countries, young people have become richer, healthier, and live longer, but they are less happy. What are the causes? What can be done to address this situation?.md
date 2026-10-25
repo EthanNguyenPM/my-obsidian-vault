@@ -1,0 +1,11 @@
+---
+tags:
+  - resources
+---
+_In some countries, youngsters enjoy greater wealth, better health, and longer life expectancy than their predecessors, yet they are less happy. I believe this mainly results from constant social comparison and growing pressure to succeed. Addressing these issues requires support from schools, governments, and employers.
+
+_One major cause is the tendency to compare personal circumstances with idealized portrayals of life circulated on social media. Young people who use social media daily often encounter images of professional success, expensive holidays, and perfect relationships. Since these posts rarely show everyday difficulties, they can create unrealistic expectations of what a successful life should look like. Consequently, even financially comfortable individuals may become dissatisfied because they believe others are doing better. Another reason is intense academic and career pressure. When young people feel that their worth hinges on examination results or professional achievements, they may sacrifice their friendships and leisure activities. Material progress, therefore, does not necessarily translate into emotional well-being.
+
+_Several measures can address this situation. First, schools should teach media literacy so that students can understand how online content is selected and edited. Parents can also encourage reasonable limits on social media and more time spent on enjoyable offline activities. These changes could reduce unhealthy comparisons and strengthen personal relationships. Second, educational institutions and employers should provide accessible counselling and avoid placing excessive demands on young people. Schools could offer clubs and recreational activities alongside academic study, while employers could promote reasonable working hours. Such measures would give young people more opportunities to develop interests beyond their achievements and build supportive relationships. 
+
+_In conclusion, greater wealth and better physical health do not guarantee happiness when young people contend with relentless comparisons and excessive pressure to do well. More realistic expectations, stronger social connections, and supportive study and working environments could help improve their well-being

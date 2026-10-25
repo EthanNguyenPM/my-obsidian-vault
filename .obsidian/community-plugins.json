@@ -22,8 +22,9 @@
   "obsidian-excalidraw-plugin",
   "emera",
   "darlal-switcher-plus",
-  "obsidian-image-toolkit",
   "highlightr-plugin",
   "enhanced-annotations",
-  "obsidian-vimrc-support"
+  "obsidian-vimrc-support",
+  "sidebar-keyboard-navigation",
+  "local-pane-navigation"
 ]

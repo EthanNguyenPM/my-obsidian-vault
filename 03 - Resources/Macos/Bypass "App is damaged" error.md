@@ -17,5 +17,5 @@ xattr -cr /Applications/App\ name.app && codesign --force --deep --sign - /Appli
 
 ```bash
 xattr -cr ~/Desktop/ && codesign --force --deep --sign - ~/Desktop/
-```
-
+``
+![[Pasted image 20260827153127.png]]

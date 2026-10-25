@@ -6,5 +6,30 @@
       ],
       "key": "H"
     }
+  ],
+  "local-pane-navigation:left": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "H"
+    }
+  ],
+  "local-pane-navigation:right": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "L"
+    }
+  ],
+  "workspace:next-tab": [
+    {
+      "modifiers": [
+        "Meta",
+        "Shift"
+      ],
+      "key": "]"
+    }
   ]
 }

@@ -1,0 +1,9 @@
+{
+  "id": "local-pane-navigation",
+  "name": "Local Pane Navigation",
+  "version": "1.0.0",
+  "minAppVersion": "1.5.0",
+  "description": "Control H/L between Files and editor panes.",
+  "author": "Local customization",
+  "isDesktopOnly": true
+}
