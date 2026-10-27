@@ -5,7 +5,6 @@
   "obsidian-completr",
   "url-into-selection",
   "tag-wrangler",
-  "settings-search",
   "obsidian-importer",
   "obsidian-relative-line-numbers",
   "obsidian-kanban",
@@ -24,7 +23,7 @@
   "darlal-switcher-plus",
   "highlightr-plugin",
   "enhanced-annotations",
-  "obsidian-vimrc-support",
   "sidebar-keyboard-navigation",
-  "local-pane-navigation"
+  "local-pane-navigation",
+  "vim-motions"
 ]

@@ -2435,6 +2435,7 @@ transmission
 telephone
 trusted
 talents
+totals
 hello
 highlight
 hahahaha
@@ -3280,6 +3281,7 @@ hug
 hco
 hyper
 histories
+hosted
 my
 moment
 modification
@@ -5077,6 +5079,8 @@ nov
 nNA
 nmX
 neutralizing
+nationals
+numbered
 is
 im
 inside
@@ -7724,6 +7728,7 @@ wdq
 wyC
 wxo
 wer
+worldjk
 What
 Wednesday
 Watch
@@ -20302,6 +20307,7 @@ fGr
 flm
 favour
 fraudulent
+fewest
 YYYY
 You
 YouTube
@@ -28046,6 +28052,7 @@ precautions
 practise
 preparations
 preparatory
+predominated
 Notes
 Nv
 NI
@@ -29074,7 +29081,6 @@ lDG
 lNY
 lVd
 lar
-loN
 lmS
 lmmmdc
 lSG
@@ -31239,6 +31245,9 @@ SDoT
 SNK
 SBW
 Sensitive
+Spanish
+Spain
+Spaniards
 January
 JPG
 JPEG
@@ -32708,6 +32717,8 @@ Izk
 IGdh
 IhQ
 IWx
+Italians
+Italian
 Planning
 Progress
 Plugins
@@ -33414,6 +33425,9 @@ PRc
 PnO
 Persistent
 Providing
+Poland
+Poles
+Polish
 up
 using
 used
@@ -36439,6 +36453,8 @@ Bvo
 BGw
 BtN
 Businesses
+Britain
+Britons
 Kindle
 Km
 Kv
@@ -38479,6 +38495,7 @@ GVx
 GJiO
 GVt
 Games
+Germans
 EPUB
 Email
 Extension
