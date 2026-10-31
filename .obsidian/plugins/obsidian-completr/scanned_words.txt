@@ -10295,6 +10295,7 @@ outperform
 oversee
 oversharing
 organisations
+overtaking
 Cat
 Chrome
 Convert
@@ -26906,6 +26907,7 @@ recognise
 render
 recreatio
 resilient
+risen
 plan
 plugin
 pay
@@ -31273,6 +31275,7 @@ Sensitive
 Spanish
 Spain
 Spaniards
+Stacked
 January
 JPG
 JPEG
