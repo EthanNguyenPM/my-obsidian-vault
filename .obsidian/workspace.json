@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Resources/Ielts/Forecast 3/Writing/Task 1/Bar/(Test 24) The chart compares the number of people per household by percentage in the UK in 1981 and 2001..md",
+                "file": "03 - Resources/Ielts/Forecast 3/Speaking/Person/(Test 2) Describe someone who is really care about the environment.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "(Test 24) The chart compares the number of people per household by percentage in the UK in 1981 and 2001."
+              "title": "(Test 2) Describe someone who is really care about the environment"
             }
           }
         ],
@@ -107,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 336.5,
-    "collapsed": true
+    "width": 336.5
   },
   "right": {
     "id": "9d566625d0a20a94",
@@ -172,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Resources/Ielts/Forecast 3/Writing/Task 1/Bar/(Test 24) The chart compares the number of people per household by percentage in the UK in 1981 and 2001..md",
+                "file": "03 - Resources/Ielts/Forecast 3/Speaking/Person/(Test 2) Describe someone who is really care about the environment.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -252,7 +251,11 @@
   },
   "active": "25b436974a97070d",
   "lastOpenFiles": [
+    "03 - Resources/Ielts/Forecast 3/Speaking/Person/(Test 1) Describe a person who successfully achieved something difficult?.md",
+    "03 - Resources/Ielts/Forecast 3/Speaking/Person/(Test 2) Describe someone who is really care about the environment.md",
     "03 - Resources/Ielts/Forecast 3/Writing/Task 1/Bar/(Test 24) The chart compares the number of people per household by percentage in the UK in 1981 and 2001..md",
+    "03 - Resources/Ielts/Forecast 3/Speaking/Person",
+    "03 - Resources/Ielts/Forecast 3/Speaking",
     "03 - Resources/Ielts/Forecast 3/Writing/Task 1/Bar/Pasted Images/Pasted image 20261030182133.png",
     "03 - Resources/Ielts/Forecast 3/Writing/Task 2/Agree to Disagree/(Test 23) Some people think that one of the best ways to solve environmental problems is to increase the cost of fuel for cars and other vehicles. To what extent do you agree or disagree?.md",
     "03 - Resources/Ielts/Forecast 3/Writing/Task 2/Agree to Disagree/(Test 21) Some countries spend a lot of money preparing competitors to take part in major competitions. Some people say that it's better to spend this money encouraging children to take up sports. To what extent do you agree or disagree?.md",
@@ -287,7 +290,6 @@
     "03 - Resources/Ielts/Forecast 3/Writing/Task 1/Pie/Pasted Images",
     "03 - Resources/Ielts/Forecast 3/Writing/Task 1/Pie",
     "03 - Resources/Ielts/Forecast 3/Writing/Task 1/Map/(Test 7) The maps below show a beachfront area in Australia in 1950 and today..md",
-    "03 - Resources/Ielts/Forecast 2/Writing Forecast/Task 2/Discuss both views/Many individuals say that spending on space exploration is a waste of money. This, instead, should be better used to solve current problems on Earth. To what degree do you support or oppose this idea?.md",
     "03 - Resources/Ielts/Forecast 3/Writing/Task 1/Map/Pasted Images/file-f815e37c8a113a31e27bd3a3e31d6533.png",
     "03 - Resources/Ielts/Forecast 3/Writing/Task 1/Table/Pasted Images",
     "03 - Resources/Ielts/Forecast 3/Writing/Task 1/Table",
@@ -295,8 +297,6 @@
     "03 - Resources/Ielts/Forecast 3/Writing/Task 1/Map/Pasted Images",
     "03 - Resources/Ielts/Forecast 3/Writing/Task 1/Map",
     "03 - Resources/Ielts/Forecast 3/Writing/Task 2/Positive and Negative",
-    "03 - Resources/Ielts/Forecast 3/Writing/Task 2/Cause solution",
-    "03 - Resources/Ielts/Forecast 3/Writing/Task 2/Agree to Disagree",
     "Untitled.canvas"
   ]
 }
