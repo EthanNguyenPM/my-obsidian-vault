@@ -11,28 +11,17 @@
             "id": "98758430430d72e6",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "03 - Resources/Ielts/Forecast 3/Writing/Task 1/Map/Pasted Images/Pasted image 20261024103030.png"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20261024103030"
-            }
-          },
-          {
-            "id": "25b436974a97070d",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "03 - Resources/Images bank/Meme/brain won't sleep.jpeg"
-              },
-              "icon": "lucide-image",
-              "title": "brain won't sleep"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -155,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Resources/Images bank/Meme/brain won't sleep.jpeg",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -233,8 +222,19 @@
       "obsidian-importer:Import notes": false
     }
   },
-  "active": "25b436974a97070d",
+  "active": "98758430430d72e6",
   "lastOpenFiles": [
+    "PARA - Hướng dẫn sử dụng.md",
+    "Pasted image 20250705143527.png",
+    "enhanced_cheese_process.png",
+    "Untitled 1.base",
+    "Untitled.base",
+    "README.md",
+    "03 - Resources/Obsidian/Markdown Syntax.md",
+    "05 - Archives/Mastering Markdown.md",
+    "02 - Areas/Health/Skin care products.md",
+    "99 - Extras/Vault Improvement Checklist.md",
+    "03 - Resources/Images bank/Meme/brain won't sleep.jpeg",
     "03 - Resources/Images bank/Meme/62da72eed4da4b0a93c12a58d5f932ee.jpg",
     "03 - Resources/Images bank/Meme/5a511bcd615b78818aad949c035f8218.jpg",
     "03 - Resources/Images bank/Meme/3b95t4.webp",
@@ -242,10 +242,6 @@
     "03 - Resources/Images bank/Meme/1bf5b0a2c4128788c72d2e931689d5f1.jpg",
     "03 - Resources/Images bank/Motivational images/ACB78478-0C9B-4579-8FFA-251C3DE78F26.jpg",
     "03 - Resources/Images bank/Meme/5n5hy9.jpeg",
-    "03 - Resources/Images bank/Meme/Stop-lying-to-my-friend-meme-3.jpg",
-    "03 - Resources/Images bank/Meme/d26e316ae508fc3088adaffbe6abb447.jpg",
-    "03 - Resources/Images bank/Meme/cb7877546f1d40ee232cb6b7b56b6ca0.jpg",
-    "03 - Resources/Images bank/Meme/b5960bde69cb068cec3ed995c45a9b14.jpg",
     "03 - Resources/Images bank/Meme/cat's typing.mp4",
     "05 - Archives/Kitawa/Điều chỉnh Google Analysis trên template Sapo.md",
     "03 - Resources/Images bank/Meme",
@@ -264,23 +260,15 @@
     "03 - Resources/Python/Pasted Images",
     "03 - Resources/FireFox/Pasted Images",
     "03 - Resources/CSS/Pasted Images",
-    "02 - Areas/Health/Skin care products.md",
     "03 - Resources/Conversations/Vinh Giang series/MATCH Framework.md",
     "05 - Archives/Wreflect project/Deploy.md",
     "05 - Archives/Wreflect project",
     "05 - Archives/Career/Interview with company Consortia Group.md",
     "05 - Archives/Learning/Course Progress - Learn Python 3 (Codecademy).md",
     "01 - Projects/Kitawa/Making a chatbot/Untitled.md",
-    "01 - Projects/IELTS/Forecast 3/Writing Forecast band 7.5 quý 3 năm 2026 update lần 4.pdf",
     "01 - Projects/IELTS/Forecast 3/Forecast 3 - Ôn thi.md",
     "02 - Areas/Python Programming/Ongoing Learning.md",
     "01 - Projects/IELTS/IELTS Exam Preparation.md",
-    "02 - Areas/English.md",
-    "01 - Projects/Kitawa/Making a chatbot",
-    "03 - Resources/Terminal/WezTerm Configuration.md",
-    "03 - Resources/Terminal/Terminal Configurations.md",
-    "03 - Resources/Terminal/SSH.md",
-    "03 - Resources/Terminal/Prezto Configuration.md",
     "Untitled.canvas"
   ]
 }
