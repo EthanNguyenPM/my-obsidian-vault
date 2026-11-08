@@ -17,4 +17,4 @@ These shared resources are critical for the definition of a thread. While each p
 
 For example, within a video game process, multiple threads may exist to manage separate services relating to the operation of the game, such as one thread for collecting user inputs and another for producing sounds. As these threads live within the same process, they can easily share information about the game, such as the type of ground the player is walking on. This can be used to affect both the speed the character moves from the input thread as well as the noises created by the sound thread.
 
-![[Pasted image 20241010205241.png]]
+![[03 - Resources/Python/Pasted Images/Pasted image 20241010205241.png]]

@@ -2,7 +2,7 @@
 tags:
   - resources
 ---
-![[Pasted image 20250423125704.png]]
+![[03 - Resources/Ielts/Writing/Task 1/Bar Charts/Pasted Images/Pasted image 20250423125704.png]]
 
 The bar chart compares the proportions of people who visit cinemas on different days of the week in a European country in three separate years: 2003, 2005 and 2007
 

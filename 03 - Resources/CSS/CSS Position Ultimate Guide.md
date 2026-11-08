@@ -15,7 +15,8 @@ Any element that you do not apply a position property to will be `static` which 
 }
 ```
 
-![[Pasted image 20241023135509.png]]
+
+![[Pasted image 20261108202105.png]]
 
 ## Relative Position
 
@@ -27,6 +28,8 @@ The next simplest position type is `relative` position. A `relative` position el
 }
 ```
 
+
+
 ![[Pasted image 20241023135634.png]]
 
 ```css
@@ -37,7 +40,7 @@ The next simplest position type is `relative` position. A `relative` position el
 }
 ```
 
-![[Pasted image 20241023135647.png]]
+![[03 - Resources/CSS/Pasted Images/Pasted image 20241023135647.png]]
 
 From the above example you can see that the one element works just like `static` when there is no extra properties defined. Once you add a property like `left`, or `top`, though, you can see that the element offsets itself relative to its normal position by these `top`, `left`, `right`, and `bottom` properties. You will notice, however, that the other elements do not move to account for the offset position of the `relative` positioned element. This is because all the other elements assume that the `relative` positioned element has no offsets, and they determine their position based on where the `relative` positioned element would have been if it was `static`.
 
@@ -53,7 +56,7 @@ The `absolute` position is the first position that completely removes the elemen
 }
 ```
 
-![[Pasted image 20241023135718.png]]
+![[03 - Resources/CSS/Pasted Images/Pasted image 20241023135718.png]]
 
 As you can see elements two and three are laid out as if element one never even existed. You will also notice that element one no longer fills the full width. This is because `absolute` positioned elements have their width defaulted to `auto` instead of being full width like a div. Also, by default an `absolute` positioned element will place itself in the document where it normally would have rendered if it was a static element, but we can change that with the `top`, `left`, `right`, and `bottom` properties.
 
@@ -65,7 +68,7 @@ As you can see elements two and three are laid out as if element one never even 
 }
 ```
 
-![[Pasted image 20241023135804.png]]
+![[03 - Resources/CSS/Pasted Images/Pasted image 20241023135804.png]]
 
 Now you can see our element has moved to the top left corner of our dashed border. I am using this dashed border to represent the entire screen since by default a position `absolute` element will position itself relative to the body so a `top` and `left` of 0 means the element will appear in the top left corner of the body. You can change the element that the `absolute` positioned element is positioned off of by setting the position of one of its parent elements to anything other than `static`. This is one of the most common places `relative` position is used.
 
@@ -81,7 +84,7 @@ Now you can see our element has moved to the top left corner of our dashed borde
 }
 ```
 
-![[Pasted image 20241023135828.png]]
+![[03 - Resources/CSS/Pasted Images/Pasted image 20241023135828.png]]
 
 By setting the purple parent element to a position of `relative` I am now forcing the `absolute` positioned child one element to be in the top left corner of the parent instead of the body. This combination of `relative` and `absolute` positions is incredibly common.
 
@@ -97,7 +100,7 @@ Now we come to one of the lesser used positions which is the `fixed` position. `
 }
 ```
 
-![[Pasted image 20241023135903.png]]
+![[03 - Resources/CSS/Pasted Images/Pasted image 20241023135903.png]]
 
 As you can see our one element is fixed in the top left corner of our page. You will also notice when you scroll the page that it stays stuck in the top left corner of the page no matter where you scroll to. This is the main difference between `fixed` and `absolute`.
 
@@ -112,7 +115,7 @@ The final position value is `sticky`. This position is a combination of both `fi
 }
 ```
 
-![[Pasted image 20241023135928.png]]
+![[03 - Resources/CSS/Pasted Images/Pasted image 20241023135928.png]]
 
 At first, you will notice that the one element is in its normal position in the document flow as if it were `static`. Once you scroll the page to the point that the top of the one element is 10px from the top of the page it will then stick to the top of the page as if it were position `fixed`. This will last this way all the way until the element gets to the bottom of the purple parent container in which case it will stop scrolling with the page.
 
@@ -134,7 +137,7 @@ Now there is one thing about `fixed` and `absolute` position elements that you n
 }
 ```
 
-![[Pasted image 20241023140022.png]]
+![[03 - Resources/CSS/Pasted Images/Pasted image 20241023140022.png]]
 
 In the above example our purple parent element has a `static` position, but since it has a `transform` set it acts as the container for our `absolute` positioned child.
 
@@ -152,6 +155,6 @@ The same thing works for `fixed` position elements. This also makes the scrollin
 }
 ```
 
-![[Pasted image 20241023140048.png]]
+![[03 - Resources/CSS/Pasted Images/Pasted image 20241023140048.png]]
 
 You will notice even as we scroll our page the `fixed` position element is stuck inside the purple parent container because it has a `transform` property set. This is generally not what you want which is why it is best to always define `fixed` position elements at the top level to avoid this potential bug.

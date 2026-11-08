@@ -2,7 +2,7 @@
 tags:
   - resources
 ---
-![[Pasted image 20250426002737.png]]
+![[03 - Resources/Ielts/Writing/Task 1/Table/Pasted Images/Pasted image 20250426002737.png]]
 
 The table illustrates the percentage of UK residents who expressed interest in six different sports—football, rugby, golf, cricket, judo, and swimming—based on surveys conducted in 1990, 2000, and 2010.
 

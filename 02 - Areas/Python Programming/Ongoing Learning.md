@@ -1,4 +1,4 @@
-This note tracks my ongoing Python learning goals, courses, and topics to explore after completing the Codecademy course.
+This note tracks ongoing Python learning goals and future topics. The Codecademy course is complete (confirmed on 2026-11-08); its historical record is archived.
 
 ## Current Goals
 
@@ -43,3 +43,11 @@ This note tracks my ongoing Python learning goals, courses, and topics to explor
 1. **Completed the Codecademy Python 3 Course** (2024-09-28)
 2. **Solved 10 beginner-level problems on LeetCode** (2024-10-05)
 3. **Built a basic calculator application using Tkinter** (2024-10-15)
+
+## Tài liệu và dự án liên quan
+
+- [[Course Progress - Learn Python 3 (Codecademy)]]
+- [[Bitwise Operator]]
+- [[Introduction to Recursion]]
+- [[Object Oriented Programming]]
+- [[Python Libraries to Learn]]

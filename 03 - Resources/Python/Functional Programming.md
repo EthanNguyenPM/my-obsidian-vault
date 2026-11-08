@@ -63,4 +63,4 @@ Which style a programmer follows might depend on their goals. If you are looking
 
 OOP and procedural programming follow an imperative approach; functional programming follows a declarative approach.
 
-![[Pasted image 20241010004613.png]]
+![[03 - Resources/Python/Pasted Images/Pasted image 20241010004613.png]]

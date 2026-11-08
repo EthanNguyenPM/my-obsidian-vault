@@ -8,7 +8,7 @@ So in this topic, I will cover all the possible solution to tackle this problem
 
 Let's say you committed a change but did a hard reset `git reset --hard HEAD` to a different commit which removed the latest commit from your current branch.
 
-![[Pasted image 20241001145417.png]]
+![[03 - Resources/Github/Pasted Images/Pasted image 20241001145417.png]]
 
 In this case, you can restore the deleted file using `git checkout`
 

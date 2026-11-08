@@ -2,7 +2,7 @@
 tags:
   - resources
 ---
-![[Pasted image 20250425184626.png]]
+![[03 - Resources/Ielts/Writing/Task 1/Table/Pasted Images/Pasted image 20250425184626.png]]
 
 The table compares the proportion of employers in four sectors who experienced difficulty in hiring staff in 2003 and 2004.
 

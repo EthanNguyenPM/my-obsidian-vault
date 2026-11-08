@@ -11,4 +11,4 @@ However, these optimizations come with disadvantages due to the additional compl
 
 The two of the most common examples are data races, where multiple threads attempt to modify the same piece of data, and deadlocks, where multiple threads all attempt to wait for each other and freeze the system. Also, since these bugs are usually related to the tight timing of CPU interactions, the programs can be considered non-deterministic and therefore untestable, compounding the problem.
 
-![[Pasted image 20241010211615.png]]
+![[03 - Resources/Python/Pasted Images/Pasted image 20241010211615.png]]

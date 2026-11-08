@@ -60,7 +60,7 @@ Now that we have some high-level understanding of these concepts, let’s get ba
 - Parallelism needs hardware with multiple processing units, whereas concurrency only utilizes one.
 - Concurrency requires at least two tasks to exist whereas parallelism only requires one.
 - Parallelism assigns each task for a core to execute, whereas concurrency executes all tasks by switching tasks simultaneously.
-- Parallelism means we can do multiple things at once, while concurrency means we can juggle between tasks. ![[Pasted image 20241010161252.png]]These diagrams should remind us of our deli line analogy from before. Think of each processing unit as a register and each task as a line. With one core, we can split up the tasks cleverly to speed up the runtime. With multiple cores, we can run those tasks at the same time.
+- Parallelism means we can do multiple things at once, while concurrency means we can juggle between tasks. ![[03 - Resources/Python/Pasted Images/Pasted image 20241010161252.png]]These diagrams should remind us of our deli line analogy from before. Think of each processing unit as a register and each task as a line. With one core, we can split up the tasks cleverly to speed up the runtime. With multiple cores, we can run those tasks at the same time.
 
 ## Methods in Python
 

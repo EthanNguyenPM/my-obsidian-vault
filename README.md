@@ -10,7 +10,7 @@ The notes are organized into several folders based on different categories and w
 | ---------------- | ------------------------------------------------------------------------------------ |
 | `00 - Inbox`     | This folder is for quick capture of notes and ideas that need to be processed later. |
 | `01 - Projects`  | Contains notes related to ongoing projects, tasks, and goals.                        |
-| `02 - Areas`     | Notes related to different areas of responsibility or interest.                      |
+| `02 - Areas`     | Ongoing responsibilities with standards to maintain over time.                      |
 | `03 - Resources` | A collection of reference materials, articles, and knowledge-based resources.        |
 | `04 - Daily`     | Daily notes, journals, or logs. Includes subfolders for each year and month.         |
 | `05 - Archives`  | Archived notes that are no longer active but kept for reference.                     |
@@ -28,3 +28,6 @@ git clone https://github.com/ThanhTanPM2000/my-obsidian-vault.git
 
 2. **Open the repository with Obsidian App:**
 3. **(Optional) Download [JetBrains Mono](https://www.jetbrains.com/lp/mono/) font in case you haven't had it yet**
+## PARA
+
+Xem [[PARA - Hướng dẫn sử dụng]] để chọn nơi lưu và rà soát dự án.

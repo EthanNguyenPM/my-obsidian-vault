@@ -16,4 +16,4 @@ While these user threads typically operate independently of the kernel, they do 
     
 - **M:N Hybrid threading** to get the best of both of the above solutions: very light and fast threads that can be hardware accelerated as necessary. However, this complex implementation can lead to bugs such as priority inversion where less important tasks are mistakenly prioritized and run first.
 
-![[Pasted image 20241010212131.png]]
+![[03 - Resources/Python/Pasted Images/Pasted image 20241010212131.png]]

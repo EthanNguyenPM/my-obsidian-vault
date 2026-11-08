@@ -20,35 +20,19 @@
             }
           },
           {
-            "id": "4d0f2c12e0797b03",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 - Resources/Ielts/Forecast 3/Writing/Task 1/Table/(Test 22) The table shows the number of people from five European nations living in each other's countries in 2011..md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "(Test 22) The table shows the number of people from five European nations living in each other's countries in 2011."
-            }
-          },
-          {
             "id": "25b436974a97070d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "03 - Resources/Ielts/Forecast 3/Speaking/Person/(Test 2) Describe someone who is really care about the environment.md",
-                "mode": "source",
-                "source": false
+                "file": "03 - Resources/Images bank/Meme/brain won't sleep.jpeg"
               },
-              "icon": "lucide-file",
-              "title": "(Test 2) Describe someone who is really care about the environment"
+              "icon": "lucide-image",
+              "title": "brain won't sleep"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -171,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Resources/Ielts/Forecast 3/Speaking/Person/(Test 2) Describe someone who is really care about the environment.md",
+                "file": "03 - Resources/Images bank/Meme/brain won't sleep.jpeg",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -251,52 +235,52 @@
   },
   "active": "25b436974a97070d",
   "lastOpenFiles": [
-    "03 - Resources/Ielts/Forecast 3/Speaking/Person/(Test 1) Describe a person who successfully achieved something difficult?.md",
-    "03 - Resources/Ielts/Forecast 3/Speaking/Person/(Test 2) Describe someone who is really care about the environment.md",
-    "03 - Resources/Ielts/Forecast 3/Writing/Task 1/Bar/(Test 24) The chart compares the number of people per household by percentage in the UK in 1981 and 2001..md",
-    "03 - Resources/Ielts/Forecast 3/Speaking/Person",
-    "03 - Resources/Ielts/Forecast 3/Speaking",
-    "03 - Resources/Ielts/Forecast 3/Writing/Task 1/Bar/Pasted Images/Pasted image 20261030182133.png",
-    "03 - Resources/Ielts/Forecast 3/Writing/Task 2/Agree to Disagree/(Test 23) Some people think that one of the best ways to solve environmental problems is to increase the cost of fuel for cars and other vehicles. To what extent do you agree or disagree?.md",
-    "03 - Resources/Ielts/Forecast 3/Writing/Task 2/Agree to Disagree/(Test 21) Some countries spend a lot of money preparing competitors to take part in major competitions. Some people say that it's better to spend this money encouraging children to take up sports. To what extent do you agree or disagree?.md",
-    "03 - Resources/Ielts/Forecast 3/Writing/Task 1/Bar/(Test 23) The charts below give information about the world's top three producers for four different dairy products (milk, cheese, butter, milk powder) in the year of 2012..md",
-    "03 - Resources/Ielts/Forecast 3/Writing/Task 1/Bar/Pasted Images/Pasted image 20261028144311.png",
-    "03 - Resources/Ielts/Forecast 3/Writing/Task 2/Two-part questions/(Test 22) In today's world of advanced science and technology, we still greatly value our artists, such as musicians, painters, and writers. Why do you think it is? Are the arts as important in people's lives as technology?.md",
-    "03 - Resources/Ielts/Forecast 3/Writing/Task 1/Table/(Test 22) The table shows the number of people from five European nations living in each other's countries in 2011..md",
-    "03 - Resources/Ielts/Forecast 3/Writing/Task 2/Discuss both views/(Test 15) Some people think that governments should spend more money on sports facilities for top athletes. Others argue that this money should be spent on sports facilities for ordinary people. Discuss both sides and give your own opinion..md",
-    "Codex Vim check temporary.md",
-    "03 - Resources/Ielts/Forecast 3/Writing/Task 1/Table/Pasted Images/Pasted image 20261027154316.png",
-    "03 - Resources/Ielts/Forecast 3/Writing/Task 1/Table/Pasted Images/Pasted image 20261027150000.png",
-    "03 - Resources/Ielts/Forecast 3/Writing/Task 2/Agree to Disagree/(Test 19) Art classes, such as painting and drawing, are as important for children's development as other subjects, so they should be compulsory in high school. Do you agree or disagree?.md",
-    "03 - Resources/Ielts/Forecast 3/Writing/Task 2/Positive and Negative/(Test 17) More people today put their personal and private information online (address, telephone number, credit card number) to do everyday activities such as banking, shopping, and socializing. Is this a positive or negative development?.md",
-    "03 - Resources/Ielts/Forecast 3/Writing/Task 2/Positive and Negative/(Test 12) Some children nowadays take sports seriously, while others play sports in their free time. Is this a positive or negative development?.md",
-    "03 - Resources/Ielts/Forecast 3/Writing/Task 2/Positive and Negative/(Test 20) Nowadays, some parents put a lot of pressure on their children. What is the reason for this? Is this a positive or negative development for the children?.md",
-    "03 - Resources/Ielts/Forecast 3/Writing/Task 2/Agree to Disagree/(Test 9) The availability of entertainment such as video games on handheld devices is harmful to individuals and to the society they live in. To what extent do you agree and disagree?.md",
-    "03 - Resources/Ielts/Forecast 3/Writing/Task 2/Agree to Disagree/(Test 16) In the future, it seems more difficult to live on Earth. Some people think more money should be spent on researching another planet to live on, such as Mars. To what extent do you agree or disagree with this statement?.md",
-    "03 - Resources/Ielts/Forecast 3/Writing/Task 1/Map/(Test 21) he map below shows the changes that have taken place at a zoo in Australia between 1960 and now..md",
-    "03 - Resources/Ielts/Forecast 3/Writing/Task 1/Map/(Test 12) The plans show the room layouts for training sessions for up to ten people and more than ten people..md",
-    "03 - Resources/Ielts/Forecast 3/Writing/Task 1/Map/(Test 15) The plans below show the South Wing of Walton Museum in 2008 and in 2012 after it was redeveloped..md",
-    "03 - Resources/Ielts/Forecast 3/Writing/Task 1/Map/(Test 17) The maps show the changes in Shalton village from 1910 to 2010.md",
-    "03 - Resources/Ielts/Forecast 3/Writing/Task 1/Map/(Test 19) The plans show a student common room from five years ago and now..md",
-    "03 - Resources/Ielts/Forecast 3/Writing/Task 1/Map/Pasted Images/Pasted image 20261026161612.png",
-    "03 - Resources/Ielts/Forecast 3/Writing/Task 1/Map/Pasted Images/Pasted image 20261026160928.png",
-    "03 - Resources/Ielts/Forecast 3/Writing/Task 1/Bar/(Test 20) The chart shows the division of household tasks by gender in Great Britain..md",
-    "03 - Resources/Ielts/Forecast 3/Writing/Task 1/Bar/Pasted Images/Pasted image 20261026121348.png",
-    "03 - Resources/Ielts/Forecast 3/Writing/Task 2/Agree to Disagree/(Test 4) Some people think it is more important to spend money on roads and motorways than on public transport systems such as railways and trams. To what extent do you agree or disagree?.md",
-    "03 - Resources/Ielts/Forecast 3/Writing/Task 1/Pie/(Test 18) The charts below show changes in the proportion of energy produced from different resources in the country in 1985 and 2003..md",
-    "03 - Resources/Ielts/Forecast 3/Writing/Task 1/Map/Pasted Images/Pasted image 20261025132217.png",
-    "03 - Resources/Ielts/Forecast 3/Writing/Task 2/Cause solution/(Test 18) Recent research suggests that the majority of criminals who are sent to prison commit crimes after they are released. Why is this the case? What can be done to solve this problem?.md",
-    "03 - Resources/Ielts/Forecast 3/Writing/Task 1/Pie/Pasted Images/Pasted image 20261024212147.png",
-    "03 - Resources/Ielts/Forecast 3/Writing/Task 1/Pie/Pasted Images",
-    "03 - Resources/Ielts/Forecast 3/Writing/Task 1/Pie",
-    "03 - Resources/Ielts/Forecast 3/Writing/Task 1/Map/(Test 7) The maps below show a beachfront area in Australia in 1950 and today..md",
-    "03 - Resources/Ielts/Forecast 3/Writing/Task 1/Map/Pasted Images/file-f815e37c8a113a31e27bd3a3e31d6533.png",
-    "03 - Resources/Ielts/Forecast 3/Writing/Task 1/Table/Pasted Images",
-    "03 - Resources/Ielts/Forecast 3/Writing/Task 1/Table",
-    "Untitled 1.base",
-    "03 - Resources/Ielts/Forecast 3/Writing/Task 1/Map/Pasted Images",
-    "03 - Resources/Ielts/Forecast 3/Writing/Task 1/Map",
-    "03 - Resources/Ielts/Forecast 3/Writing/Task 2/Positive and Negative",
+    "03 - Resources/Images bank/Meme/62da72eed4da4b0a93c12a58d5f932ee.jpg",
+    "03 - Resources/Images bank/Meme/5a511bcd615b78818aad949c035f8218.jpg",
+    "03 - Resources/Images bank/Meme/3b95t4.webp",
+    "03 - Resources/Images bank/Meme/3 frogs.png",
+    "03 - Resources/Images bank/Meme/1bf5b0a2c4128788c72d2e931689d5f1.jpg",
+    "03 - Resources/Images bank/Motivational images/ACB78478-0C9B-4579-8FFA-251C3DE78F26.jpg",
+    "03 - Resources/Images bank/Meme/5n5hy9.jpeg",
+    "03 - Resources/Images bank/Meme/Stop-lying-to-my-friend-meme-3.jpg",
+    "03 - Resources/Images bank/Meme/d26e316ae508fc3088adaffbe6abb447.jpg",
+    "03 - Resources/Images bank/Meme/cb7877546f1d40ee232cb6b7b56b6ca0.jpg",
+    "03 - Resources/Images bank/Meme/b5960bde69cb068cec3ed995c45a9b14.jpg",
+    "03 - Resources/Images bank/Meme/cat's typing.mp4",
+    "05 - Archives/Kitawa/Điều chỉnh Google Analysis trên template Sapo.md",
+    "03 - Resources/Images bank/Meme",
+    "03 - Resources/Python/Kernel Threads vs User Threads.md",
+    "03 - Resources/Python/Introduction to Recursion.md",
+    "03 - Resources/Python/Functional Programming.md",
+    "03 - Resources/Programming/Automation Tool Backend.md",
+    "03 - Resources/Programming/Useful websites for programing skills.md",
+    "03 - Resources/Macos/Spotlight useless for core apps.md",
+    "03 - Resources/Macos/Bypass \"App is damaged\" error.md",
+    "03 - Resources/FireFox/Speed up Firefox.md",
+    "03 - Resources/Database/Fifth Normal Form.md",
+    "03 - Resources/CSS/CSS Position Ultimate Guide.md",
+    "03 - Resources/Marketing/Pasted Images",
+    "03 - Resources/Github/Pasted Images",
+    "03 - Resources/Python/Pasted Images",
+    "03 - Resources/FireFox/Pasted Images",
+    "03 - Resources/CSS/Pasted Images",
+    "02 - Areas/Health/Skin care products.md",
+    "03 - Resources/Conversations/Vinh Giang series/MATCH Framework.md",
+    "05 - Archives/Wreflect project/Deploy.md",
+    "05 - Archives/Wreflect project",
+    "05 - Archives/Career/Interview with company Consortia Group.md",
+    "05 - Archives/Learning/Course Progress - Learn Python 3 (Codecademy).md",
+    "01 - Projects/Kitawa/Making a chatbot/Untitled.md",
+    "01 - Projects/IELTS/Forecast 3/Writing Forecast band 7.5 quý 3 năm 2026 update lần 4.pdf",
+    "01 - Projects/IELTS/Forecast 3/Forecast 3 - Ôn thi.md",
+    "02 - Areas/Python Programming/Ongoing Learning.md",
+    "01 - Projects/IELTS/IELTS Exam Preparation.md",
+    "02 - Areas/English.md",
+    "01 - Projects/Kitawa/Making a chatbot",
+    "03 - Resources/Terminal/WezTerm Configuration.md",
+    "03 - Resources/Terminal/Terminal Configurations.md",
+    "03 - Resources/Terminal/SSH.md",
+    "03 - Resources/Terminal/Prezto Configuration.md",
     "Untitled.canvas"
   ]
 }

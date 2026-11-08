@@ -15,7 +15,7 @@ tags:
 
 ## Why is WindowServer using so much CPU
 
-![[Pasted image 20240921195155.png]]
+![[03 - Resources/Macos/Pasted Images/Pasted image 20240921195155.png]]
 
 ## How to avoid or reduce WindowServer CPU usage
 
@@ -28,4 +28,4 @@ tags:
 2. Reduce files and folders saved on desktop (why desktop?)
 	- The WindowServer process focuses on visual elements. With this in mind, if you reduce the number of files and folders you store on the Desktop, it may help reduce CPU usage. It works because the WindowServer process now has to redraw fewer elements.
 3. Turn off Spaces for multiple displays
-	- Spaces is kinda like this image below![[Pasted image 20240921195850.png]]
+	- Spaces is kinda like this image below![[03 - Resources/Macos/Pasted Images/Pasted image 20240921195850.png]]

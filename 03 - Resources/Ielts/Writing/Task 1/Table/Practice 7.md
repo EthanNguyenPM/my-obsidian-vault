@@ -2,7 +2,7 @@
 tags:
   - resources
 ---
-![[Pasted image 20250425174745.png]]
+![[03 - Resources/Ielts/Writing/Task 1/Table/Pasted Images/Pasted image 20250425174745.png]]
 
 The table compares the proportion of electricity generated using four different types of fuel in five Asian countries in 2005.
 

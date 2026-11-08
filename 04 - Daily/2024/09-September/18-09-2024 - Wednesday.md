@@ -1,9 +1,9 @@
 ---
-created: 2024-09-18 01:26
+date: 2024-09-18
 ---
 tags:: [[+Daily Notes]]
 
-# Thursday, September 20, 2018
+# Wednesday, September 18, 2024
 
 << [[04 - Daily/2024/09-September/17-09-2024 - Tuesday|Yesterday]] | [[04 - Daily/2024/09-September/19-09-2024 - Thursday|Tomorrow]] >>
 

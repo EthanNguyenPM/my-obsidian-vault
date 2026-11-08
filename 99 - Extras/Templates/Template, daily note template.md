@@ -1,37 +1,37 @@
+<%*
+const noteDay = moment(tp.file.title, ["DD-MM-YYYY - dddd", "YYYY-MM-DD", "YYYY-M-D"], "en", true);
+if (!noteDay.isValid()) throw new Error("Daily note title must contain a supported date.");
+const iso = noteDay.format("YYYY-MM-DD");
+const adjacent = (offset) => "04 - Daily/" + noteDay.clone().add(offset, "days").locale("en").format("YYYY/MM-MMMM/DD-MM-YYYY - dddd");
+tR += `---
+date: ${iso}
 ---
-created: 2024-09-18 01:26
----
-tags:: [[+Daily Notes]]
 
-# <% moment(tp.file.title,'YYYY-MM-DD').format("dddd, MMMM DD, YYYY") %>
+# ${noteDay.clone().locale("en").format("dddd, MMMM DD, YYYY")}
 
-<< [[04 - Daily/<% tp.date.now("YYYY", -1) %>/<% tp.date.now("MM-MMMM", -1) %>/<% tp.date.now("DD-MM-YYYY - dddd", -1) %>|Yesterday]] | [[04 - Daily/<% tp.date.now("YYYY", 1) %>/<% tp.date.now("MM-MMMM", 1) %>/<% tp.date.now("DD-MM-YYYY - dddd", 1) %>|Tomorrow]] >>
+<< [[${adjacent(-1)}|Yesterday]] | [[${adjacent(1)}|Tomorrow]] >>
 
----
-### 📅 Daily Questions
-##### 🌜 Last night, after work, I...
-- 
+## Daily review
 
-##### 🙌 One thing I'm excited about right now is...
-- 
+### What happened today?
 
-##### 🚀 One+ thing I plan to accomplish today is...
+### What went well?
+
+### What needs attention?
+
+### Next action
 - [ ] 
 
-##### 👎 One thing I'm struggling with today is...
-- 
+## Notes
 
----
-# 📝 Notes
-- <% tp.file.cursor() %>
+## Notes created on this day
+\`\`\`dataview
+LIST FROM "" WHERE file.cday = date("${iso}") SORT file.ctime ASC
+\`\`\`
 
----
-### Notes created today
-```dataview
-List FROM "" WHERE file.cday = date("2024-09-18") SORT file.ctime asc
-```
-
-### Notes last touched today
-```dataview
-List FROM "" WHERE file.mday = date("2024-09-18") SORT file.mtime asc
-```
+## Notes last modified on this day
+\`\`\`dataview
+LIST FROM "" WHERE file.mday = date("${iso}") SORT file.mtime ASC
+\`\`\`
+`;
+%>

@@ -1,9 +1,9 @@
 ---
-created: 2024-09-18 01:26
+date: 2024-10-02
 ---
 tags:: [[+Daily Notes]]
 
-# Sunday, October 20, 2002
+# Wednesday, October 02, 2024
 
 << [[04 - Daily/2024/10-October/01-10-2024 - Tuesday|Yesterday]] | [[04 - Daily/2024/10-October/03-10-2024 - Thursday|Tomorrow]] >>
 
@@ -28,10 +28,10 @@ tags:: [[+Daily Notes]]
 ---
 ### Notes created today
 ```dataview
-List FROM "" WHERE file.cday = date("2024-09-18") SORT file.ctime asc
+List FROM "" WHERE file.cday = date("2024-10-02") SORT file.ctime asc
 ```
 
 ### Notes last touched today
 ```dataview
-List FROM "" WHERE file.mday = date("2024-09-18") SORT file.mtime asc
+List FROM "" WHERE file.mday = date("2024-10-02") SORT file.mtime asc
 ```

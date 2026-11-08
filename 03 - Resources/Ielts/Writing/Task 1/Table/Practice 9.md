@@ -3,7 +3,7 @@ tags:
   - resources
 ---
 kk
-![[Pasted image 20250426002521.png]]
+![[03 - Resources/Ielts/Writing/Task 1/Table/Pasted Images/Pasted image 20250426002521.png]]
 
 The table illustrates the cocoa bean production measured in tons in six regions around the world between 1992 and 1998.
 

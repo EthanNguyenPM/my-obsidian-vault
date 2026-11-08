@@ -2,7 +2,7 @@
 tags:
   - resources
 ---
-![[Pasted image 20250424213557.png]]
+![[03 - Resources/Ielts/Writing/Task 1/Bar Charts/Pasted Images/Pasted image 20250424213557.png]]
 
 The line chart illustrates the number of foreigner visiting to the UK for different purpose over a 20-year period from 1989 to 2009.
 

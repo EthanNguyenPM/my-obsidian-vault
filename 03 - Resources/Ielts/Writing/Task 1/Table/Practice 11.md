@@ -2,7 +2,7 @@
 tags:
   - resources
 ---
-![[Pasted image 20250426002904.png]]
+![[03 - Resources/Ielts/Writing/Task 1/Table/Pasted Images/Pasted image 20250426002904.png]]
 
 The table presents data on the number of visitors to the UK between 2003 and 2008, along with their total spending, average expenditure per visit, and average number of nights spent during each visit.
 

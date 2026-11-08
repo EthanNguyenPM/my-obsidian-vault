@@ -2,7 +2,7 @@
 tags:
   - resources
 ---
-![[Pasted image 20250424152154.png]]
+![[03 - Resources/Ielts/Writing/Task 1/Bar Charts/Pasted Images/Pasted image 20250424152154.png]]
 
 The bar chart compares the percentage of people interested in six sports across the UK in three different years: 1995, 2000, and 2005.
 

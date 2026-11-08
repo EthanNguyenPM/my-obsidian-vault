@@ -42,7 +42,7 @@ Here are 10 effective methods to boost the speed of Mozilla Firefox:
 - Firefox can release in-use memory that is no longer needed.
     - Type `about:memory` in the address bar.
     - Under **Free memory**, click **Minimize memory usage**.
-	    ![[Pasted image 20240924152154.png]]
+	    ![[03 - Resources/FireFox/Pasted Images/Pasted image 20240924152154.png]]
 
 ## 4. Enable Hardware Acceleration
 

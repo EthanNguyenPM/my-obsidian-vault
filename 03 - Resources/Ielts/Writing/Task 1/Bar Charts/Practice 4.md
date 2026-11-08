@@ -2,7 +2,7 @@
 tags:
   - resources
 ---
-![[Pasted image 20250424174301.png]]
+![[03 - Resources/Ielts/Writing/Task 1/Bar Charts/Pasted Images/Pasted image 20250424174301.png]]
 
 The bar chart illustrates the number of households in the United States, categorized by annual income, in three specific years 2007, 2011, and 2015.
 

@@ -7,7 +7,7 @@ tags:
 **The diagram below shows the process of making cheese. Summarize the information by selecting and reporting the main features, and make comparisons where relevant.**
 
 
-![[enhanced_cheese_process.png]]
+![[03 - Resources/Ielts/Writing/Task 1/Process/Pasted Images/enhanced_cheese_process.png]]
 ### Response
 
 The diagram illustrates the process of making cheese, detailing the steps from curd formation to the final ripened product.

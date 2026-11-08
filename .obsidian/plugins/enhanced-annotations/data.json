@@ -7,7 +7,18 @@
   "decoration": {
     "autoRegisterLabels": true,
     "styles": {
-      "labels": {},
+      "labels": {
+        "1794144498260": {
+          "label": "toc",
+          "id": "1794144498260",
+          "enableStyle": true,
+          "style": {
+            "color": "#fcea26",
+            "italic": true,
+            "fontWeight": "thin"
+          }
+        }
+      },
       "tag": {
         "style": {
           "fontSize": 10,
