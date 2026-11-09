@@ -2624,6 +2624,10 @@ cnf
 cwj
 cNC
 consolidated
+clearing
+creatures
+const
+cday
 tags
 this
 the
@@ -4709,6 +4713,7 @@ tWb
 tgLo
 tmSR
 tUQ
+throw
 hello
 highlight
 hahahaha
@@ -6382,6 +6387,8 @@ hSG
 hATe
 hWDv
 hzj
+hunting
+habitats
 my
 moment
 modification
@@ -8600,6 +8607,7 @@ mpPS
 mLc
 mej
 mds
+mtime
 name
 night
 now
@@ -10381,6 +10389,7 @@ nrdpT
 nNc
 njH
 nDO
+noteDay
 is
 im
 inside
@@ -12511,6 +12520,9 @@ iZG
 iXL
 iSWs
 invented
+interference
+intervene
+isValid
 Tan
 Thursday
 Tuesday
@@ -16254,6 +16266,8 @@ wkR
 wnZt
 wem
 wch
+waterways
+wildlife
 What
 Wednesday
 Watch
@@ -18080,6 +18094,7 @@ WnYm
 WIr
 Wmi
 WOYN
+WHERE
 become
 board
 bit
@@ -26222,6 +26237,7 @@ sRy
 sLW
 sEY
 sSR
+survive
 xin
 xPhotoshop
 xk
@@ -36611,6 +36627,7 @@ aDt
 aDB
 aSp
 aQfM
+adjacent
 guess
 get
 gUp
@@ -40703,6 +40720,9 @@ dmRX
 dGcQr
 djLh
 dEy
+disappear
+dispersal
+die
 fdsafddafdsaf
 fdsaf
 file
@@ -42694,6 +42714,7 @@ ffgP
 fwN
 fTM
 fWG
+forests
 YYYY
 You
 YouTube
@@ -51360,6 +51381,7 @@ Lht
 LOH
 Ljvi
 LqQ
+LIST
 One
 Obsidian
 Overview
@@ -55335,6 +55357,8 @@ egd
 eqg
 eix
 egO
+extinction
+ensue
 right
 required
 readability
@@ -59464,6 +59488,9 @@ pnC
 pcBp
 pJu
 pKW
+polluting
+predation
+pollination
 Notes
 Nv
 NI
@@ -61185,6 +61212,7 @@ NFn
 NXG
 NmQc
 NjI
+November
 last
 little
 leveraging
@@ -63297,6 +63325,7 @@ lyq
 lpw
 lln
 lQo
+losses
 quote
 quite
 qp
@@ -66800,6 +66829,7 @@ SyQp
 Suf
 SisE
 SmR
+SORT
 January
 JPG
 JPEG
@@ -77339,6 +77369,7 @@ vCL
 vSH
 vzf
 visIK
+vegetation
 Build
 BASB
 BMP
@@ -82152,6 +82183,7 @@ FGC
 FKbr
 Ffn
 FMOR
+FROM
 GIF
 GE
 GZ
@@ -85736,6 +85768,7 @@ EDDm
 EbZ
 EZhQhu
 Exact
+Error
 Use
 Understand
 UN
