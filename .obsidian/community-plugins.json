@@ -7,7 +7,6 @@
   "tag-wrangler",
   "obsidian-importer",
   "obsidian-relative-line-numbers",
-  "obsidian-kanban",
   "templater-obsidian",
   "obsidian-full-calendar",
   "obsidian-annotator",
@@ -25,5 +24,6 @@
   "enhanced-annotations",
   "sidebar-keyboard-navigation",
   "local-pane-navigation",
-  "vim-motions"
+  "vim-motions",
+  "operon"
 ]

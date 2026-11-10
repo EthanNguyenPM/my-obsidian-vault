@@ -34,9 +34,133 @@
               "icon": "lucide-file",
               "title": "Template, project template"
             }
+          },
+          {
+            "id": "7f5747d7dcbb1c0e",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {},
+              "icon": "calendar-glyph",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "fd648b2c8aa275ef",
+            "type": "leaf",
+            "state": {
+              "type": "operon-table-file-view",
+              "state": {
+                "file": "Operon/Tables/Default table.table",
+                "presetId": "table-preset-my-first-table",
+                "searchQuery": "",
+                "scrollTop": 0,
+                "scrollLeft": 0
+              },
+              "icon": "table-2",
+              "title": "Default table"
+            }
+          },
+          {
+            "id": "3c7d11ba94b9a489",
+            "type": "leaf",
+            "state": {
+              "type": "operon-calendar-view",
+              "state": {
+                "forceMobileLayout": false,
+                "presetId": "calendar-preset-10day",
+                "anchorDate": "2026-11-03",
+                "scrollMinutes": 0,
+                "filterSetId": null,
+                "navigationMode": "sidebar",
+                "calendarsOpen": true,
+                "taskPoolOpen": true,
+                "taskPoolMode": "overdue",
+                "finishedTasksOpen": false,
+                "showAllDayLane": true,
+                "showDueMarkers": true,
+                "showInDayLane": true,
+                "showFinishedLane": true,
+                "mobileViewMode": "agenda",
+                "mobileSourcePresetId": "calendar-preset-3day",
+                "mobileAnchorDate": "2026-11-09"
+              },
+              "icon": "calendar",
+              "title": "10 Days"
+            }
+          },
+          {
+            "id": "29593ce106a5bfdc",
+            "type": "leaf",
+            "state": {
+              "type": "operon-calendar-view",
+              "state": {
+                "forceMobileLayout": false,
+                "presetId": "calendar-preset-7day",
+                "anchorDate": "2026-11-09",
+                "scrollMinutes": 480,
+                "filterSetId": null,
+                "navigationMode": "sidebar",
+                "calendarsOpen": true,
+                "taskPoolOpen": true,
+                "taskPoolMode": "overdue",
+                "finishedTasksOpen": false,
+                "showAllDayLane": true,
+                "showDueMarkers": true,
+                "showInDayLane": true,
+                "showFinishedLane": true,
+                "mobileViewMode": "agenda",
+                "mobileSourcePresetId": "calendar-preset-3day",
+                "mobileAnchorDate": "2026-11-09"
+              },
+              "icon": "calendar",
+              "title": "7 Days Multi Week"
+            }
+          },
+          {
+            "id": "37cc0f9c2042f789",
+            "type": "leaf",
+            "state": {
+              "type": "operon-calendar-view",
+              "state": {
+                "forceMobileLayout": false,
+                "presetId": "calendar-preset-3day",
+                "anchorDate": "2026-11-08",
+                "scrollMinutes": 0,
+                "filterSetId": null,
+                "navigationMode": "sidebar",
+                "calendarsOpen": true,
+                "taskPoolOpen": true,
+                "taskPoolMode": "overdue",
+                "finishedTasksOpen": false,
+                "showAllDayLane": true,
+                "showDueMarkers": true,
+                "showInDayLane": true,
+                "showFinishedLane": true,
+                "mobileViewMode": "agenda",
+                "mobileSourcePresetId": "calendar-preset-3day",
+                "mobileAnchorDate": "2026-11-09"
+              },
+              "icon": "calendar",
+              "title": "3 Days"
+            }
+          },
+          {
+            "id": "3de47a5fc75b5db8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Projects/Viết luận chất như nước cất/TCA (Temporal contrast analysis).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TCA (Temporal contrast analysis)"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -70,7 +194,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "complem",
+                "query": "markdown",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -159,7 +283,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "99 - Extras/Templates/Template, project template.md",
+                "file": "01 - Projects/Viết luận chất như nước cất/TCA (Temporal contrast analysis).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -234,57 +358,64 @@
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-importer:Import notes": false
+      "obsidian-importer:Import notes": false,
+      "operon:Create New Operon Task": false,
+      "operon:Operon Filter View": false,
+      "operon:Task Finder": false,
+      "operon:Operon Calendar": false,
+      "operon:Operon Kanban": false,
+      "operon:Operon Table": false,
+      "operon:Open Pinned Tasks": false
     }
   },
-  "active": "795d9a0d6cfff476",
+  "active": "3de47a5fc75b5db8",
   "lastOpenFiles": [
+    "01 - Projects/Viết luận chất như nước cất/CBA (Context-based argument).md",
+    "01 - Projects/Viết luận chất như nước cất/Viết luận chất như nước cất book.pdf",
+    "01 - Projects/Viết luận chất như nước cất/CTA (Characteristic-trait association).md",
+    "01 - Projects/Viết luận chất như nước cất/TCA (Temporal contrast analysis).md",
+    "03 - Resources/Ielts/Writing/Task 2/Temporary/TCA/The internet has revolutionized learning.md",
+    "01 - Projects/Viết luận chất như nước cất/Các phương pháp viết luận trở nên hay hơn.md",
+    "().md",
+    "05 - Archives/Obsidian/Markdown Syntax.md",
+    "01 - Projects/IELTS/Forecast 3/Writing/Task 2/Agree to Disagree/(Test 24) It is a natural process for animal species to become extinct. There is no reason why people should try to prevent this from happening. To what extent do you agree or disagree?.md",
+    "01 - Projects/Viết luận chất như nước cất",
+    "01 - Projects/IELTS/Forecast 3/Writing/Task 1/Process/(Test 2) The process shows the design of a modern landfill for household waste..md",
+    "01 - Projects/Finish the AWS solution architecture associate course/Roadmap for this course.md",
+    "01 - Projects/IELTS/Forecast 3/Writing/Task 1/Process/(Test 10) The diagram below shows how one type of coal is used to produce electricity..md",
+    "01 - Projects/IELTS/Forecast 3/Writing/Task 1/Map/(Test 7) The maps below show a beachfront area in Australia in 1950 and today..md",
+    "01 - Projects/IELTS/Forecast 3/Writing/Task 1/Pie/(Test 18) The charts below show changes in the proportion of energy produced from different resources in the country in 1985 and 2003..md",
+    "01 - Projects/IELTS/Forecast 3/Writing/Task 1/Line/(Test 1) The graph below shows the number of immigrants to three countries from 1990 to 2001..md",
+    "01 - Projects/IELTS/Forecast 3/Writing Forecast band 7.5 quý 3 năm 2026 update lần 4.pdf",
+    "01 - Projects/Finish the AWS solution architecture associate course",
+    "Operon/Tables/Default table.table",
+    "04 - Daily/2026/11-November/11-11-2026 - Wednesday.md",
+    "04 - Daily/2026/11-November/09-11-2026 - Monday.md",
+    "04 - Daily/2026/11-November",
+    "Untitled.canvas",
+    "Operon/Tasks",
+    "Operon/Tables",
+    "Operon",
+    "99 - Extras/Canvas",
+    "Untitled 1.canvas",
+    "03 - Resources/Ielts/Speaking/Part 2/Food.md",
+    "99 - Extras/Templates/Template, project template.md",
     "99 - Extras/Templates/Template, IELTS writing template.md",
     "99 - Extras/Excalidraw/Drawing 2026-11-09 08.09.36.excalidraw.md",
     "03 - Resources/Untitled.md",
     "Excalidraw/Drawing 2026-11-09 08.06.34.excalidraw.md",
-    "99 - Extras/Excalidraw",
     "Excalidraw/Pasted Images/Pasted image 20261109080721.png",
-    "Excalidraw/Pasted Images",
     "02 - Areas/Career/Programming/Python Learning.md",
-    "Excalidraw",
     "99 - Extras/Templates/Template, daily note template.md",
     "04 - Daily/2024/10-October/02-10-2024 - Wednesday.md",
-    "04 - Daily/2026/Untitled.md",
-    "99 - Extras/Templates/Template, IELTS glossary.md",
-    "99 - Extras/Templates/Template, project template.md",
-    "99 - Extras/Templates/Template, resource template.md",
-    "99 - Extras/Templates/Template, area template.md",
-    "README.md",
-    "PARA - Hướng dẫn sử dụng.md",
-    "04 - Daily/2024/11-November/25-11-2024 - Monday.md",
-    "01 - Projects/IELTS/Forecast 3/Writing/Task 2/Agree to Disagree/(Test 24) It is a natural process for animal species to become extinct. There is no reason why people should try to prevent this from happening. To what extent do you agree or disagree?.md",
-    "00 - Inbox/Reading answers - context to confirm.md",
-    "03 - Resources/Programming/Useful websites for programing skills.md",
-    "05 - Archives/Personal projects/Automation tool/Automation Tool Backend.md",
-    "05 - Archives/Personal projects/Automation tool",
-    "05 - Archives/Personal projects",
-    "02 - Areas/English.md",
-    "03 - Resources/Github/Github Workflow Tips.md",
-    "03 - Resources/Github/Download subfolder from Github.md",
     "Pasted image 20250705143527.png",
     "enhanced_cheese_process.png",
-    "Untitled 1.base",
-    "Untitled.base",
-    "05 - Archives/Obsidian/Markdown Syntax.md",
-    "05 - Archives/Mastering Markdown.md",
-    "02 - Areas/Health/Skin care products.md",
-    "99 - Extras/Vault Improvement Checklist.md",
     "03 - Resources/Images bank/Meme/brain won't sleep.jpeg",
     "03 - Resources/Images bank/Meme/62da72eed4da4b0a93c12a58d5f932ee.jpg",
     "03 - Resources/Images bank/Meme/5a511bcd615b78818aad949c035f8218.jpg",
     "03 - Resources/Images bank/Meme/3b95t4.webp",
     "03 - Resources/Images bank/Meme/3 frogs.png",
     "03 - Resources/Images bank/Meme/1bf5b0a2c4128788c72d2e931689d5f1.jpg",
-    "03 - Resources/Images bank/Motivational images/ACB78478-0C9B-4579-8FFA-251C3DE78F26.jpg",
-    "03 - Resources/Images bank/Meme/cat's typing.mp4",
-    "03 - Resources/Images bank/Meme",
-    "03 - Resources/Marketing/Pasted Images",
-    "Untitled.canvas"
+    "03 - Resources/Images bank/Motivational images/ACB78478-0C9B-4579-8FFA-251C3DE78F26.jpg"
   ]
 }

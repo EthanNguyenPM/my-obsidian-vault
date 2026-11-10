@@ -1,0 +1,98 @@
+{
+	"version": 5,
+	"series": {
+		"rsxcvyy": {
+			"seriesId": "rsxcvyy",
+			"sourceTaskId": "j860b9u",
+			"sourceFormat": "inline",
+			"baseTitle": null,
+			"lastMaterializedTitle": "Finish 10 writing tasks in IELTS forecast 3",
+			"naming": {
+				"mode": "plain",
+				"template": "Finish 10 writing tasks in IELTS forecast 3",
+				"weekTokenCase": null
+			},
+			"skipDates": [],
+			"yamlPropertyValueRemovalConfigured": false,
+			"yamlPropertyValueRemovals": [],
+			"baseTemporalTemplate": {
+				"mode": "allDay",
+				"dateShiftDays": 0,
+				"startDateShiftDays": 0,
+				"endDateShiftDays": 0,
+				"startTime": null,
+				"endTime": null,
+				"estimate": null
+			},
+			"inlineCompletionMode": "keep-completed",
+			"createdAt": "2026-11-09T08:19:22",
+			"updatedAt": "2026-11-09T08:19:22",
+			"overrides": {
+				"single": {},
+				"following": []
+			}
+		},
+		"rsvi1vc": {
+			"seriesId": "rsvi1vc",
+			"sourceTaskId": "ckbqkkd",
+			"sourceFormat": "inline",
+			"baseTitle": null,
+			"lastMaterializedTitle": "Pick up my niece and nephew",
+			"naming": {
+				"mode": "plain",
+				"template": "Pick up my niece and nephew",
+				"weekTokenCase": null
+			},
+			"skipDates": [],
+			"yamlPropertyValueRemovalConfigured": false,
+			"yamlPropertyValueRemovals": [],
+			"baseTemporalTemplate": {
+				"mode": "timed",
+				"dateShiftDays": 0,
+				"startDateShiftDays": 0,
+				"endDateShiftDays": 0,
+				"startTime": "16:30:00",
+				"endTime": "17:00:00",
+				"estimate": "1800"
+			},
+			"inlineCompletionMode": "keep-completed",
+			"createdAt": "2026-11-09T08:23:55",
+			"updatedAt": "2026-11-09T08:23:55",
+			"overrides": {
+				"single": {},
+				"following": []
+			}
+		},
+		"rsb7idt": {
+			"seriesId": "rsb7idt",
+			"sourceTaskId": "d06y3k0",
+			"sourceFormat": "inline",
+			"baseTitle": null,
+			"lastMaterializedTitle": "Take my niece to ILA class",
+			"naming": {
+				"mode": "plain",
+				"template": "Take my niece to ILA class",
+				"weekTokenCase": null
+			},
+			"skipDates": [],
+			"yamlPropertyValueRemovalConfigured": false,
+			"yamlPropertyValueRemovals": [],
+			"baseTemporalTemplate": {
+				"mode": "timed",
+				"dateShiftDays": 0,
+				"startDateShiftDays": 0,
+				"endDateShiftDays": 0,
+				"startTime": "17:30:00",
+				"endTime": "18:00:00",
+				"estimate": "1800"
+			},
+			"inlineCompletionMode": "keep-completed",
+			"createdAt": "2026-11-09T08:26:18",
+			"updatedAt": "2026-11-09T08:26:18",
+			"overrides": {
+				"single": {},
+				"following": []
+			}
+		}
+	}
+}
