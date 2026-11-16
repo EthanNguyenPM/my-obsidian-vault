@@ -11,12 +11,14 @@
             "id": "3de47a5fc75b5db8",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "01 - Projects/IELTS/Forecast 3/Writing Forecast band 7.5 quý 3 năm 2026 update lần 4.pdf"
+                "file": "01 - Projects/IELTS/Forecast 3/Writing/Task 1/Process/(Test 26) The diagram below shows the process of producing smoked fish..md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Writing Forecast band 7.5 quý 3 năm 2026 update lần 4"
+              "icon": "lucide-file",
+              "title": "(Test 26) The diagram below shows the process of producing smoked fish."
             }
           },
           {
@@ -32,9 +34,22 @@
               "icon": "lucide-file",
               "title": "CBA (Context-based argument)"
             }
+          },
+          {
+            "id": "e7455ee6ac656e0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Projects/IELTS/Forecast 3/Writing/Task 2/Advantage Disadvantage/(Test 25) Some people think that certain old buildings are more worth preserving than the other ones. Which types of old buildings should be preserved? Do you think that the advantages of preserving these old buildings outweigh the disadvantages?.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "(Test 25) Some people think that certain old buildings are more worth preserving than the other ones. Which types of old buildings should be preserved? Do you think that the advantages of preserving these old buildings outweigh the disadvantages?"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - Projects/Viết luận chất như nước cất/CBA (Context-based argument).md",
+                "file": "01 - Projects/IELTS/Forecast 3/Writing/Task 1/Process/(Test 26) The diagram below shows the process of producing smoked fish..md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -242,12 +257,19 @@
       "operon:Open Pinned Tasks": false
     }
   },
-  "active": "b581565fe195a175",
+  "active": "3de47a5fc75b5db8",
   "lastOpenFiles": [
+    "01 - Projects/IELTS/Forecast 3/Writing/Task 1/Process/(Test 2) The process shows the design of a modern landfill for household waste..md",
+    "01 - Projects/IELTS/Forecast 3/Writing/Task 1/Process/(Test 26) The diagram below shows the process of producing smoked fish..md",
+    "01 - Projects/IELTS/Forecast 3/Writing/Task 1/Process/(Test 10) The diagram below shows how one type of coal is used to produce electricity..md",
+    "01 - Projects/IELTS/Forecast 3/Writing/Task 1/Process/(Test 16) The diagram below describes the structure of a home smokery and how it works..md",
+    "01 - Projects/IELTS/Forecast 3/Writing/Task 1/Process/(Test 13) The diagram below shows how a simple water filter is constructed and how it functions to produce clean drinking water..md",
+    "01 - Projects/IELTS/Forecast 3/Writing/Task 1/Process/Pasted Images/Pasted image 20261116140512.png",
+    "01 - Projects/IELTS/Forecast 3/Writing Forecast band 7.5 quý 3 năm 2026 update lần 4.pdf",
+    "01 - Projects/IELTS/Forecast 3/Writing/Task 2/Advantage Disadvantage/(Test 25) Some people think that certain old buildings are more worth preserving than the other ones. Which types of old buildings should be preserved? Do you think that the advantages of preserving these old buildings outweigh the disadvantages?.md",
+    "01 - Projects/Viết luận chất như nước cất/CBA (Context-based argument).md",
     "01 - Projects/Viết luận chất như nước cất/Các phương pháp viết luận trở nên hay hơn.md",
     "Operon/Tables/Default table.table",
-    "01 - Projects/IELTS/Forecast 3/Writing/Task 2/Advantage Disadvantage/(Test 25) Some people think that certain old buildings are more worth preserving than the other ones. Which types of old buildings should be preserved? Do you think that the advantages of preserving these old buildings outweigh the disadvantages?.md",
-    "01 - Projects/IELTS/Forecast 3/Writing Forecast band 7.5 quý 3 năm 2026 update lần 4.pdf",
     "01 - Projects/IELTS/Forecast 3/Writing/Task 1/Bar/(Test 25) The charts below give information on the ages of people when they got married in one particular country in 1996 and 2008..md",
     "01 - Projects/IELTS/Forecast 3/Writing/Task 1/Bar/(Test 14) The charts below show the average age of men and women who retired from work in seven countries in 2004 and 2008..md",
     "01 - Projects/IELTS/Forecast 3/Writing/Task 1/Bar/(Test 9) The charts below show the percentage of food and goods bought from supermarkets in European countries in 1998 and 2008.md",
@@ -260,21 +282,16 @@
     "02 - Areas/Career/Programming/Python Learning.md",
     "01 - Projects/IELTS/Forecast 3/Writing/Task 2/Agree to Disagree/(Test 24) It is a natural process for animal species to become extinct. There is no reason why people should try to prevent this from happening. To what extent do you agree or disagree?.md",
     "01 - Projects/Viết luận chất như nước cất/TCA (Temporal contrast analysis).md",
-    "01 - Projects/Viết luận chất như nước cất/CBA (Context-based argument).md",
     "01 - Projects/Viết luận chất như nước cất/Viết luận chất như nước cất book.pdf",
     "01 - Projects/Viết luận chất như nước cất/CTA (Characteristic-trait association).md",
     "03 - Resources/Ielts/Writing/Task 2/Temporary/TCA/The internet has revolutionized learning.md",
     "().md",
     "05 - Archives/Obsidian/Markdown Syntax.md",
     "01 - Projects/Viết luận chất như nước cất",
-    "01 - Projects/IELTS/Forecast 3/Writing/Task 1/Process/(Test 2) The process shows the design of a modern landfill for household waste..md",
     "01 - Projects/Finish the AWS solution architecture associate course/Roadmap for this course.md",
-    "01 - Projects/IELTS/Forecast 3/Writing/Task 1/Process/(Test 10) The diagram below shows how one type of coal is used to produce electricity..md",
     "01 - Projects/IELTS/Forecast 3/Writing/Task 1/Map/(Test 7) The maps below show a beachfront area in Australia in 1950 and today..md",
     "01 - Projects/IELTS/Forecast 3/Writing/Task 1/Pie/(Test 18) The charts below show changes in the proportion of energy produced from different resources in the country in 1985 and 2003..md",
-    "01 - Projects/IELTS/Forecast 3/Writing/Task 1/Line/(Test 1) The graph below shows the number of immigrants to three countries from 1990 to 2001..md",
     "01 - Projects/Finish the AWS solution architecture associate course",
-    "04 - Daily/2026/11-November/11-11-2026 - Wednesday.md",
     "04 - Daily/2026/11-November",
     "Untitled.canvas",
     "Operon/Tasks",
@@ -289,7 +306,6 @@
     "03 - Resources/Images bank/Meme/62da72eed4da4b0a93c12a58d5f932ee.jpg",
     "03 - Resources/Images bank/Meme/5a511bcd615b78818aad949c035f8218.jpg",
     "03 - Resources/Images bank/Meme/3b95t4.webp",
-    "03 - Resources/Images bank/Meme/3 frogs.png",
-    "03 - Resources/Images bank/Meme/1bf5b0a2c4128788c72d2e931689d5f1.jpg"
+    "03 - Resources/Images bank/Meme/3 frogs.png"
   ]
 }
