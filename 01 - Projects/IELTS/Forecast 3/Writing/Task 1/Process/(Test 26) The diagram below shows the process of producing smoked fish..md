@@ -1,15 +1,13 @@
 ![[Pasted image 20261116140512.png]]
 
-The diagram details the steps in the production of smoked fish.
+The diagram illustrates the linear process by which smoked fish are produced, spanning from initial catch to retail distribution.
 
-Overall, the process of making smoked fish involves initial catch to final retail distribution 
+Overall, this multi-stage procedure commences with harvesting fish from the ocean and culminates in the delivery of the finished products to specialized shops. A notable feature of this process is that the caught fish undergo freezing twice: once after landing at the port and again following the smoking and packaging phases.
 
-To begin with, fish are caught with a net, then carried by boat to port. From there, they are preserved in freeze and then released in fresh water 
+In the initial stages, the fish are caught in nets and transported via fishing vessels to a port. Upon arrival ashore, the catch is promptly frozen to maintain freshness. Once the fish are ready for processing, they are thawed in fresh water before being sliced open. Subsequently, the prepared fish are immersed in a brine solution containing yellow food coloring.
 
-The diagram illustrates how smoked fish is produced, from the initial catch to the sale of the finished product in fish shops.
+Following this soaking phase, the fish are transferred to a smoker. After the smoking process is completed, the products are boxed and subjected to a second freezing stage at 0 celsius. Finally, the packaged goods are kept in cold storage until transported by refrigerated trucks to fishmongers for commercial sale.
 
-Overall, the process begins with fish being caught at sea and ends with the packaged product being delivered to retailers. The fish are frozen at two points: first after they are brought ashore and again after they have been smoked and packed.
 
-First, the fish are caught in nets and transported by boat to a port. After being brought ashore, the catch is frozen. When the fish are ready to be processed, they are thawed in fresh water and then cut open. Next, they are placed in a container of salt water to which yellow colouring has been added.
 
-Following this treatment, the fish are transferred to a smoker. Once smoked, they are packed into boxes and frozen again at 0°C, as indicated in the diagram. The boxes are then placed in cold storage before being transported by truck to fish shops, where the finished product is sold.
+
