@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "f24afca5da1fad54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dark l and r sound.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "dark l and r sound"
+            }
+          },
+          {
             "id": "e7455ee6ac656e0b",
             "type": "leaf",
             "state": {
@@ -35,7 +49,8 @@
               "title": "(Test 25) Some people think that certain old buildings are more worth preserving than the other ones. Which types of old buildings should be preserved? Do you think that the advantages of preserving these old buildings outweigh the disadvantages?"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - Projects/IELTS/Forecast 3/Writing/Task 1/Table/(Test 27) The table below shows information about spending on health in five different countries in 2002..md",
+                "file": "dark l and r sound.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - Projects/IELTS/Forecast 3/Writing/Task 1/Table/(Test 27) The table below shows information about spending on health in five different countries in 2002..md",
+                "file": "dark l and r sound.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -158,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - Projects/IELTS/Forecast 3/Writing/Task 1/Table/(Test 27) The table below shows information about spending on health in five different countries in 2002..md",
+                "file": "dark l and r sound.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -243,11 +258,15 @@
       "operon:Open Pinned Tasks": false
     }
   },
-  "active": "b581565fe195a175",
+  "active": "f24afca5da1fad54",
   "lastOpenFiles": [
+    "Pasted Images/Pasted image 20261119140618.png",
+    "Pasted Images/Pasted image 20261119140103.png",
+    "Pasted Images",
+    "01 - Projects/IELTS/Forecast 3/Writing/Task 1/Table/(Test 27) The table below shows information about spending on health in five different countries in 2002..md",
+    "dark l and r sound.md",
     "01 - Projects/IELTS/Forecast 3/Writing/Task 1/Table/Pasted Images/Pasted image 20261117222621.png",
     "01 - Projects/IELTS/Forecast 3/Writing/Task 2/Agree to Disagree/(Test 26) Nowadays, celebrities are more famous for their glamour and wealth than for their achievements, and this is a bad example for adolescents. To what extent do you agree or disagree?.md",
-    "01 - Projects/IELTS/Forecast 3/Writing/Task 1/Table/(Test 27) The table below shows information about spending on health in five different countries in 2002..md",
     "01 - Projects/IELTS/Forecast 3/Writing/Task 1/Process/(Test 26) The diagram below shows the process of producing smoked fish..md",
     "01 - Projects/Viết luận chất như nước cất/CBA (Context-based argument).md",
     "01 - Projects/IELTS/Forecast 3/Writing/Task 1/Process/test.md",
@@ -275,7 +294,6 @@
     "01 - Projects/Viết luận chất như nước cất/Viết luận chất như nước cất book.pdf",
     "01 - Projects/Viết luận chất như nước cất/CTA (Characteristic-trait association).md",
     "03 - Resources/Ielts/Writing/Task 2/Temporary/TCA/The internet has revolutionized learning.md",
-    "().md",
     "01 - Projects/Viết luận chất như nước cất",
     "01 - Projects/Finish the AWS solution architecture associate course",
     "04 - Daily/2026/11-November",
@@ -283,15 +301,12 @@
     "Operon/Tasks",
     "Operon/Tables",
     "Operon",
-    "99 - Extras/Canvas",
     "Untitled 1.canvas",
     "Excalidraw/Pasted Images/Pasted image 20261109080721.png",
     "Pasted image 20250705143527.png",
     "enhanced_cheese_process.png",
     "03 - Resources/Images bank/Meme/brain won't sleep.jpeg",
     "03 - Resources/Images bank/Meme/62da72eed4da4b0a93c12a58d5f932ee.jpg",
-    "03 - Resources/Images bank/Meme/5a511bcd615b78818aad949c035f8218.jpg",
-    "03 - Resources/Images bank/Meme/3b95t4.webp",
-    "03 - Resources/Images bank/Meme/3 frogs.png"
+    "03 - Resources/Images bank/Meme/5a511bcd615b78818aad949c035f8218.jpg"
   ]
 }
