@@ -6,5 +6,6 @@
     "status-bar-item"
   ],
   "translucency": false,
-  "theme": "moonstone"
+  "theme": "moonstone",
+  "showRibbon": true
 }
